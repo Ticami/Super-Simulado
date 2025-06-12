@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Simulado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="startScreen">
+        <h1>Super Simulado</h1>
+        <h2>Escolha a matéria para estudar:</h2>
+        <div id="subject-selection" class="button-container">
+            </div>
+        <p id="loading-message">Carregando matérias...</p>
+    </div>
+
+    <div id="quizArea" class="quiz-container" style="display:none;">
+        <h2 id="quiz-subject-title"></h2>
+        <div id="timer">Tempo Restante: --:--:--</div>
+        <form id="quizForm">
+            </form>
+        <div class="button-container">
+            <button type="button" id="submitButton" class="action-button">Finalizar Prova</button>
+        </div>
+        <div id="results" style="display:none;">
+            <h2>Resultados</h2>
+            <p id="score"></p>
+            <p id="overallFeedback"></p>
+            <div class="button-container">
+                <button type="button" id="retryButton" class="action-button" style="display:none;">Refazer Prova</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="quiz.js"></script>
+
+</body>
+</html>

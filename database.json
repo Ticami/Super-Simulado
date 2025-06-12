@@ -1,0 +1,1727 @@
+{
+  "Fisioterapia Neurofuncional": [
+    {
+        "question": "Qual é a função principal dos dendritos em um neurônio?",
+        "options": [
+            "A) Transmitir impulsos nervosos para outros neurônios ou células efetoras.",
+            "B) Produzir energia para o metabolismo celular.",
+            "C) Receber estímulos e sinais de outros neurônios.",
+            "D) Sintetizar proteínas e neurotransmissores.",
+            "E) Formar a bainha de mielina ao redor do axônio."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A sinapse é a junção especializada onde um neurônio se comunica com outro. Qual evento ocorre primariamente na fenda sináptica?",
+        "options": [
+            "A) Condução saltatória do potencial de ação.",
+            "B) Síntese de ATP para energia neuronal.",
+            "C) Difusão de neurotransmissores que se ligam a receptores na membrana pós-sináptica.",
+            "D) Replicação do material genético do neurônio.",
+            "E) Fagocitose de detritos celulares pelas células da glia."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O cerebelo é dividido funcionalmente em três partes principais. Qual delas está mais associada ao planejamento e programação de movimentos voluntários complexos e à correção de erros em tempo real, especialmente dos membros?",
+        "options": [
+            "A) Arquicerebelo (Vestibulocerebelo - Lobo flóculo-nodular).",
+            "B) Paleocerebelo (Espinocerebelo - Vérmis e zona paravermal).",
+            "C) Neocerebelo (Cerebrocerebelo - Hemisférios laterais).",
+            "D) Núcleo denteado exclusivamente.",
+            "E) Pedúnculos cerebelares superiores exclusivamente."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Um paciente com lesão no vérmis cerebelar (parte do espinocerebelo) provavelmente apresentaria qual dos seguintes déficits predominantemente?",
+        "options": [
+            "A) Ataxia apendicular (incoordenação dos membros).",
+            "B) Dismetria ocular e nistagmo.",
+            "C) Ataxia de tronco e marcha, com desequilíbrio e base alargada.",
+            "D) Dificuldade no aprendizado motor de novas tarefas.",
+            "E) Apraxia ideomotora."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual dos seguintes sistemas sensoriais NÃO é um componente primário para a manutenção do equilíbrio postural?",
+        "options": [
+            "A) Sistema visual.",
+            "B) Sistema vestibular.",
+            "C) Sistema somatossensorial (propriocepção e tato plantar).",
+            "D) Sistema auditivo (para tons de referência).",
+            "E) Todos os listados são componentes primários."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "O Teste de Romberg avalia a integridade de quais vias neurológicas relacionadas ao equilíbrio?",
+        "options": [
+            "A) Vias visuais e cerebelares.",
+            "B) Vias proprioceptivas (colunas dorsais da medula espinhal) e, secundariamente, a função vestibular e cerebelar.",
+            "C) Vias motoras corticoespinhais.",
+            "D) Apenas a função do sistema vestibular.",
+            "E) Apenas a força dos músculos posturais."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A diadococinesia é a capacidade de realizar movimentos alternados rápidos e coordenados. A dificuldade ou incapacidade de realizar esses movimentos (disdiadococinesia ou adiadococinesia) é um sinal clássico de disfunção em qual estrutura?",
+        "options": [
+            "A) Gânglios da base.",
+            "B) Cerebelo.",
+            "C) Córtex motor primário.",
+            "D) Medula espinhal (tratos espinotalâmicos).",
+            "E) Nervos periféricos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o papel principal do núcleo denteado do cerebelo?",
+        "options": [
+            "A) Regular o equilíbrio e os movimentos oculares.",
+            "B) Modular o tônus muscular e a postura.",
+            "C) Participar no planejamento, iniciação e controle temporal de movimentos voluntários, especialmente os aprendidos e habilidosos.",
+            "D) Processar informações auditivas para a coordenação.",
+            "E) Controlar reflexos autonômicos."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Os canais semicirculares do sistema vestibular são responsáveis por detectar qual tipo de movimento da cabeça?",
+        "options": [
+            "A) Aceleração linear horizontal (ex: movimento para frente).",
+            "B) Aceleração linear vertical (ex: movimento de um elevador).",
+            "C) Posição estática da cabeça em relação à gravidade.",
+            "D) Aceleração angular (rotações da cabeça).",
+            "E) Vibrações sonoras de baixa frequência."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A 'ataxia sensorial' ocorre devido à perda de qual tipo de aferência sensorial, levando à incoordenação e desequilíbrio, especialmente com os olhos fechados?",
+        "options": [
+            "A) Perda da visão.",
+            "B) Disfunção do sistema vestibular.",
+            "C) Perda da propriocepção (sentido de posição e movimento das articulações).",
+            "D) Perda da audição.",
+            "E) Perda do olfato."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual neurotransmissor está primariamente deficiente na Doença de Parkinson, levando aos principais sintomas motores?",
+        "options": [
+            "A) Serotonina",
+            "B) Acetilcolina",
+            "C) Dopamina",
+            "D) Noradrenalina",
+            "E) GABA"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Além da bradicinesia, tremor de repouso e rigidez, qual é o quarto sintoma motor cardinal frequentemente incluído na Doença de Parkinson?",
+        "options": [
+            "A) Ataxia",
+            "B) Espasticidade",
+            "C) Instabilidade postural",
+            "D) Coreia",
+            "E) Distonia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A rigidez na Doença de Parkinson é classicamente descrita como 'rigidez em roda denteada'. O que isso significa?",
+        "options": [
+            "A) Resistência uniforme e constante ao movimento passivo.",
+            "B) Aumento da resistência apenas no início do movimento.",
+            "C) Resistência que cede subitamente após um certo ponto (fenômeno do canivete).",
+            "D) Resistência intermitente, 'em saltos', ao movimento passivo, muitas vezes sobreposta ao tremor.",
+            "E) Resistência dependente da velocidade do movimento."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual escala é comumente utilizada para estadiar a progressão da Doença de Parkinson, baseando-se em sinais e sintomas clínicos?",
+        "options": [
+            "A) Escala de Ashworth Modificada",
+            "B) Escala de Glasgow",
+            "C) Escala de Hoehn e Yahr",
+            "D) Escala de Berg",
+            "E) Mini Exame do Estado Mental (MEEM)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "As estratégias de 'pistas' (cueing) na fisioterapia para Doença de Parkinson são usadas para auxiliar principalmente qual aspecto motor?",
+        "options": [
+            "A) Reduzir o tremor de repouso.",
+            "B) Melhorar a força muscular.",
+            "C) Facilitar a iniciação do movimento, melhorar o ritmo e a amplitude da marcha (combatendo o freezing e a festinação).",
+            "D) Aumentar a flexibilidade articular.",
+            "E) Diminuir a rigidez axial."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual o objetivo principal dos exercícios de grande amplitude (como o LSVT BIG®) na Doença de Parkinson?",
+        "options": [
+            "A) Promover relaxamento muscular.",
+            "B) Melhorar a capacidade cardiovascular.",
+            "C) Recalibrar a percepção do paciente sobre a amplitude normal do movimento, combatendo a hipocinesia e melhorando a funcionalidade.",
+            "D) Aumentar a espasticidade para dar mais suporte.",
+            "E) Reduzir a discinesia."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 'marcha festinada' em pacientes com Doença de Parkinson é caracterizada por:",
+        "options": [
+            "A) Passos largos e lentos, com boa estabilidade.",
+            "B) Passos progressivamente mais rápidos e curtos, com o tronco inclinado para frente, como se o paciente estivesse 'correndo atrás do seu centro de gravidade'.",
+            "C) Dificuldade em levantar os pés do chão, arrastando-os.",
+            "D) Movimentos laterais excessivos do tronco.",
+            "E) Congelamento súbito a cada poucos passos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sintomas não motores como depressão, constipação e distúrbios do sono são comuns na Doença de Parkinson. Por que é importante o fisioterapeuta estar ciente deles?",
+        "options": [
+            "A) Apenas para encaminhar ao médico, pois não afetam a fisioterapia.",
+            "B) Porque a fisioterapia pode tratar diretamente todos esses sintomas.",
+            "C) Porque esses sintomas podem afetar a motivação, a participação, a tolerância ao exercício e a qualidade de vida do paciente, necessitando de uma abordagem multidisciplinar.",
+            "D) Apenas para documentação no prontuário.",
+            "E) Para prescrever suplementos alimentares."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 'micrografia' é um sintoma frequentemente observado na Doença de Parkinson. O que ela descreve?",
+        "options": [
+            "A) Dificuldade em ler letras pequenas.",
+            "B) A tendência da caligrafia se tornar progressivamente menor e mais apertada.",
+            "C) Fala com volume muito baixo.",
+            "D) Perda da capacidade de reconhecer rostos.",
+            "E) Movimentos pequenos e hesitantes dos pés."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual o papel da fisioterapia aquática (hidroterapia) para pacientes com Doença de Parkinson?",
+        "options": [
+            "A) É contraindicada devido ao risco de quedas.",
+            "B) Pode auxiliar na melhora do equilíbrio, mobilidade, redução da rigidez e promoção do relaxamento devido às propriedades da água (flutuação, viscosidade, pressão hidrostática).",
+            "C) Serve apenas para recreação, sem benefícios terapêuticos significativos.",
+            "D) É usada exclusivamente para fortalecer os músculos respiratórios.",
+            "E) Aumenta o tremor de repouso."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A Síndrome de Guillain-Barré (SGB) é tipicamente caracterizada por qual padrão de progressão da fraqueza muscular?",
+        "options": [
+            "A) Fraqueza descendente, começando nos membros superiores e progredindo para os inferiores.",
+            "B) Fraqueza assimétrica e focal, afetando apenas um membro.",
+            "C) Fraqueza rapidamente progressiva e geralmente simétrica, com um padrão ascendente (começando nos membros inferiores e subindo).",
+            "D) Fraqueza muscular que flutua ao longo do dia, piorando com o esforço.",
+            "E) Fraqueza crônica e lentamente progressiva ao longo de anos."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Na fase aguda da SGB, com paralisia progressiva, qual é uma das principais prioridades da fisioterapia?",
+        "options": [
+            "A) Fortalecimento muscular intensivo para evitar a progressão da fraqueza.",
+            "B) Treino de marcha imediato, mesmo com suporte.",
+            "C) Prevenção de complicações da imobilidade (contraturas, úlceras de pressão), manejo da dor, fisioterapia respiratória e manutenção da amplitude de movimento passiva.",
+            "D) Estimulação elétrica neuromuscular de alta intensidade.",
+            "E) Alongamentos balísticos para todos os membros."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A fadiga é um sintoma residual comum e debilitante após a SGB. Qual abordagem fisioterapêutica é recomendada para manejar a fadiga?",
+        "options": [
+            "A) Repouso absoluto prolongado até que a fadiga desapareça completamente.",
+            "B) Programa de exercícios de alta intensidade para 'superar' a fadiga.",
+            "C) Educação sobre conservação de energia, exercícios aeróbicos e de fortalecimento graduados e individualizados, respeitando os limites do paciente, e manejo do estresse.",
+            "D) Uso de estimulantes para aumentar os níveis de energia.",
+            "E) Ignorar a fadiga e focar apenas na recuperação da força."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Durante a fase de recuperação da SGB, quando a força muscular começa a retornar, qual é o cuidado essencial em relação ao fortalecimento muscular?",
+        "options": [
+            "A) Iniciar com exercícios de resistência máxima para acelerar os ganhos.",
+            "B) Fortalecer apenas os músculos que não foram afetados.",
+            "C) Evitar o 'overuse' (sobrecarga muscular), pois músculos recém-reinervados são suscetíveis à fadiga e podem ter a recuperação retardada por exercício excessivo. A progressão deve ser lenta e gradual.",
+            "D) Utilizar apenas contrações isométricas.",
+            "E) Priorizar exercícios excêntricos de alta carga."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A dor neuropática pode ser um sintoma persistente na SGB. Além do tratamento médico, qual abordagem fisioterapêutica pode auxiliar no manejo dessa dor?",
+        "options": [
+            "A) Aplicação de calor profundo e intenso sobre as áreas dolorosas.",
+            "B) Imobilização total das áreas afetadas.",
+            "C) TENS (Estimulação Elétrica Nervosa Transcutânea), dessensibilização tátil, e técnicas de relaxamento e mobilização neural suave.",
+            "D) Exercícios de fortalecimento com carga elevada na área da dor.",
+            "E) Massagem vigorosa e profunda."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a causa mais comum de neuropatia periférica no mundo?",
+        "options": [
+            "A) Deficiências vitamínicas (ex: B12).",
+            "B) Diabetes Mellitus.",
+            "C) Infecções virais (ex: HIV, Herpes Zoster).",
+            "D) Exposição a toxinas (ex: álcool, quimioterápicos).",
+            "E) Doenças autoimunes (ex: Síndrome de Guillain-Barré)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A neuropatia periférica diabética frequentemente se manifesta com um padrão de perda sensorial 'em bota e luva'. O que isso significa?",
+        "options": [
+            "A) Perda sensorial que afeta apenas as mãos e os pés simultaneamente desde o início.",
+            "B) Perda sensorial que começa nas porções mais distais dos membros (pés e mãos) e progride proximalmente de forma simétrica.",
+            "C) Perda sensorial apenas em um lado do corpo, na mão e no pé.",
+            "D) Perda sensorial em formato de faixas ao redor dos membros.",
+            "E) Perda sensorial que afeta apenas a sensibilidade térmica."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é um dos principais focos da fisioterapia na prevenção de úlceras e amputações em pacientes com neuropatia periférica diabética e perda de sensibilidade protetora nos pés?",
+        "options": [
+            "A) Fortalecimento intensivo dos músculos intrínsecos dos pés.",
+            "B) Uso contínuo de calçados apertados para melhorar a propriocepção.",
+            "C) Educação sobre autocuidados com os pés (inspeção diária, higiene, hidratação), orientação sobre calçados adequados, e avaliação regular da sensibilidade e integridade da pele.",
+            "D) Aplicação de calor local para melhorar a circulação.",
+            "E) Caminhar descalço em diferentes texturas para estimular a sensibilidade."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A fraqueza muscular distal, como o 'pé caído' (incapacidade de realizar dorsiflexão do tornozelo), pode ser um sintoma de neuropatia periférica afetando qual nervo principal?",
+        "options": [
+            "A) Nervo tibial.",
+            "B) Nervo femoral.",
+            "C) Nervo fibular comum (ou peroneal).",
+            "D) Nervo ciático (em sua totalidade).",
+            "E) Nervo obturatório."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Além dos exercícios, qual outra abordagem é fundamental na fisioterapia para pacientes com neuropatia periférica que apresentam dor neuropática e alterações de sensibilidade?",
+        "options": [
+            "A) Ignorar a dor e focar apenas na força.",
+            "B) Técnicas de dessensibilização, TENS, educação sobre manejo da dor, e estratégias para compensar déficits sensoriais e prevenir quedas.",
+            "C) Imobilização prolongada para evitar estímulos dolorosos.",
+            "D) Uso exclusivo de massagem com gelo.",
+            "E) Exposição a temperaturas extremas para 'acordar' os nervos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Uma lesão medular em nível C5 geralmente resulta em qual capacidade funcional preservada nos membros superiores, crucial para atividades como tocar cadeira de rodas ou se alimentar com adaptações?",
+        "options": [
+            "A) Função completa da mão, incluindo preensão fina.",
+            "B) Extensão do cotovelo, pronação e supinação do antebraço.",
+            "C) Flexão do cotovelo (devido ao bíceps e braquial), abdução e rotação externa do ombro.",
+            "D) Controle completo do tronco e membros inferiores.",
+            "E) Nenhuma função em membros superiores."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é o 'choque medular' que ocorre imediatamente após uma lesão medular aguda?",
+        "options": [
+            "A) Uma descarga elétrica sentida pelo paciente no momento da lesão.",
+            "B) Uma resposta inflamatória tardia que causa piora neurológica.",
+            "C) Um período transitório de depressão ou ausência da atividade reflexa abaixo do nível da lesão, acompanhado de paralisia flácida e perda de sensibilidade.",
+            "D) Uma complicação infecciosa comum nas primeiras semanas.",
+            "E) Uma síndrome dolorosa crônica que se instala rapidamente."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é um dos principais objetivos da fisioterapia respiratória em pacientes com lesão medular cervical alta (ex: C4), onde o diafragma pode estar parcialmente ou totalmente comprometido?",
+        "options": [
+            "A) Fortalecer os músculos abdominais para tosse eficaz.",
+            "B) Melhorar a capacidade de expansão torácica, facilitar a higiene brônquica, fortalecer a musculatura respiratória acessória e auxiliar no desmame da ventilação mecânica, se aplicável.",
+            "C) Aumentar a frequência respiratória para compensar a fraqueza.",
+            "D) Promover a respiração paradoxal.",
+            "E) Ensinar o paciente a prender a respiração por longos períodos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A espasticidade é uma complicação comum após a fase de choque medular na LME. Qual das seguintes afirmações sobre a espasticidade na LME é VERDADEIRA?",
+        "options": [
+            "A) É sempre prejudicial e deve ser completamente eliminada.",
+            "B) Pode, em alguns casos, ser funcional, auxiliando em transferências ou na manutenção da postura, mas também pode ser dolorosa e limitante.",
+            "C) É um sinal de recuperação completa da função motora.",
+            "D) Ocorre apenas em lesões medulares incompletas.",
+            "E) É tratada exclusivamente com cirurgia."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual tipo de treino é fundamental para pacientes com lesão medular paraplégica (níveis torácico ou lombar) visando a máxima independência funcional?",
+        "options": [
+            "A) Treino de marcha com estimulação elétrica cerebral profunda.",
+            "B) Fortalecimento intensivo dos membros inferiores paralisados.",
+            "C) Treino de habilidades em cadeira de rodas (propulsão, superação de obstáculos), transferências (ex: cadeira-cama, cadeira-carro), e fortalecimento de membros superiores e tronco.",
+            "D) Foco exclusivo em alongamentos para prevenir contraturas.",
+            "E) Hidroterapia para flutuação e relaxamento."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A prevenção de úlceras por pressão (escaras) é vital em pacientes com LME. Qual é a principal estratégia para isso?",
+        "options": [
+            "A) Manter o paciente sempre na mesma posição para evitar atrito.",
+            "B) Aplicar calor local para aumentar a circulação.",
+            "C) Realizar alívio de pressão frequente e regular (mudanças de decúbito no leito, elevações na cadeira de rodas), inspeção da pele, e uso de superfícies de suporte adequadas.",
+            "D) Utilizar talco para manter a pele seca.",
+            "E) Restringir a ingestão de líquidos."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 'marcha com órteses longas (KAFO - Knee-Ankle-Foot Orthosis) e andador/muletas' pode ser um objetivo para qual grupo de pacientes com LME?",
+        "options": [
+            "A) Pacientes com lesão cervical alta completa (ex: C4).",
+            "B) Pacientes com lesão torácica alta completa (ex: T2).",
+            "C) Pacientes com lesão torácica baixa (ex: T10-T12) ou lombar alta, com bom controle de tronco e força em membros superiores.",
+            "D) Pacientes com qualquer nível de lesão medular incompleta.",
+            "E) Pacientes que não desejam usar cadeira de rodas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual o significado de uma lesão medular ser classificada como 'incompleta'?",
+        "options": [
+            "A) A medula espinhal não foi completamente seccionada, mas não há função abaixo do nível da lesão.",
+            "B) Há alguma preservação da função motora e/ou sensorial abaixo do nível neurológico da lesão, incluindo os segmentos sacrais mais baixos (S4-S5).",
+            "C) A lesão afeta apenas um lado da medula espinhal.",
+            "D) O paciente se recuperará completamente em pouco tempo.",
+            "E) Apenas a sensibilidade superficial está comprometida."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A bexiga neurogênica é uma consequência comum da LME. Qual é um dos principais objetivos do manejo da bexiga neurogênica?",
+        "options": [
+            "A) Incentivar a incontinência para evitar esforço.",
+            "B) Promover o esvaziamento completo e regular da bexiga para prevenir infecções do trato urinário, refluxo vesicoureteral e proteger a função renal, geralmente através de cateterismo intermitente ou outras técnicas.",
+            "C) Restringir severamente a ingestão de líquidos.",
+            "D) Utilizar fraldas como única solução a longo prazo.",
+            "E) Fortalecer os músculos do assoalho pélvico para restaurar o controle voluntário completo em todos os casos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a importância do posicionamento adequado no leito e na cadeira de rodas para pacientes com LME?",
+        "options": [
+            "A) Apenas para conforto do paciente.",
+            "B) Para prevenir contraturas, deformidades, úlceras por pressão, dor, e otimizar a função respiratória e a estabilidade postural.",
+            "C) Para facilitar o trabalho da equipe de enfermagem.",
+            "D) Apenas para melhorar a estética.",
+            "E) Para aumentar a espasticidade e dar mais firmeza."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que caracteriza a Síndrome Medular Central, mais comum em idosos com espondilose cervical após hiperextensão do pescoço?",
+        "options": [
+            "A) Perda motora e sensorial completa abaixo do nível da lesão.",
+            "B) Maior comprometimento motor nos membros inferiores do que nos superiores, com preservação sacral variável.",
+            "C) Maior comprometimento motor nos membros superiores (especialmente mãos) do que nos inferiores, com preservação sacral variável e graus variáveis de perda sensorial.",
+            "D) Hemissecção da medula com perda motora ipsilateral e perda sensorial contralateral.",
+            "E) Perda exclusiva da sensibilidade vibratória e proprioceptiva bilateralmente."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual a principal causa da 'ossificação heterotópica' em pacientes com lesão medular e qual sua implicação clínica mais comum?",
+        "options": [
+            "A) Infecção bacteriana; dor e febre.",
+            "B) Trauma direto na articulação; instabilidade articular.",
+            "C) Formação de osso em tecidos moles periarticulares (músculos, tecido conectivo) abaixo do nível da lesão, de causa multifatorial; pode levar à restrição de movimento, dor e compressão neurovascular.",
+            "D) Deficiência de cálcio; osteoporose e fraturas.",
+            "E) Uso excessivo de anti-inflamatórios; retardo na consolidação óssea."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Um paciente com lesão medular completa em T4 necessita de treino para qual tipo de transferência para ser independente?",
+        "options": [
+            "A) Transferência em pé com pivô.",
+            "B) Transferência com tábua de deslizamento ou por elevação utilizando a força dos membros superiores.",
+            "C) Transferência com auxílio de guincho mecânico apenas.",
+            "D) Transferência com marcha assistida por duas pessoas.",
+            "E) Transferência independente não é um objetivo realista para este nível de lesão."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual das seguintes é uma característica da postura de 'descerebração' observada em lesões graves do tronco encefálico, e como ela se diferencia da 'decorticação'?",
+        "options": [
+            "A) Descerebração: flexão dos membros superiores e extensão dos inferiores. Decorticação: extensão de todos os membros.",
+            "B) Descerebração: extensão, adução e rotação interna dos membros superiores, com extensão dos membros inferiores. Decorticação: flexão dos membros superiores sobre o tórax, com extensão dos membros inferiores.",
+            "C) Descerebração: flacidez total. Decorticação: espasticidade em flexão.",
+            "D) Descerebração: opistótono. Decorticação: movimentos coreoatetoides.",
+            "E) Ambas são posturas em flexão, mas a decorticação é mais grave."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A 'Lesão Axonal Difusa' (LAD) é um tipo comum de lesão primária no Traumatismo Cranioencefálico (TCE), causada por forças de cisalhamento e rotação. Qual a principal consequência patológica da LAD?",
+        "options": [
+            "A) Formação de grandes hematomas intraparenquimatosos.",
+            "B) Fraturas múltiplas da base do crânio.",
+            "C) Lesão microscópica generalizada dos axônios, levando à interrupção da transmissão neural e, frequentemente, a coma prolongado e déficits funcionais difusos.",
+            "D) Edema cerebral localizado apenas no local do impacto.",
+            "E) Isquemia focal devido à compressão vascular."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sobre o hematoma extradural (ou epidural) no TCE, qual alternativa está INCORRETA?",
+        "options": [
+            "A) É uma coleção sanguínea entre a dura-máter e a tábua óssea interna do crânio.",
+            "B) Frequentemente está associado a fraturas cranianas que laceram uma artéria meníngea (mais comumente a artéria meníngea média).",
+            "C) Pode apresentar um 'intervalo lúcido', onde o paciente recupera a consciência após o trauma inicial, seguido por deterioração neurológica rápida.",
+            "D) Na tomografia computadorizada, classicamente aparece como uma coleção em formato de lente biconvexa.",
+            "E) É tipicamente causado pela ruptura de veias ponte entre o córtex e os seios venosos durais, e tem uma progressão mais lenta."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Qual nível de lesão medular é o divisor comum entre tetraplegia (quadriplegia) e paraplegia?",
+        "options": [
+            "A) C4",
+            "B) C7",
+            "C) T1",
+            "D) T6",
+            "E) L1"
+        ],
+        "answer": 2
+    }
+  ],
+  "Cibersegurança": [
+    {
+        "question": "O que caracteriza um ataque de força bruta em sistemas computacionais?",
+        "options": [
+            "A) Utiliza engenharia social para enganar o usuário.",
+            "B) Remove as proteções de firewall automaticamente.",
+            "C) Realiza tentativas automáticas e sucessivas de senhas até encontrar a correta.",
+            "D) Envia arquivos maliciosos por e-mail.",
+            "E) Intercepta dados trafegando em redes abertas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual das opções representa uma prática segura no uso de senhas?",
+        "options": [
+            "A) Utilizar senhas com informações pessoais fáceis de lembrar.",
+            "B) Anotar a senha em um post-it e deixá-la visível.",
+            "C) Compartilhar a senha com colegas de confiança.",
+            "D) Reutilizar a mesma senha em todos os sistemas.",
+            "E) Utilizar combinações únicas de letras, números e caracteres especiais."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Qual é a diferença entre um vírus e um worm em cibersegurança?",
+        "options": [
+            "A) Um vírus se espalha sozinho, enquanto um worm precisa de interação do usuário",
+            "B) Um worm se espalha sozinho, enquanto um vírus precisa de um arquivo hospedeiro e da ação do usuário para se propagar.",
+            "C) Ambos são a mesma coisa, com nomes diferentes.",
+            "D) Um vírus só afeta arquivos de sistema, enquanto um worm afeta apenas arquivos de dados.",
+            "E) Um vírus é um tipo de hardware malicioso, enquanto um worm é um software."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que caracteriza um ataque de negação de serviço (DoS)?",
+        "options": [
+            "A) Roubo de senhas usando páginas falsas.",
+            "B) Interceptação de tráfego criptografado em rede Wi-Fi.",
+            "C) Modificação de dados sem permissão.",
+            "D) Sobrecarga de um sistema com tráfego excessivo para torná-lo indisponível.",
+            "E) Espionagem de comunicações institucionais."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual é o principal objetivo da criptografia em segurança digital?",
+        "options": [
+            "A) Aumentar a velocidade da conexão com a internet.",
+            "B) Impedir o acesso de usuários à rede local.",
+            "C) Melhorar o desempenho de aplicativos corporativos.",
+            "D) Realizar backups automáticos em nuvem.",
+            "E) Tornar os dados ilegíveis para quem não tem a chave de decodificação."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "O que é um firewall, no contexto de segurança da informação?",
+        "options": [
+            "A) Um equipamento que armazena grandes quantidades de dados.",
+            "B) Um sistema que permite acesso irrestrito à internet.",
+            "C) Uma barreira de hardware ou software que filtra e controla o tráfego de rede com base em regras de segurança.",
+            "D) Um antivírus com foco em redes locais.",
+            "E) Um método para recuperar arquivos apagados por engano."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é Phishing?",
+        "options": [
+            "A) Um tipo de ataque que sobrecarrega um servidor com solicitações.",
+            "B) Um tipo de malware que se replica automaticamente através da rede.",
+            "C) Uma técnica de engenharia social usada para enganar usuários e obter informações confidenciais, como senhas e detalhes de cartão de crédito.",
+            "D) Um software que registra tudo o que é digitado em um teclado.",
+            "E) Um ataque que explora vulnerabilidades em software desatualizado."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a função principal de um servidor proxy?",
+        "options": [
+            "A) Gerar senhas aleatórias para os usuários.",
+            "B) Servir como intermediário entre o usuário e a internet, podendo mascarar o IP, filtrar conteúdo e fazer cache de dados.",
+            "C) Aumentar a velocidade de download de arquivos grandes.",
+            "D) Corrigir falhas de roteamento de dados na nuvem.",
+            "E) Armazenar dados criptografados em backup automático."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que significa a sigla VPN?",
+        "options": [
+            "A) Virtualized Protection Network",
+            "B) Verified Public Network",
+            "C) Virtual Private Network",
+            "D) Value Protocol Network",
+            "E) Varying Packet Node"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual das opções a seguir descreve um ataque do tipo Man-in-the-Middle (MitM)?",
+        "options": [
+            "A) Redirecionamento de tráfego para sites falsos via spam.",
+            "B) Invasão física a servidores para extrair dados.",
+            "C) Envio de mensagens automáticas com links maliciosos.",
+            "D) Interceptação e possível alteração da comunicação entre duas partes sem que elas saibam.",
+            "E) Instalação de malware por pen drive infectado."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "O que é uma botnet?",
+        "options": [
+            "A) Uma rede de bots usados para fazer backup de dados.",
+            "B) Um sistema automatizado de e-mails legítimos.",
+            "C) Uma rede de dispositivos infectados (zumbis) controlados remotamente por um invasor para realizar ataques em massa.",
+            "D) Um grupo de computadores corporativos configurados em rede.",
+            "E) Um conjunto de firewalls com autenticação de múltiplos fatores."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a principal característica de um ransomware?",
+        "options": [
+            "A) Ele infecta sistemas apenas com objetivo de espionagem.",
+            "B) Ele realiza backups automáticos de arquivos sensíveis.",
+            "C) Ele impede o acesso ao sistema, forçando reinicializações contínuas.",
+            "D) Ele criptografa os dados da vítima e exige um pagamento (resgate) para fornecer a chave de descriptografia.",
+            "E) Ele atua apenas em dispositivos móveis, roubando contatos."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Como podemos definir um certificado digital (SSL/TLS) no ambiente da internet?",
+        "options": [
+            "A) Um código de segurança para senhas bancárias.",
+            "B) Um documento físico utilizado para acessar redes privadas.",
+            "C) Um antivírus avançado utilizado por empresas.",
+            "D) Um mecanismo eletrônico que autentica a identidade de um site e permite uma conexão criptografada.",
+            "E) Um tipo de firewall de autenticação reforçada."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "O que caracteriza um ataque de engenharia social?",
+        "options": [
+            "A) Envio de comandos maliciosos por meio de SQL.",
+            "B) Manipulação de softwares para desativar antivírus.",
+            "C) Manipulação psicológica que explora a confiança, medo ou curiosidade da vítima para obter informações ou acesso.",
+            "D) Sobreposição de pacotes em uma rede para interceptar tráfego.",
+            "E) Encriptação de arquivos com uso de técnicas de ransomware."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que define o 'Princípio do Menor Privilégio' em segurança da informação?",
+        "options": [
+            "A) Permitir que todos os usuários acessem todas as áreas do sistema para maior flexibilidade.",
+            "B) Conceder a um usuário apenas as permissões estritamente necessárias para desempenhar suas funções, e nada mais.",
+            "C) Utilizar múltiplas redes Wi-Fi para evitar rastreamento.",
+            "D) Monitorar o histórico de navegação de todos os dispositivos.",
+            "E) Compartilhar senhas de acesso com supervisores em caso de emergência."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a finalidade de um honeypot em um ambiente de segurança?",
+        "options": [
+            "A) Servir como sistema de backup de emergência.",
+            "B) Criptografar senhas e logins armazenados.",
+            "C) Isolar sistemas vulneráveis da rede principal.",
+            "D) Servir como um sistema-isca, projetado para atrair, detectar e registrar o comportamento de atacantes em um ambiente controlado.",
+            "E) Agir como proxy em comunicações internas."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual é o objetivo de um ataque de injeção SQL (SQL Injection)?",
+        "options": [
+            "A) Substituir o sistema de autenticação por biometria.",
+            "B) Excluir todos os dados de backup da rede.",
+            "C) Inserir ou manipular comandos SQL maliciosos na entrada de dados de uma aplicação para acessar ou manipular o banco de dados.",
+            "D) Enviar spam com códigos criptografados.",
+            "E) Redirecionar o usuário para páginas falsas sem autenticação."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual das alternativas representa uma forma de autenticação biométrica?",
+        "options": [
+            "A) PIN de segurança com quatro dígitos.",
+            "B) Token físico para autenticação.",
+            "C) Impressão digital como fator de verificação.",
+            "D) Senha com combinação de letras e números.",
+            "E) Código enviado por SMS."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que diferencia um ataque DDoS de um DoS?",
+        "options": [
+            "A) O DDoS utiliza múltiplos dispositivos distribuídos (uma botnet) para sobrecarregar o sistema, enquanto o DoS geralmente origina-se de uma única fonte.",
+            "B) O DDoS realiza varreduras em redes privadas antes de agir, enquanto o DoS não.",
+            "C) O DDoS exige interação humana constante durante a execução.",
+            "D) O DDoS apenas simula lentidão, sem causar impacto real.",
+            "E) O DDoS desativa criptografias, enquanto o DoS não interfere nisso."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o principal objetivo da autenticação de dois fatores (2FA)?",
+        "options": [
+            "A) Eliminar completamente o uso de senhas.",
+            "B) Garantir acesso a todos os dispositivos com um único clique.",
+            "C) Adicionar uma segunda camada de segurança, exigindo duas formas distintas de verificação (algo que você sabe, algo que você tem, ou algo que você é).",
+            "D) Ativar a autenticação apenas em horários comerciais.",
+            "E) Reduzir o tempo de login por meio de tokens."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é um rootkit em um ambiente computacional?",
+        "options": [
+            "A) Um antivírus para redes corporativas.",
+            "B) Um software que faz backup automático dos arquivos do sistema.",
+            "C) Um tipo de malware projetado para obter controle de nível administrativo sobre um sistema, permanecendo oculto do administrador e de softwares de segurança.",
+            "D) Um módulo de autenticação com base em reconhecimento facial.",
+            "E) Um sistema de gerenciamento de senhas criptografadas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o principal objetivo de um plano de resposta a incidentes de segurança?",
+        "options": [
+            "A) Melhorar o desempenho geral do sistema de rede.",
+            "B) Coletar estatísticas de uso para relatórios mensais.",
+            "C) Fornecer uma abordagem estruturada e organizada para lidar com incidentes de segurança, minimizando danos e tempo de recuperação.",
+            "D) Realizar atualizações automáticas em sistemas operacionais.",
+            "E) Corrigir erros de conexão em dispositivos móveis."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a função de um sistema de detecção de intrusões (IDS)?",
+        "options": [
+            "A) Criptografar o tráfego de rede entre dispositivos.",
+            "B) Registrar acessos físicos ao data center.",
+            "C) Monitorar o tráfego de rede ou sistemas em busca de atividades maliciosas ou violações de políticas e emitir alertas.",
+            "D) Garantir o backup automático dos dados armazenados.",
+            "E) Bloquear ativamente qualquer tráfego suspeito."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é um keylogger no contexto de ataques cibernéticos?",
+        "options": [
+            "A) Um firewall especializado em detectar acessos externos.",
+            "B) Um mecanismo de dupla autenticação por biometria.",
+            "C) Um tipo de spyware que registra secretamente as teclas digitadas por um usuário, capturando senhas e outras informações sensíveis.",
+            "D) Um módulo que realiza verificação de integridade de arquivos.",
+            "E) Um agente de proteção que criptografa discos em tempo real."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual das alternativas representa uma boa prática contra ataques de ransomware?",
+        "options": [
+            "A) Reutilizar senhas fortes em todos os sistemas.",
+            "B) Desabilitar firewalls para aumentar a performance.",
+            "C) Manter backups regulares e offline dos dados importantes e manter softwares e sistemas operacionais sempre atualizados.",
+            "D) Aceitar cookies de qualquer site para navegação rápida.",
+            "E) Compartilhar credenciais apenas em situações emergenciais."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que representa um hash no contexto da segurança digital?",
+        "options": [
+            "A) Um tipo de firewall que atua por camadas.",
+            "B) Um código de verificação de software enviado por SMS.",
+            "C) Uma representação alfanumérica de tamanho fixo de um conjunto de dados, gerada por um algoritmo unidirecional, usada para verificar a integridade dos dados.",
+            "D) Uma senha temporária gerada automaticamente por tokens.",
+            "E) Uma assinatura digital que protege conexões Wi-Fi."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é um ataque de spear phishing?",
+        "options": [
+            "A) Uma campanha massiva de envio de mensagens automáticas sem alvo específico.",
+            "B) Uma variação do ransomware voltada para dados bancários.",
+            "C) Um ataque de phishing altamente direcionado e personalizado a um indivíduo ou organização específica, usando informações já conhecidas sobre o alvo.",
+            "D) Uma técnica de desativação remota de antivírus.",
+            "E) Uma infecção por links ocultos em arquivos PDF."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o papel de um sistema de prevenção de intrusões (IPS)?",
+        "options": [
+            "A) Realizar auditoria em backups armazenados em nuvem.",
+            "B) Além de detectar atividades maliciosas como um IDS, um IPS também toma ações para bloquear ou prevenir ativamente essas atividades.",
+            "C) Organizar permissões de acesso por função de usuário.",
+            "D) Atualizar dispositivos com correções de segurança.",
+            "E) Executar scripts de análise em sistemas operacionais Linux."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que caracteriza um ataque do tipo zero-day?",
+        "options": [
+            "A) A exploração de uma vulnerabilidade de software que é desconhecida pelo fabricante e para a qual ainda não existe uma correção.",
+            "B) A tentativa de login com múltiplas credenciais conhecidas.",
+            "C) A execução de um worm que se propaga automaticamente.",
+            "D) A replicação de dados em redes descentralizadas.",
+            "E) O uso de links fraudulentos em redes sociais."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Qual é uma boa prática ao utilizar redes Wi-Fi públicas?",
+        "options": [
+            "A) Compartilhar dados diretamente com outros usuários conectados.",
+            "B) Utilizar uma VPN (Virtual Private Network) para criptografar todo o tráfego da conexão.",
+            "C) Aceitar todas as permissões de navegador solicitadas.",
+            "D) Acessar dados bancários apenas com aba anônima.",
+            "E) Conectar-se à rede sem senha para facilitar o acesso."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que caracteriza um ataque de spoofing?",
+        "options": [
+            "A) Acesso remoto indevido com uso de força bruta.",
+            "B) Envio de spam para múltiplos destinatários.",
+            "C) A falsificação de uma identidade (como um endereço de e-mail, IP ou nome de usuário) para enganar sistemas ou pessoas e ganhar uma vantagem ilegítima.",
+            "D) Monitoramento de tráfego DNS em redes privadas.",
+            "E) Bloqueio intencional de portas de rede."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que acontece em um ataque do tipo watering hole?",
+        "options": [
+            "A) Um hacker utiliza falha em roteadores para explorar a rede local.",
+            "B) O atacante infecta sites legítimos que são frequentemente visitados por um grupo específico de vítimas, esperando que elas se infectem ao acessar o site confiável.",
+            "C) Uma campanha de phishing é disparada automaticamente para empresas.",
+            "D) Um malware é ocultado em arquivos ZIP baixados em massa.",
+            "E) O invasor bloqueia o acesso de administradores ao painel de controle."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que significa DLP (Data Loss Prevention) em segurança da informação?",
+        "options": [
+            "A) Um sistema que apaga arquivos antigos para liberar espaço no disco.",
+            "B) Um protocolo que monitora falhas em roteadores Wi-Fi.",
+            "C) Um conjunto de estratégias e ferramentas para garantir que dados sensíveis não sejam perdidos, mal utilizados ou acessados por usuários não autorizados.",
+            "D) Uma ferramenta para compactar dados em backups.",
+            "E) Um antivírus especializado em redes corporativas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a diferença fundamental entre HTTP e HTTPS?",
+        "options": [
+            "A) O HTTP realiza compressão automática de dados, o HTTPS não.",
+            "B) O HTTPS utiliza uma camada de segurança (SSL/TLS) para criptografar a comunicação entre o navegador e o servidor, enquanto o HTTP envia dados em texto plano.",
+            "C) O HTTP é usado para redes privadas e HTTPS para redes públicas.",
+            "D) O HTTP é padrão em dispositivos móveis, o HTTPS não é compatível.",
+            "E) O HTTPS requer hardware dedicado para funcionar."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que é uma sandbox no contexto da segurança cibernética?",
+        "options": [
+            "A) Um tipo de firewall voltado para ambientes virtuais.",
+            "B) Um sistema que bloqueia automaticamente conexões suspeitas.",
+            "C) Um ambiente de teste isolado e seguro onde códigos suspeitos podem ser executados e analisados sem afetar o sistema principal.",
+            "D) Um módulo de backup automático em nuvem.",
+            "E) Um sistema de controle de acesso físico a servidores."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é credential stuffing?",
+        "options": [
+            "A) Um ataque que criptografa dados de login e exige resgate para liberação.",
+            "B) Um ataque automatizado que utiliza listas de credenciais (usuário e senha) previamente vazadas de um serviço para tentar autenticar em múltiplos outros serviços.",
+            "C) Uma tentativa de engenharia social com base em perguntas de segurança.",
+            "D) Um mecanismo de verificação em duas etapas via e-mail.",
+            "E) Uma falha na autenticação biométrica por reconhecimento facial."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Em que consiste um ataque de sniffing?",
+        "options": [
+            "A) A interceptação e análise de pacotes de dados que trafegam em uma rede, com o objetivo de capturar informações sensíveis.",
+            "B) Invasão por backdoors em firewalls mal configurados.",
+            "C) Interrupção do sinal de Wi-Fi para executar spoofing.",
+            "D) Modificação de hashes com técnicas de força bruta.",
+            "E) Sequestro de sessões ativas via proxy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "O que define o princípio da segregação de funções (SoD - Segregation of Duties)?",
+        "options": [
+            "A) A criação de logs automáticos para todas as transações realizadas no sistema.",
+            "B) A prática de dividir uma tarefa ou responsabilidade crítica entre mais de uma pessoa, para evitar que um único indivíduo tenha controle total e possa cometer fraudes.",
+            "C) A configuração de permissões para grupos de usuários.",
+            "D) A separação física entre servidores de aplicação e de banco de dados.",
+            "E) A restrição do uso de software de terceiros em ambientes corporativos."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Em que consiste um ataque de cross-site request forgery (CSRF)?",
+        "options": [
+            "A) Um ataque que redireciona o tráfego da vítima para um site clonado.",
+            "B) Um ataque que infecta servidores DNS com malware.",
+            "C) Um ataque que engana um usuário autenticado a submeter uma requisição maliciosa a um site, fazendo com que ele execute uma ação indesejada sem seu conhecimento.",
+            "D) Um ataque de injeção de comandos em navegadores com uso de JavaScript.",
+            "E) Um ataque que sequestra sessões ativas de e-mail."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A Tríade da Segurança da Informação é composta por quais três pilares fundamentais?",
+        "options": [
+            "A) Hardware, Software e Rede.",
+            "B) Autenticação, Autorização e Auditoria.",
+            "C) Confidencialidade, Integridade e Disponibilidade.",
+            "D) Prevenção, Detecção e Resposta.",
+            "E) Criptografia, Firewall e Antivírus."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual padrão de segurança Wi-Fi é considerado o mais seguro e recomendado atualmente?",
+        "options": [
+            "A) WEP (Wired Equivalent Privacy)",
+            "B) WPA (Wi-Fi Protected Access)",
+            "C) WPA2 (Wi-Fi Protected Access 2)",
+            "D) WPA3 (Wi-Fi Protected Access 3)",
+            "E) WPS (Wi-Fi Protected Setup)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "O que é um 'trojan' (cavalo de troia) em cibersegurança?",
+        "options": [
+            "A) Um vírus que se anexa a outros programas para se espalhar.",
+            "B) Um tipo de malware que se disfarça de software legítimo para enganar o usuário a instalá-lo, abrindo uma backdoor para o sistema.",
+            "C) Um worm que se propaga automaticamente pela rede.",
+            "D) Um spyware que rouba informações bancárias.",
+            "E) Um adware que exibe anúncios indesejados."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual o propósito do framework MITRE ATT&CK®?",
+        "options": [
+            "A) É um padrão de criptografia para proteger dados em trânsito.",
+            "B) É uma base de conhecimento globalmente acessível de táticas e técnicas de adversários baseada em observações do mundo real.",
+            "C) É um software de antivírus para empresas.",
+            "D) É uma certificação de segurança para profissionais de TI.",
+            "E) É um protocolo de segurança para redes sem fio."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que é uma Ameaça Persistente Avançada (APT - Advanced Persistent Threat)?",
+        "options": [
+            "A) Um ataque de phishing enviado repetidamente para o mesmo alvo.",
+            "B) Um tipo de ransomware que não pode ser removido.",
+            "C) Um ataque cibernético prolongado e direcionado, no qual um invasor ganha acesso a uma rede e permanece sem ser detectado por um longo período, com o objetivo de roubar dados.",
+            "D) Uma vulnerabilidade de software que ainda não foi corrigida.",
+            "E) Um ataque DDoS que dura vários dias."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O Stuxnet, descoberto em 2010, é um exemplo famoso de qual tipo de ciberarma?",
+        "options": [
+            "A) Um keylogger para roubar senhas de redes sociais.",
+            "B) Um ransomware que atacou hospitais.",
+            "C) Um worm altamente sofisticado projetado para atacar sistemas de controle industrial (SCADA), especificamente as centrífugas de enriquecimento de urânio do Irã.",
+            "D) Um vírus de macro que se espalhava por documentos do Microsoft Word.",
+            "E) Um botnet usado para enviar spam em massa."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que é um ataque de Cross-Site Scripting (XSS)?",
+        "options": [
+            "A) Um ataque que força o usuário a executar ações indesejadas em um site onde está autenticado.",
+            "B) Um ataque que injeta scripts maliciosos em sites confiáveis, que são então executados no navegador de outros usuários que visitam o site.",
+            "C) Um ataque que manipula consultas a um banco de dados.",
+            "D) Um ataque que sobrecarrega um servidor com tráfego.",
+            "E) Um ataque que rouba cookies de sessão através da interceptação de rede."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Após o vazamento de logins e senhas de usuários em um fórum online, qual medida pode evitar o uso dessas credenciais por atacantes em outros serviços?",
+        "options": [
+            "A) Utilizar backups criptografados na nuvem.",
+            "B) Exigir VPN para acessos externos.",
+            "C) Implementar autenticação de dois fatores (2FA).",
+            "D) Redefinir o protocolo de e-mails internos.",
+            "E) Instalar um firewall físico por setor."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual tipo de ataque é mais provável de ocorrer ao acessar uma conta bancária em uma rede Wi-Fi pública e desprotegida?",
+        "options": [
+            "A) Ataque de força bruta.",
+            "B) Man-in-the-Middle (MitM).",
+            "C) Invasão por rootkit.",
+            "D) SQL Injection.",
+            "E) Phishing via SMS."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Durante um treinamento, os colaboradores foram orientados a não abrir anexos de e-mails desconhecidos nem clicar em links suspeitos. Essa ação faz parte de qual prática?",
+        "options": [
+            "A) Treinamento técnico para suporte.",
+            "B) Análise de logs e sistemas.",
+            "C) Educação em segurança cibernética e conscientização do usuário.",
+            "D) Criação de firewalls lógicos.",
+            "E) Instalação de antivírus empresariais."
+        ],
+        "answer": 2
+    }
+  ],
+  "Simulado Prova Antiga": [
+    {
+        "question": "(Prova Antiga Q1) A doença de Parkinson tem como um dos sinais clínicos o desenvolvimento da rigidez. Assinale a alternativa INCORRETA sobre essa característica.",
+        "options": [
+          "A) A rigidez é um sinal clínico da hipertonia plástica.",
+          "B) A hipertonia plástica é velocidade dependente, com o clássico sinal de roda denteada ao movimento ativo.",
+          "C) A hipertonia plástica não é velocidade dependente, com o clássico sinal de roda denteada ao movimento passivo.",
+          "D) A hipertonia elástica (espasticidade) indica lesão nas vias piramidais, enquanto a plástica indica lesão extrapiramidal.",
+          "E) A rigidez não apresenta seletividade de distribuição, ou seja, atinge tanto músculos agonistas quanto antagonistas."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Prova Antiga Q2) Em relação à Poliomielite/SPP, verifique a sequência V/F: (I) Doença infecciosa aguda causada pelo poliovírus, que se aloja no corno anterior da medula. (II) Apenas a forma paralítica é comum, ocorrendo em 90% dos infectados. (III) A Síndrome Pós-Pólio (SPP) é uma nova infecção pelo mesmo vírus. (IV) O comprometimento motor na pólio paralítica é tipicamente assimétrico. (V) A SPP manifesta-se por nova fraqueza, fadiga e dor em pessoas que tiveram poliomielite anos antes.",
+        "options": [
+          "A) V - V - V - F - V",
+          "B) F - F - V - V - F",
+          "C) V - F - F - V - V",
+          "D) F - V - F - F - V",
+          "E) V - F - V - F - F"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Prova Antiga Q3) Sobre a classificação de lesões nervosas periféricas de Seddon, assinale a alternativa CORRETA.",
+        "options": [
+          "A) Neurotmese: destruição anatômica do axônio com pouca destruição do tecido conectivo; a recuperação é provável.",
+          "B) Axoniotmese: bloqueio fisiológico por desmielinização, com recuperação em semanas.",
+          "C) Neuropraxia: rompimento nervoso completo, incluindo o tecido conectivo; sem potencial de recuperação espontânea.",
+          "D) Na Axoniotmese, ocorre degeneração Walleriana no coto distal, mas o 'tubo' de tecido conectivo permanece intacto, guiando a regeneração.",
+          "E) A regeneração na Neurotmese é sempre completa e funcional."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(Prova Antiga Q4) Em relação à Síndrome de Guillain-Barré (SGB), assinale a alternativa INCORRETA.",
+        "options": [
+          "A) A SGB é uma polirradiculoneurite inflamatória aguda de caráter autoimune.",
+          "B) Frequentemente, ocorre após uma infecção de vias respiratórias ou gastrointestinal.",
+          "C) A fraqueza muscular progressiva na SGB é de distribuição geralmente assimétrica e proximal, que evolui de maneira descendente.",
+          "D) Há frequentemente ausência de reflexos profundos (arreflexia), de início distal, bilateral e simétrico, podendo haver dor neuropática.",
+          "E) A progressão da fraqueza ocorre por até 4 semanas, atinge um platô, e depois entra na fase de recuperação."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Prova Antiga Q5) Sobre as ataxias, verifique a sequência V/F: (I) Na ataxia sensitiva, o comprometimento da propriocepção piora o desequilíbrio com os olhos fechados (Romberg positivo). (II) Na Ataxia cerebelar, a lesão ocorre nas vias de propriocepção profunda. (III) A marcha na ataxia sensitiva é tipicamente talonante (calcanhante). (IV) Na ataxia vestibular, a marcha ebriosa é comum, com tendência de queda para o lado da lesão. (V) Na ataxia cerebelar, a dismetria é o principal sinal.",
+        "options": [
+          "A) V - F - V - V - V",
+          "B) F - V - F - V - F",
+          "C) V - F - F - V - F",
+          "D) V - F - V - V - F",
+          "E) V - V - V - F - V"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "(Prova Antiga Q6) Paciente F.J., 35 anos, sofreu acidente ao mergulhar, lesando a porção anterior da medula. Apresenta preservação de propriocepção e sensações vibratórias, mas perda da sensibilidade à dor e temperatura e perda motora abaixo do nível da lesão. A avaliação motora indica função nos flexores de cotovelo, mas não nos extensores. A qual síndrome e nível medular o quadro é mais compatível?",
+        "options": [
+          "A) Síndrome Medular Transversa Completa nível C6",
+          "B) Síndrome Medular Anterior nível C8",
+          "C) Síndrome Medular Anterior nível C5",
+          "D) Síndrome Medular Central nível C5",
+          "E) Síndrome Medular Posterior nível C7"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Prova Antiga Q7) Paciente R.C.A, 47 anos, sexo masculino, apresenta perda de força que começou nas extremidades, com dificuldade para se vestir e barbear, e início de atrofia no MS Direito. Exames confirmam E.L.A. Sem história familiar da doença. Qual a classificação mais provável para este quadro clínico?",
+        "options": [
+          "A) E.L.A. Esporádica de início em membros",
+          "B) E.L.A. Esporádica de início Bulbar",
+          "C) E.L.A. Familiar de início Bulbar",
+          "D) E.L.A. Familiar de início em membros",
+          "E) E.L.A. associada à demência frontotemporal"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "(Prova Antiga Q8 - Adaptada) Qual alternativa define corretamente 'surto' e 'remissão' na Esclerose Múltipla (EM)?",
+        "options": [
+          "A) Surto: piora gradual dos sintomas; Remissão: cura completa da doença.",
+          "B) Surto: aparecimento de novos sintomas neurológicos com duração de pelo menos 24h; Remissão: período de recuperação parcial ou total dos sintomas.",
+          "C) Surto: sintomas que duram menos de 24 horas; Remissão: período sem novos surtos.",
+          "D) Surto: período de estabilidade dos sintomas; Remissão: aparecimento de novas lesões na ressonância magnética.",
+          "E) Surto e remissão são termos sinônimos para as flutuações diárias de fadiga."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Prova Antiga Q9) Paciente LCS, 55 anos, pós-AVC há 6 meses, apresenta hipertonia grau 2 em MS Direito (com predomínio em peitoral, bíceps e flexores de punho) e grau 1+ em MI Direito (adutores, quadríceps, tríceps sural). Paralisia facial central à direita também notada. É correto classificar o paciente como:",
+        "options": [
+          "A) Hemiparético esquerdo desproporcionado com predomínio crural.",
+          "B) Hemiparético direito proporcionado.",
+          "C) Tetraparético com predomínio à direita.",
+          "D) Hemiparético direito desproporcionado com predomínio braquial.",
+          "E) Monoparético, afetando apenas o membro superior direito."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(Prova Antiga Q10 - Adaptada) No caso clínico da questão 9, a hipertonia descrita é avaliada pela Escala de Ashworth Modificada. A provável artéria cerebral comprometida, considerando a hemiparesia direita com predomínio braquial e a paralisia facial, seria a:",
+        "options": [
+          "A) Artéria Cerebral Posterior direita",
+          "B) Artéria Cerebral Média esquerda",
+          "C) Artéria Basilar",
+          "D) Artéria Cerebral Anterior esquerda",
+          "E) Artéria Vertebral direita"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Prova Antiga Q11) Após reabilitação de um TCE, um paciente é classificado no nível cognitivo VII da Escala Rancho de Los Amigos. O que isso significa funcionalmente?",
+        "options": [
+          "A) O paciente está confuso, agitado e não consegue seguir instruções.",
+          "B) O paciente está em coma e não responde a estímulos.",
+          "C) O paciente está automático e apropriado, consegue realizar AVDs de forma independente (embora com possível julgamento prejudicado), mas ainda pode ter déficits na reintegração social e profissional.",
+          "D) O paciente está em estado vegetativo persistente.",
+          "E) O paciente tem uma resposta generalizada e não-proposital aos estímulos."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Prova Antiga Q12 - Adaptada) A Escala de Coma de Glasgow é um método de avaliação do nível de consciência que utiliza quais três parâmetros de resposta?",
+        "options": [
+          "A) Resposta pupilar, resposta motora e frequência cardíaca.",
+          "B) Abertura ocular, melhor resposta verbal e melhor resposta motora.",
+          "C) Orientação, memória e cálculo.",
+          "D) Força muscular, sensibilidade e reflexos.",
+          "E) Saturação de oxigênio, pressão arterial e temperatura."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Prova Antiga Q13) Sobre as lesões causadas pelo TCE, assinale a alternativa INCORRETA.",
+        "options": [
+          "A) O impacto indireto ocorre devido a forças de aceleração, desaceleração e rotação sobre o encéfalo.",
+          "B) A lesão por golpe e contragolpe é um exemplo de impacto direto.",
+          "C) O hematoma extradural é uma coleção sanguínea situada entre a tábua interna óssea e a dura-máter.",
+          "D) O hematoma subdural agudo é frequentemente causado por ruptura de veias ponte.",
+          "E) O hematoma intraparenquimatoso é uma coleção sanguínea difusa, sem limites nítidos, no parênquima cerebral."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "(Prova Antiga Q15 - Adaptada) Sobre as células da glia e a mielinização, qual alternativa apresenta a diferença correta entre Oligodendrócitos e Células de Schwann?",
+        "options": [
+          "A) Ambos formam a bainha de mielina, mas os Oligodendrócitos atuam no Sistema Nervoso Periférico (SNP) e as Células de Schwann no Sistema Nervoso Central (SNC).",
+          "B) Ambos atuam no SNC, mas apenas os Oligodendrócitos formam mielina.",
+          "C) Ambos atuam no SNP, mas apenas as Células de Schwann formam mielina.",
+          "D) Os Oligodendrócitos formam a bainha de mielina no SNC, onde um único oligodendrócito pode mielinizar múltiplos axônios; as Células de Schwann atuam no SNP, onde cada célula mieliniza um único segmento de um axônio.",
+          "E) As Células de Schwann têm função de defesa (fagocitose) no SNC, enquanto os Oligodendrócitos fornecem suporte estrutural."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(Prova Antiga Q16 - Adaptada) A postura de 'decorticação' é um sinal de lesão grave acima do nível do mesencéfalo (ex: no tálamo ou cápsula interna). Como ela se manifesta clinicamente?",
+        "options": [
+          "A) Extensão, adução e rotação interna dos membros superiores e extensão dos membros inferiores.",
+          "B) Flacidez completa de todos os quatro membros.",
+          "C) Flexão dos membros superiores (braços aduzidos, cotovelos, punhos e dedos fletidos sobre o tórax) e extensão dos membros inferiores.",
+          "D) Opistótono, com hiperextensão do pescoço e tronco.",
+          "E) Tremor de repouso em todos os membros."
+        ],
+        "answer": 2
+    }
+  ],
+  "Super Simulado Neurofuncional": [
+    {
+        "question": "(TCE - Conhecimento) De acordo com a definição do NIH (1998) apresentada, o Traumatismo Cranioencefálico (TCE) é uma agressão ao encéfalo causada por:",
+        "options": [
+          "A) Uma condição degenerativa progressiva, como o Alzheimer.",
+          "B) Uma infecção viral ou bacteriana do sistema nervoso central.",
+          "C) Uma força física externa que pode comprometer habilidades cognitivas, físicas e psicocomportamentais. ",
+          "D) Uma malformação congênita presente desde o nascimento.",
+          "E) Um distúrbio metabólico que afeta a função cerebral."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Conhecimento) As lesões cerebrais no TCE são classificadas em primárias e secundárias. Qual é a principal diferença entre elas?",
+        "options": [
+          "A) Lesões primárias afetam a substância branca e secundárias afetam a cinzenta.",
+          "B) Lesões primárias ocorrem no momento do trauma, enquanto as secundárias são suas consequências que surgem após um intervalo de tempo, como edema ou hematomas. ",
+          "C) Lesões primárias são sempre abertas e as secundárias são sempre fechadas.",
+          "D) Lesões primárias são tratadas com fisioterapia e as secundárias com cirurgia.",
+          "E) Lesões primárias ocorrem apenas por impacto indireto, enquanto as secundárias ocorrem por impacto direto."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(TCE - Conhecimento) O mecanismo de lesão por 'golpe' e 'contragolpe' refere-se a:",
+        "options": [
+          "A) Uma lesão por objeto perfurante e a sua subsequente infecção.",
+          "B) Um hematoma extradural e um hematoma subdural ocorrendo simultaneamente.",
+          "C) A lesão no local do impacto direto (golpe) e a lesão no lado oposto do cérebro devido ao seu movimento dentro do crânio (contragolpe). ",
+          "D) A fratura do crânio (golpe) e a lesão do couro cabeludo (contragolpe).",
+          "E) Uma lesão imediata (golpe) e uma lesão que aparece 72 horas depois (contragolpe)."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Conhecimento) Segundo a Escala de Coma de Glasgow apresentada no material, qual pontuação um paciente precisa ter para ser considerado em coma?",
+        "options": [
+          "A) 15 pontos",
+          "B) 12 ou mais",
+          "C) Exatamente 10",
+          "D) 8 ou menos ",
+          "E) 9 ou mais"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(TCE - Conhecimento) A Lesão Axonal Difusa (LAD) é um tipo de lesão cerebral primária grave. Qual mecanismo de trauma está mais associado a ela?",
+        "options": [
+          "A) Ferimento por arma de fogo com penetração focal.",
+          "B) Fratura linear do crânio sem deslocamento.",
+          "C) Forças de aceleração, desaceleração e rotação sobre o crânio, que causam cisalhamento dos axônios. ",
+          "D) Contusão cerebral localizada no lobo frontal.",
+          "E) Compressão lenta por um tumor em crescimento."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Conhecimento) O que é o 'intervalo lúcido', frequentemente associado a um tipo específico de hematoma intracraniano?",
+        "options": [
+          "A) O período de recuperação total da memória após a Amnésia Pós-Traumática.",
+          "B) O momento de sono profundo durante o coma.",
+          "C) Um período em que o paciente recupera a consciência após o trauma, antes de uma rápida deterioração neurológica, clássico do hematoma extradural. ",
+          "D) O tempo entre a lesão primária e a secundária, que é sempre de 72 horas. ",
+          "E) A capacidade do paciente de responder a estímulos dolorosos, mas não a comandos verbais."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Conhecimento) A postura de 'decorticação' indica uma lesão cerebral grave. Como ela se manifesta clinicamente?",
+        "options": [
+          "A) Extensão dos quatro membros.",
+          "B) Flexão dos membros inferiores e extensão dos superiores.",
+          "C) Paralisia flácida completa.",
+          "D) Extensão dos membros inferiores e flexão dos membros superiores sobre o tórax. ",
+          "E) Movimentos involuntários de rotação do tronco."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(TCE - Caso Clínico) Paciente de 25 anos, vítima de acidente de moto, chega ao hospital em coma. A tomografia não mostra hematomas, mas o paciente apresenta postura de descerebração. Qual tipo de lesão primária é mais provável de ter ocorrido?",
+        "options": [
+          "A) Contusão cortical focal no lobo parietal.",
+          "B) Fratura de base de crânio com fístula liquórica.",
+          "C) Lesão Axonal Difusa (LAD). ",
+          "D) Hematoma extradural agudo.",
+          "E) Concussão cerebral leve."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Caso Clínico) Uma criança de 2 anos chega ao pronto-socorro com sonolência e vômitos. A tomografia revela um hematoma subdural. Qual causa, considerando a epidemiologia do TCE na infância apresentada, deve ser fortemente investigada?",
+        "options": [
+          "A) Acidente automobilístico.",
+          "B) Doença degenerativa rara.",
+          "C) Intoxicação alimentar.",
+          "D) Abuso infantil (ex: 'baby shaking syndrome'). ",
+          "E) Infecção congênita."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(TCE - Caso Clínico) Paciente idoso de 82 anos sofreu uma queda há 2 dias. Inicialmente estava bem, mas agora apresenta confusão mental e hemiparesia leve. A tomografia revela uma coleção sanguínea em formato de crescente. Qual o tipo de lesão secundária mais provável?",
+        "options": [
+          "A) Hematoma extradural agudo.",
+          "B) Hematoma subdural crônico ou subagudo. ",
+          "C) Hemorragia intraparenquimatosa.",
+          "D) Isquemia por vasoespasmo.",
+          "E) Hidrocefalia de pressão normal."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(TCE - Caso Clínico) Durante a reabilitação, um paciente é classificado no Nível IV da Escala Rancho de Los Amigos ('Confuso e Agitado'). Qual a abordagem fisioterapêutica MAIS adequada para esta fase?",
+        "options": [
+          "A) Realizar sessões longas e com tarefas complexas para estimular a cognição.",
+          "B) Trabalhar em ambiente movimentado para que o paciente se acostume.",
+          "C) Focar em exercícios de alta intensidade para ganho rápido de força.",
+          "D) Estruturar a terapia em sessões curtas, em ambiente calmo, com poucas informações, explicando os procedimentos de forma simples. ",
+          "E) Ignorar a agitação e focar exclusivamente na mobilização passiva."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(TCE - Caso Clínico) Paciente em fase de reorganização (Nível VII - Automático e Apropriado) após TCE, deambula de forma independente mas superestima suas habilidades, não percebendo limites. O foco da fisioterapia deve ser:",
+        "options": [
+          "A) Manter o paciente em ambiente protegido, sem desafios.",
+          "B) Aumentar a intensidade dos exercícios, ignorando a falta de percepção de risco.",
+          "C) Trabalhar em tarefas mais complexas e funcionais, em ambientes variados, fornecendo feedback constante sobre segurança, planejamento e julgamento. ",
+          "D) Focar apenas no ganho de amplitude de movimento.",
+          "E) Retornar aos exercícios básicos da fase de despertar."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(TCE - Difícil) De acordo com o material de aula, qual é a pontuação EXATA na Escala de Glasgow que define um 'Coma Moderado'?",
+        "options": [
+          "A) 3 a 4",
+          "B) 4 a 5 ",
+          "C) 5 a 9",
+          "D) Exatamente 8",
+          "E) 9 a 12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(TCE - Difícil) O slide de epidemiologia menciona que o TCE é a principal causa de morte na infância, correspondendo a uma faixa percentual específica. Qual é essa faixa?",
+        "options": [
+          "A) 25 a 50%",
+          "B) 50 a 70%",
+          "C) 60 a 80%",
+          "D) 75 a 97% ",
+          "E) Mais de 98%"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(TCE - Difícil) Ao diferenciar os tipos de lesões do parênquima encefálico, qual alternativa descreve CORRETAMENTE a 'Contusão' conforme apresentado nos slides?",
+        "options": [
+          "A) Pequena disfunção dos neurônios sem alteração anatômica, geralmente reversível.",
+          "B) Lesões microscópicas, reversíveis ou não, mas sem lesão vascular.",
+          "C) Lesão microscópica do tecido nervoso e vascular, com edema e focos hemorrágicos, mas com preservação anatômica geral. ",
+          "D) Soma dos outros mecanismos com lesão anatômica intensa.",
+          "E) Lesão exclusivamente da substância branca por cisalhamento."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Conhecimento) De acordo com a definição da OMS, qual característica principal distingue um AVC de outras perturbações neurológicas?",
+        "options": [
+            "A) O rápido desenvolvimento dos sinais e sua suposta origem vascular. ",
+            "B) A presença obrigatória de dor de cabeça intensa.",
+            "C) A ocorrência exclusiva em pacientes com hipertensão.",
+            "D) A recuperação sempre completa em menos de 24 horas.",
+            "E) O fato de ser sempre de natureza degenerativa."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "(AVC - Conhecimento) Qual o tipo de AVC mais comum, correspondendo a cerca de 85% dos casos, e qual sua causa geral?",
+        "options": [
+            "A) Hemorrágico; causado pela ruptura de um aneurisma. ",
+            "B) Isquêmico; causado pela obstrução ou redução do fluxo sanguíneo. ",
+            "C) Lacunar; causado por hipertensão descontrolada.",
+            "D) Transitório; causado por espasmos arteriais.",
+            "E) Hemorrágico; causado por malformações arteriovenosas (MAV)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(AVC - Conhecimento) A oclusão da Artéria Cerebral Anterior (ACA) resulta em um quadro clínico característico. Qual das seguintes opções melhor descreve esse quadro?",
+        "options": [
+            "A) Hemiparesia contralateral com predomínio braquiofacial e afasia.",
+            "B) Hemianopsia homônima contralateral sem déficits motores.",
+            "C) Déficit motor e sensitivo no membro inferior contralateral, podendo haver incontinência urinária e alterações de comportamento. ",
+            "D) Tetraplegia e coma.",
+            "E) Vertigem, náuseas e ataxia."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Conhecimento) O que é um Ataque Isquêmico Transitório (AIT)?",
+        "options": [
+            "A) Um tipo de AVC hemorrágico leve.",
+            "B) Um episódio de déficit neurológico que dura mais de 24 horas, mas deixa sequelas mínimas.",
+            "C) Uma interrupção temporária do fluxo sanguíneo cerebral cujos sintomas se resolvem completamente em menos de 24 horas. ",
+            "D) O primeiro estágio de um AVC hemorrágico.",
+            "E) Um sinônimo para enxaqueca com aura."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Conhecimento) A 'decussação das pirâmides' no bulbo é a estrutura anatômica que explica por que:",
+        "options": [
+            "A) O controle da fala é lateralizado.",
+            "B) Lesões no cerebelo causam problemas de coordenação.",
+            "C) A maioria das fibras do sistema córtico-espinhal cruza para o lado oposto, fazendo com que um hemisfério cerebral controle o lado contralateral do corpo. ",
+            "D) O sistema nervoso simpático e parassimpático têm funções opostas.",
+            "E) O Polígono de Willis pode fornecer circulação colateral."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Conhecimento) O acrônimo SAMU (ou FAST em inglês) é usado para o reconhecimento rápido de um AVC. O 'S' de SAMU refere-se a qual sinal?",
+        "options": [
+            "A) Sangramento (verificar se há sangramento visível).",
+            "B) Sonolência (verificar se a pessoa está sonolenta).",
+            "C) Sorriso (pedir para a pessoa sorrir e observar se a boca está torta). ",
+            "D) Sensibilidade (verificar se há perda de sensibilidade em algum lado).",
+            "E) Sudorese (verificar se a pessoa está suando em excesso)."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Conhecimento) De acordo com a classificação topográfica da hemiparesia, o que significa um acometimento 'desproporcionado com predomínio crural'?",
+        "options": [
+            "A) O membro superior e o membro inferior do mesmo lado são afetados com a mesma intensidade.",
+            "B) Apenas o membro inferior é afetado.",
+            "C) O membro inferior de um lado e o membro superior do outro lado são afetados.",
+            "D) O membro inferior é significativamente mais fraco que o membro superior do mesmo lado. ",
+            "E) A face e o membro superior são mais afetados que o membro inferior."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(AVC - Caso Clínico) Paciente destro, 72 anos, apresenta início súbito de dificuldade para falar, compreendendo o que lhe é dito mas não conseguindo articular as palavras (afasia de expressão), e fraqueza no braço e face direitos. A oclusão de qual artéria é a causa mais provável?",
+        "options": [
+            "A) Artéria Cerebral Média esquerda. ",
+            "B) Artéria Cerebral Anterior direita.",
+            "C) Artéria Cerebral Posterior esquerda.",
+            "D) Artéria Basilar.",
+            "E) Artéria Cerebral Média direita."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "(AVC - Caso Clínico) Um paciente sofre um AVC no território da Artéria Cerebral Posterior esquerda. Além de um déficit visual (hemianopsia homônima direita), qual outra alteração sensorial, devido à irrigação do tálamo, pode ser esperada?",
+        "options": [
+            "A) Perda do olfato.",
+            "B) Perda auditiva completa.",
+            "C) Déficit de sensibilidade (tato, dor, temperatura) no hemicorpo direito. ",
+            "D) Alteração do paladar.",
+            "E) Perda exclusiva da sensibilidade vibratória."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Caso Clínico) Paciente chega à emergência com vertigem, vômitos, dificuldade para engolir (disfagia), rouquidão e ataxia. A avaliação revela déficits de pares cranianos. Estes sintomas são mais sugestivos de um AVC em qual território vascular?",
+        "options": [
+            "A) Circulação anterior (Artéria Cerebral Média).",
+            "B) Circulação posterior (Sistema Vértebro-Basilar). ",
+            "C) Circulação da Artéria Cerebral Anterior.",
+            "D) Infarto lacunar na cápsula interna.",
+            "E) AIT (Ataque Isquêmico Transitório) carotídeo."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(AVC - Caso Clínico) Durante a avaliação de um paciente pós-AVC com hemiplegia esquerda, o fisioterapeuta nota que o paciente ignora completamente objetos e pessoas à sua esquerda, e ao desenhar um relógio, desenha todos os números apenas do lado direito. Este déficit é conhecido como:",
+        "options": [
+            "A) Afasia de Wernicke.",
+            "B) Apraxia construtiva.",
+            "C) Hemianopsia homônima esquerda.",
+            "D) Heminegligência ou negligência unilateral. ",
+            "E) Anosognosia."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(AVC - Caso Clínico) Um paciente na fase espástica pós-AVC apresenta um padrão sinérgico flexor no membro superior e extensor no membro inferior. Qual seria um objetivo inicial da fisioterapia baseado no Conceito Bobath?",
+        "options": [
+            "A) Fortalecer os músculos que compõem os padrões sinérgicos para aumentar a função.",
+            "B) Utilizar técnicas para inibir os componentes mais fortes do padrão sinérgico (ex: flexão do cotovelo) e facilitar a ativação de movimentos fora da sinergia (ex: extensão do cotovelo com o ombro fletido). ",
+            "C) Ignorar os padrões e focar apenas no treino de marcha.",
+            "D) Aplicar gesso para manter o membro em posição neutra.",
+            "E) Estimular os padrões sinérgicos, pois representam uma fase normal da recuperação."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(AVC - Difícil) O slide 12 lista as 9 artérias que formam o Polígono de Willis. Qual das seguintes artérias NÃO faz parte da constituição primária deste polígono, de acordo com a lista apresentada?",
+        "options": [
+            "A) Artéria Comunicante Anterior.",
+            "B) Artéria Carótida Interna.",
+            "C) Artéria Comunicante Posterior.",
+            "D) Artéria Cerebral Posterior.",
+            "E) Artéria Cerebelar Superior. "
+        ],
+        "answer": 4
+    },
+    {
+        "question": "(AVC - Difícil) O material cita 'infarto embólico' como uma causa de AVCI. Qual é a origem mais comum dos êmbolos que causam AVC embólico?",
+        "options": [
+          "A) Trombos formados nas veias profundas dos membros inferiores.",
+          "B) Placas de aterosclerose na aorta.",
+          "C) O coração, especialmente em pacientes com fibrilação atrial ou doenças valvares. ",
+          "D) Bolhas de ar de uma injeção intravenosa.",
+          "E) Coágulos formados nas artérias cerebrais menores."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(AVC - Difícil) A classificação de um AVC hemorrágico pode ser intraparenquimatosa ou subaracnóidea. Qual das duas está mais frequentemente associada à ruptura de um aneurisma sacular na base do cérebro?",
+        "options": [
+          "A) Intraparenquimatosa, causada principalmente por hipertensão. ",
+          "B) Subaracnóidea. ",
+          "C) Ambas são igualmente associadas a aneurismas.",
+          "D) Nenhuma, pois aneurismas causam apenas AVC isquêmico.",
+          "E) Apenas em hemorragias no tronco cerebral."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Parkinson - Conhecimento) Qual é a principal característica que diferencia o tremor da Doença de Parkinson do tremor essencial?",
+        "options": [
+            "A) O tremor do Parkinson é tipicamente um tremor de ação, enquanto o essencial é de repouso.",
+            "B) O tremor do Parkinson geralmente melhora com o consumo de álcool.",
+            "C) O tremor do Parkinson é classicamente um tremor de repouso, que diminui ou desaparece com o movimento voluntário, enquanto o tremor essencial é predominantemente um tremor de ação ou postural. ",
+            "D) O tremor do Parkinson afeta apenas os membros inferiores.",
+            "E) O tremor essencial sempre está associado a outros sinais parkinsonianos, como rigidez."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Conhecimento) A 'face em máscara' ou hipomimia, comum na Doença de Parkinson, é resultado de qual alteração motora?",
+        "options": [
+            "A) Paralisia dos músculos faciais.",
+            "B) Espasticidade dos músculos da mímica facial.",
+            "C) Bradicinesia e rigidez dos músculos faciais, levando à redução da expressão espontânea. ",
+            "D) Ataxia dos músculos orofaciais.",
+            "E) Apraxia da face."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Conhecimento) O que é o 'fenômeno on-off' relacionado ao tratamento medicamentoso?",
+        "options": [
+            "A) A alternância entre períodos de sono e vigília.",
+            "B) A flutuação entre períodos de bom controle dos sintomas (período 'on') e períodos de recorrência ou piora dos sintomas (período 'off'), relacionada à medicação. ",
+            "C) A resposta do paciente à fisioterapia.",
+            "D) A necessidade de ligar e desligar o dispositivo de estimulação cerebral profunda (DBS).",
+            "E) A alternância entre tremor e rigidez."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Parkinson - Conhecimento) A Escala de Hoehn e Yahr é utilizada para:",
+        "options": [
+            "A) Avaliar o nível de dor do paciente.",
+            "B) Medir o grau de demência.",
+            "C) Classificar o estágio da Doença de Parkinson com base na distribuição (unilateral, bilateral, com ou sem comprometimento do equilíbrio). ",
+            "D) Quantificar a força muscular.",
+            "E) Avaliar o risco de quedas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Conhecimento) Qual dos seguintes fármacos é um precursor da dopamina, sendo o tratamento mais eficaz para os sintomas motores da Doença de Parkinson?",
+        "options": [
+            "A) Carbidopa",
+            "B) Amantadina",
+            "C) Selegilina",
+            "D) Levodopa ",
+            "E) Biperideno"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "(Parkinson - Conhecimento) A 'micrografia' é um sintoma frequentemente observado na Doença de Parkinson. O que ela descreve?",
+        "options": [
+            "A) Dificuldade em ler letras pequenas.",
+            "B) A tendência da caligrafia se tornar progressivamente menor e mais apertada. ",
+            "C) Fala com volume muito baixo.",
+            "D) Perda da capacidade de reconhecer rostos.",
+            "E) Movimentos pequenos e hesitantes dos pés."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Parkinson - Conhecimento) A Estimulação Cerebral Profunda (DBS) é um tratamento cirúrgico para a Doença de Parkinson. Qual seu principal mecanismo de ação?",
+        "options": [
+            "A) Regenerar os neurônios dopaminérgicos na substância negra.",
+            "B) Fornecer dopamina diretamente ao cérebro.",
+            "C) Enviar impulsos elétricos a núcleos específicos (como o núcleo subtalâmico ou o globo pálido) para modular os circuitos motores disfuncionais e aliviar os sintomas. ",
+            "D) Destruir (lesionar) o tálamo para controlar o tremor.",
+            "E) Aumentar o fluxo sanguíneo cerebral."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Caso Clínico) Paciente de 68 anos, com DP há 8 anos (Hoehn & Yahr 3), relata dificuldade em levantar-se da cadeira e virar-se na cama. Qual o principal componente motor a ser focado na fisioterapia?",
+        "options": [
+            "A) Fortalecimento isolado do quadríceps.",
+            "B) Treino de coordenação fina das mãos.",
+            "C) Melhora da mobilidade axial (rotação de tronco) e fortalecimento dos músculos do tronco e membros inferiores. ",
+            "D) Alongamento passivo dos isquiotibiais.",
+            "E) Exercícios respiratórios exclusivamente."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Caso Clínico) Um paciente com DP apresenta o 'congelamento da marcha' (freezing) ao se aproximar de portas. Qual a estratégia fisioterapêutica mais eficaz para superar o episódio?",
+        "options": [
+            "A) Pedir para ele forçar o passo e andar mais rápido.",
+            "B) Distraí-lo com uma conversa sobre outro assunto.",
+            "C) Usar uma pista externa (visual, como uma faixa no chão; auditiva, como uma batida rítmica; ou cognitiva, como 'dê um passo grande por cima de algo imaginário'). ",
+            "D) Pedir para ele fechar os olhos e se concentrar.",
+            "E) Realizar um alongamento do tríceps sural no local."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Caso Clínico) Uma paciente com DP avançada apresenta postura em flexão (camptocormia) e 'travesseiro fantasma'. Qual o principal objetivo terapêutico?",
+        "options": [
+            "A) Indicar um colete que force a extensão 24h por dia.",
+            "B) Fortalecer os músculos abdominais e peitorais.",
+            "C) Trabalhar a conscientização corporal, alongar a musculatura anterior encurtada e fortalecer a musculatura extensora do tronco e paravertebral. ",
+            "D) Realizar apenas exercícios na posição sentada.",
+            "E) Aumentar a altura dos travesseiros para acomodar a postura."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Caso Clínico) Um paciente com DP relata que sua voz está muito baixa (hipofonia) e sua escrita se tornou pequena e ilegível (micrografia). Qual abordagem terapêutica especializada é mais indicada?",
+        "options": [
+            "A) Fisioterapia convencional focada em marcha.",
+            "B) Terapia ocupacional para adaptação de utensílios de escrita e Fonoaudiologia com métodos como o LSVT LOUD® para a voz. ",
+            "C) Apenas aconselhamento psicológico.",
+            "D) Uso de medicamentos anticolinérgicos.",
+            "E) Estimulação cerebral profunda (DBS)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Parkinson - Caso Clínico) Durante a avaliação, um paciente com DP apresenta o sinal da 'roda denteada' ao teste de movimentação passiva do punho. Este sinal clínico é uma combinação de quais dois sinais cardinais da doença?",
+        "options": [
+            "A) Bradicinesia e instabilidade postural.",
+            "B) Rigidez e tremor. ",
+            "C) Tremor e congelamento da marcha.",
+            "D) Instabilidade postural e rigidez.",
+            "E) Bradicinesia e tremor."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(Parkinson - Difícil) De acordo com o Estadiamento de Hoehn & Yahr modificado apresentado, qual é a descrição exata do Estágio 2,5?",
+        "options": [
+          "A) Doença bilateral sem déficit de equilíbrio.",
+          "B) Doença unilateral e axial.",
+          "C) Doença bilateral leve, com recuperação no 'teste do empurrão'. ",
+          "D) Incapacidade grave, mas ainda capaz de caminhar sem ajuda.",
+          "E) Doença bilateral leve a moderada com alguma instabilidade postural."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Difícil) O material de aula menciona que a Levodopa é mais efetiva no alívio da rigidez e bradicinesia do que no tremor. Qual é a razão neuroquímica para isso?",
+        "options": [
+          "A) O tremor não tem relação com a dopamina.",
+          "B) A rigidez e a bradicinesia são causadas por outros neurotransmissores que não a dopamina.",
+          "C) Porque, além da deficiência de dopamina, outros neurotransmissores (como a acetilcolina, que tem maior influência no tremor) estão envolvidos na fisiopatologia, e a Levodopa atua primariamente no sistema dopaminérgico. ",
+          "D) A Levodopa aumenta o tremor como efeito colateral.",
+          "E) O tremor é um sintoma puramente psicológico."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "(Parkinson - Difícil) O slide 'Revisão' sobre a fisiopatologia menciona que a carência de dopamina permite a predominância da atividade colinérgica (excitatória), resultando em ativação generalizada dos sistemas motores. Qual o nome do autor e livro citados como fonte para esta afirmação?",
+        "options": [
+          "A) Goulart & Pereira, FISIOTERAPIA PESQUISA.",
+          "B) O'Sullivan, Fisioterapia. Avaliação e tratamento. Ed Manole. ",
+          "C) Santos VV, et al. Rev Bras Neurol.",
+          "D) Hamilton & Yang et al. 2010.",
+          "E) Oliveira J, Wachter PH, Azambuja AA. Biofísica para ciências Biomédicas. "
+        ],
+        "answer": 4
+    }
+  ]
+}
+
