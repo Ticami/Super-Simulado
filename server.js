@@ -6,7 +6,7 @@ const path = require('path');
 const multer = require('multer');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const UPLOADS_PATH = path.join(__dirname, 'uploads');
 const EXAMS_PATH = path.join(__dirname, 'exams');
 const EXAMS_DB_PATH = path.join(__dirname, 'exams.json');
