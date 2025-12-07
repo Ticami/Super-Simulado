@@ -1,0 +1,670 @@
+{
+  "subject": "Neurologia em Fisioterapia Pediátrica",
+  "questions": [
+    {
+      "id": "q-1765143258518-51686",
+      "question": "Sobre o desenvolvimento motor no primeiro ano de vida, assinale a alternativa correta.",
+      "theme": "Desenvolvimento motor típico no primeiro ano",
+      "options": [
+        "Do nascimento até os seis meses predominam movimentos voluntários finos das mãos, com pouco movimento global de tronco e membros.",
+        "Entre 7 e 9 meses é comum o bebê permanecer sentado sem apoio, manipular objetos e iniciar deslocamentos no solo (engatinhar, arrastar).",
+        "Aos 2 meses o bebê já apresenta marcha independente em ambientes internos, com apoio mínimo.",
+        "A partir dos 10 meses o bebê tende a recusar ficar em pé com apoio, pois esta postura é antinatural nessa idade."
+      ],
+      "optionExplanations": [
+        "Incorreta. Nos primeiros meses predominam movimentos globais, espontâneos e pouco organizados, não coordenação fina das mãos.",
+        "Correta. Entre 7–9 meses espera-se sedestação independente estável, manipulação de objetos e início do engatinhar ou arrastar.",
+        "Incorreta. A marcha independente surge por volta de 12 meses, não aos 2 meses.",
+        "Incorreta. Entre 9–10 meses o bebê costuma buscar ficar em pé com apoio, explorando a postura ortostática."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-42709",
+      "question": "Qual dos marcos motores abaixo é mais característico do 5º mês de vida?",
+      "theme": "Marcos motores aos 5 meses",
+      "options": [
+        "Rolar de prono para supino e alcançar objetos unilateralmente.",
+        "Manter-se em pé sem apoio por 1 minuto.",
+        "Subir degraus de forma independente.",
+        "Executar preensão pinça fina (polegar–indicador) de forma precisa."
+      ],
+      "optionExplanations": [
+        "Correta. Por volta do 5º mês é comum o bebê rolar, sustentar melhor a cabeça e realizar alcances unilaterais em decúbito.",
+        "Incorreta. Ficar em pé sem apoio ocorre mais tarde, em geral após 12 meses.",
+        "Incorreta. Subir degraus independentemente é marco do final do segundo ano de vida.",
+        "Incorreta. A pinça fina aparece mais próximo do final do primeiro ano."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-69910",
+      "question": "A hemissecção da medula espinhal direita (síndrome de Brown-Séquard) interrompe qual modalidade sensorial abaixo do nível da lesão, no lado esquerdo do corpo?",
+      "theme": "Vias sensoriais – dor e temperatura",
+      "options": [
+        "Dor e temperatura, pois as fibras cruzam poucos segmentos após entrar na medula.",
+        "Tato discriminativo e propriocepção, pois essas fibras cruzam imediatamente na medula.",
+        "Todas as modalidades sensitivas, por serem bilaterais.",
+        "Nenhuma modalidade, pois as fibras cruzam apenas no tronco encefálico."
+      ],
+      "optionExplanations": [
+        "Correta. As fibras de dor e temperatura cruzam logo após entrar na medula; hemissecção direita gera perda dessas modalidades no lado esquerdo abaixo da lesão.",
+        "Incorreta. Tato discriminativo e propriocepção cruzam no bulbo, mantendo-se ipsilaterais na medula.",
+        "Incorreta. O padrão é dissociado, não acomete todas as modalidades do mesmo lado.",
+        "Incorreta. As vias de dor e temperatura cruzam já na medula, não somente no tronco encefálico."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-62518",
+      "question": "Em relação às alterações cromossômicas da Síndrome de Down, assinale a alternativa correta.",
+      "theme": "Síndrome de Down – genética",
+      "options": [
+        "Na trissomia livre há 46 cromossomos, com duplicação apenas parcial do cromossomo 21.",
+        "Na trissomia por translocação o número total de cromossomos pode ser 46, havendo material extra do 21 aderido a outro cromossomo.",
+        "No mosaicismo todas as células do indivíduo apresentam 47 cromossomos.",
+        "Todas as formas de trissomia 21 são obrigatoriamente herdadas de um dos pais."
+      ],
+      "optionExplanations": [
+        "Incorreta. Na trissomia livre há 47 cromossomos, com três cópias completas do 21.",
+        "Correta. Na translocação o material do 21 está aderido a outro cromossomo, e o cariótipo pode permanecer com 46 cromossomos.",
+        "Incorreta. No mosaicismo há linhagens celulares normais (46) e trissômicas (47).",
+        "Incorreta. Muitas trissomias livres são eventos de novo, não herdados."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-23738",
+      "question": "Assinale a alternativa INCORRETA em relação às características clínicas da Síndrome de Down em recém-nascidos.",
+      "theme": "Síndrome de Down – quadro clínico neonatal",
+      "options": [
+        "Hipotonia generalizada e frouxidão ligamentar são achados frequentes.",
+        "Presença de fenda palpebral oblíqua, face plana e prega palmar única podem auxiliar no diagnóstico.",
+        "O desenvolvimento cognitivo é sempre normal, havendo apenas alterações físicas e cardíacas.",
+        "Malformações cardíacas congênitas são comuns e exigem rastreio precoce."
+      ],
+      "optionExplanations": [
+        "Correta em conteúdo, mas não é a resposta, pois a questão pede a incorreta. Hipotonia e frouxidão são típicas na T21.",
+        "Correta em conteúdo. Vários achados fenotípicos auxiliam na identificação precoce.",
+        "Incorreta e resposta. A T21 cursa com grau variável de deficiência intelectual, não somente alterações físicas.",
+        "Correta em conteúdo. Cardiopatias congênitas são prevalentes e exigem avaliação."
+      ],
+      "answer": 2,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-56700",
+      "question": "Em relação aos objetivos da fisioterapia para lactente de 1 ano com Síndrome de Down, qual alternativa é mais adequada?",
+      "theme": "Fisioterapia na Síndrome de Down",
+      "options": [
+        "Evitar qualquer atividade em ortostatismo para proteger as articulações frouxas.",
+        "Focar exclusivamente em alongamentos passivos, sem atividades ativas.",
+        "Promover posturas antigravitacionais, alinhamento postural, estimulação de equilíbrio e prevenção de deformidades.",
+        "Trabalhar apenas habilidades cognitivas, pois o desenvolvimento motor não é afetado."
+      ],
+      "optionExplanations": [
+        "Incorreta. A postura em pé deve ser estimulada de forma segura para favorecer marcos motores.",
+        "Incorreta. Alongamentos são importantes, mas precisam ser combinados a atividades ativas e funcionais.",
+        "Correta. O foco é favorecer desenvolvimento motor, controle postural e prevenção de deformidades ligadas à hipotonia e frouxidão ligamentar.",
+        "Incorreta. O desenvolvimento motor também é atrasado na T21 e deve ser alvo de intervenção."
+      ],
+      "answer": 2,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-91467",
+      "question": "A etiologia da Paralisia Cerebral pode ser organizada em períodos. Qual alternativa apresenta, respectivamente, causas pré-natais, peri-natais e pós-natais?",
+      "theme": "Paralisia Cerebral – etiologia",
+      "options": [
+        "Infecções congênitas; anóxia perinatal; traumatismo craniano.",
+        "Traumatismo craniano; prematuridade; meningite bacteriana.",
+        "Icterícia grave pós-natal; malformações corticais; sofrimento fetal agudo.",
+        "Hipóxia de parto; toxoplasmose congênita; afogamento."
+      ],
+      "optionExplanations": [
+        "Correta. Infecções congênitas são pré-natais; anóxia perinatal é peri-natal; traumatismo craniano é pós-natal.",
+        "Incorreta. Traumatismo craniano não é causa pré-natal; prematuridade é peri-natal; meningite é pós-natal.",
+        "Incorreta. A ordem dos períodos está trocada.",
+        "Incorreta. Sofrimento fetal agudo é peri-natal, não pós-natal."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-42426",
+      "question": "Criança com Paralisia Cerebral apresenta hipertonia elástica, hiperreflexia, padrão em tesoura e contraturas em membros inferiores. Qual o tipo predominante de PC?",
+      "theme": "Paralisia Cerebral – tipo espástico",
+      "options": [
+        "Paralisia Cerebral espástica.",
+        "Paralisia Cerebral ataxia.",
+        "Paralisia Cerebral discinética (coreoatetóide).",
+        "Paralisia Cerebral hipotônica."
+      ],
+      "optionExplanations": [
+        "Correta. A espasticidade se caracteriza por hipertonia elástica, hiperreflexia e contraturas, como descrito.",
+        "Incorreta. Ataxia manifesta-se com incoordenação e tremor de ação, não com padrão espástico.",
+        "Incorreta. A forma discinética apresenta movimentos involuntários flutuantes, não padrão em tesoura.",
+        "Incorreta. Hipotonia pura não inclui hiperreflexia e contraturas típicas."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-1374",
+      "question": "Criança com Paralisia Cerebral apresenta maior acometimento de membros inferiores, marcha em tesoura, bom controle de cabeça e pouca alteração de membros superiores. Qual a classificação topográfica mais provável?",
+      "theme": "Paralisia Cerebral – topografia",
+      "options": [
+        "Hemiplegia espástica.",
+        "Diplegia espástica.",
+        "Tetraplegia espástica.",
+        "Monoplegia espástica."
+      ],
+      "optionExplanations": [
+        "Incorreta. Hemiplegia envolve um hemicorpo (braço e perna do mesmo lado).",
+        "Correta. Diplegia espástica caracteriza-se por acometimento predominante de membros inferiores, com marcha em tesoura.",
+        "Incorreta. Tetraplegia indica acometimento grave dos quatro membros.",
+        "Incorreta. Monoplegia atinge apenas um membro."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258518-66271",
+      "question": "De acordo com o GMFCS, qual descrição corresponde mais ao Nível III?",
+      "theme": "GMFCS – classificação funcional",
+      "options": [
+        "Criança que caminha sem dispositivo em todos os ambientes, com pequenas limitações em corridas e saltos.",
+        "Criança que anda com andador ou muletas em ambiente interno e utiliza cadeira de rodas para longas distâncias.",
+        "Criança que depende totalmente de cadeira de rodas manual ou motorizada para mobilidade.",
+        "Criança que não apresenta qualquer limitação motora, inclusive em atividades esportivas complexas."
+      ],
+      "optionExplanations": [
+        "Incorreta. Descrição típica do Nível II.",
+        "Correta. Nível III exige dispositivos auxiliares para marcha e uso de cadeira de rodas em distâncias maiores.",
+        "Incorreta. Corresponde mais aos níveis IV ou V.",
+        "Incorreta. Não descreve limitação funcional, o que não se encaixa em nenhum nível do GMFCS."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-33459",
+      "question": "Criança de 2 anos com Paralisia Cerebral espástica diparética consegue rolar, sentar sem apoio e ficar em pé com apoio, mas ainda não deambula independentemente. Em relação ao prognóstico de marcha, qual alternativa é mais adequada?",
+      "theme": "Paralisia Cerebral – prognóstico de marcha",
+      "options": [
+        "A ausência total de qualquer função antigravitacional aos 2 anos indica grande chance de marcha independente futura.",
+        "Crianças que alcançam sedestação independente até 2 anos têm maior chance de desenvolver algum padrão de marcha, ainda que com auxílio.",
+        "A capacidade de rolar sem sentar não tem relação com marcha futura.",
+        "O prognóstico de marcha independe da aquisição de marcos motores prévios."
+      ],
+      "optionExplanations": [
+        "Incorreta. Ausência de função antigravitacional é mau sinal prognóstico.",
+        "Correta. Sedestação independente e ortostatismo com apoio indicam maior probabilidade de futura aquisição de marcha.",
+        "Incorreta. A sequência de marcos motores está relacionada à evolução da marcha.",
+        "Incorreta. O prognóstico de marcha é fortemente influenciado pelos marcos motores já alcançados."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-62195",
+      "question": "Em relação às neuropatias periféricas, qual alternativa descreve corretamente a polineuropatia sensório-motora?",
+      "theme": "Neuropatias periféricas – polineuropatia",
+      "options": [
+        "Acometimento de um único nervo periférico, geralmente por compressão local.",
+        "Acometimento de dois ou mais nervos periféricos não contíguos, de forma assimétrica.",
+        "Acometimento difuso e geralmente simétrico de múltiplos nervos, com sintomas distais em “luva e bota”.",
+        "Lesão exclusiva de raiz nervosa lombar, com distribuição em dermátomo."
+      ],
+      "optionExplanations": [
+        "Incorreta. Define mononeuropatia.",
+        "Incorreta. Descreve mononeuropatia múltipla.",
+        "Correta. Polineuropatia gera sintomas distais simétricos em pés e mãos.",
+        "Incorreta. Corresponde a radiculopatia."
+      ],
+      "answer": 2,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-3549",
+      "question": "Sobre os tipos de lesão de nervo periférico, assinale a alternativa correta.",
+      "theme": "Lesões nervosas periféricas – neuropraxia, axoniotmese, neurotmese",
+      "options": [
+        "Na neuropraxia há bloqueio de condução reversível com preservação do axônio, sendo a forma de melhor prognóstico.",
+        "Na axoniotmese o axônio permanece íntegro, havendo apenas compressão transitória.",
+        "Na neurotmese não ocorre degeneração walleriana, pois apenas a mielina é acometida.",
+        "Neuropraxia é sempre irreversível e exige reparo cirúrgico imediato."
+      ],
+      "optionExplanations": [
+        "Correta. Neuropraxia é lesão desmielinizante com bloqueio de condução reversível e axônio preservado.",
+        "Incorreta. Na axoniotmese há interrupção do axônio com degeneração walleriana distal.",
+        "Incorreta. Neurotmese envolve ruptura completa do nervo, com degeneração e pior prognóstico.",
+        "Incorreta. A maioria das neuropraxias se resolve espontaneamente."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-85015",
+      "question": "Em relação à Síndrome de Guillain-Barré, assinale a alternativa correta.",
+      "theme": "Síndrome de Guillain-Barré",
+      "options": [
+        "Apresenta fraqueza assimétrica descendente, iniciando em musculatura facial.",
+        "Caracteriza-se por fraqueza flácida progressiva, geralmente ascendente e simétrica, com arreflexia.",
+        "Tem curso crônico lentamente progressivo, típico de neuropatia hereditária.",
+        "Não há risco de acometimento respiratório."
+      ],
+      "optionExplanations": [
+        "Incorreta. O padrão clássico é ascendente, iniciando em membros inferiores.",
+        "Correta. A SGB é polirradiculoneuropatia inflamatória aguda com fraqueza flácida ascendente e arreflexia.",
+        "Incorreta. O curso é agudo/subagudo, não crônico hereditário.",
+        "Incorreta. Pode haver acometimento de musculatura respiratória e necessidade de suporte ventilatório."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-72522",
+      "question": "A Doença de Charcot-Marie-Tooth tipo I é melhor descrita como:",
+      "theme": "Neuropatia hereditária – Charcot-Marie-Tooth",
+      "options": [
+        "Neuropatia sensitiva pura, sem alterações motoras.",
+        "Neuropatia desmielinizante hereditária com fraqueza e atrofia distal, deformidades em pés cavos e marcha com “pé caído”.",
+        "Mononeuropatia inflamatória aguda do nervo mediano.",
+        "Radiculopatia lombar compressiva."
+      ],
+      "optionExplanations": [
+        "Incorreta. A doença acomete tanto fibras sensoriais quanto motoras.",
+        "Correta. CMT tipo I é neuropatia hereditária desmielinizante, lentamente progressiva, com atrofia distal e deformidades.",
+        "Incorreta. Não se trata de mononeuropatia focal.",
+        "Incorreta. Radiculopatia refere-se à raiz nervosa, não à neuropatia difusa hereditária."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-44723",
+      "question": "Sobre a Distrofia Muscular de Duchenne (DMD), assinale a alternativa correta.",
+      "theme": "Doenças neuromusculares – Duchenne",
+      "options": [
+        "Acomete principalmente meninas, por ser autossômica dominante.",
+        "Caracteriza-se por fraqueza proximal progressiva, marcha anserina e sinal de Gowers positivo.",
+        "Tem início após os 30 anos de idade.",
+        "É facilmente revertida com fisioterapia intensa e suplementação proteica."
+      ],
+      "optionExplanations": [
+        "Incorreta. A DMD é ligada ao cromossomo X e acomete principalmente meninos.",
+        "Correta. A doença cursa com fraqueza proximal, marcha anserina e uso das mãos para “subir nas pernas” ao levantar-se.",
+        "Incorreta. O início é na infância, em geral antes dos 5 anos.",
+        "Incorreta. A DMD é progressiva e sem cura; a fisioterapia visa retardar a perda funcional."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-99933",
+      "question": "Comparando Distrofia Muscular de Duchenne e de Becker, assinale a alternativa correta.",
+      "theme": "Duchenne x Becker",
+      "options": [
+        "Em Becker o início é mais tardio e a evolução é mais lenta, com distrofina parcialmente funcional.",
+        "Em Becker a ausência total de distrofina leva a evolução mais rápida que na Duchenne.",
+        "Em Duchenne não há comprometimento cardíaco, ao contrário de Becker.",
+        "Becker acomete preferencialmente mulheres adultas."
+      ],
+      "optionExplanations": [
+        "Correta. Becker é forma mais branda, com início mais tardio e distrofina parcialmente funcional.",
+        "Incorreta. Ausência total de distrofina é típica da Duchenne.",
+        "Incorreta. Ambas podem cursar com cardiomiopatia.",
+        "Incorreta. Ambas são ligadas ao X, acometendo principalmente homens."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-42986",
+      "question": "Em relação à Paralisia Braquial Obstétrica (PBO), assinale a alternativa correta.",
+      "theme": "Paralisia Braquial Obstétrica – tipos e prognóstico",
+      "options": [
+        "A forma mais comum envolve raízes C5–C6 (Erb-Duchenne), com dificuldade de abdução de ombro e flexão de cotovelo.",
+        "A forma de Klumpke (C8–T1) compromete apenas ombro e cotovelo, poupando mão.",
+        "Ausência de contração do bíceps até 3–6 meses é sinal de bom prognóstico.",
+        "Todas as PBO exigem reparo cirúrgico imediato."
+      ],
+      "optionExplanations": [
+        "Correta. A PBO superior C5–C6 é a apresentação mais frequente, com perda de abdução de ombro e flexão de cotovelo.",
+        "Incorreta. A forma de Klumpke compromete principalmente musculatura intrínseca da mão.",
+        "Incorreta. Falta de recuperação do bíceps até 3–6 meses indica pior prognóstico.",
+        "Incorreta. O manejo inicial costuma ser conservador; cirurgia é indicada em casos selecionados."
+      ],
+      "answer": 0,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-89593",
+      "question": "Sobre a paralisia facial, qual alternativa diferencia adequadamente a lesão central da periférica?",
+      "theme": "Paralisia facial central x periférica",
+      "options": [
+        "Na lesão central há acometimento de toda a hemiface ipsilateral, inclusive testa.",
+        "Na lesão periférica há preservação completa da musculatura frontal, acometendo apenas lábios.",
+        "Na lesão central geralmente há paresia do terço inferior da face contralateral, com preservação relativa da musculatura frontal.",
+        "Em ambas as lesões toda a face é igualmente acometida, impossibilitando diferenciação clínica."
+      ],
+      "optionExplanations": [
+        "Incorreta. Acometimento global da hemiface é típico de lesão periférica.",
+        "Incorreta. Preservação da testa com acometimento de lábios sugere lesão central.",
+        "Correta. A inervação bilateral da região frontal preserva a testa em lesões centrais, com paresia predominante no terço inferior contralateral.",
+        "Incorreta. O padrão de acometimento permite diferenciar central de periférico."
+      ],
+      "answer": 2,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-20217",
+      "question": "Criança com lesão medular traumática completa ao nível C7 apresenta qual padrão funcional esperado?",
+      "theme": "Lesão medular – nível neurológico C7",
+      "options": [
+        "Ausência total de função de membros superiores.",
+        "Preservação de função de bíceps e extensores de punho, com possibilidade de independência em transferências com treino.",
+        "Preservação de musculatura intrínseca de mão, permitindo preensão fina normal.",
+        "Marcha independente sem órteses, pois lesões cervicais não afetam membros inferiores."
+      ],
+      "optionExplanations": [
+        "Incorreta. Em C7 há função em diversos músculos dos membros superiores.",
+        "Correta. Lesão C7 preserva bíceps, extensores de punho e parte de tríceps, permitindo boa independência em cuidados pessoais e transferências.",
+        "Incorreta. Musculatura intrínseca da mão depende de segmentos C8–T1, comprometidos na lesão.",
+        "Incorreta. Lesões cervicais comprometem vias motoras para membros inferiores, impedindo marcha independente."
+      ],
+      "answer": 1,
+      "level": "medio"
+    },
+    {
+      "id": "q-1765143258519-78771",
+      "question": "Em relação ao desenvolvimento motor típico, qual habilidade é mais esperada em torno de 9 meses de idade?",
+      "theme": "Desenvolvimento motor – 9 meses",
+      "options": [
+        "Segurar a cabeça pela primeira vez em alinhamento com o tronco em prono.",
+        "Sentar sem apoio, manipular objetos e iniciar deslocamentos em quatro apoios (engatinhar).",
+        "Caminhar de forma independente por longas distâncias.",
+        "Executar preensão em pinça fina (polegar–indicador) para pegar pequenos objetos."
+      ],
+      "optionExplanations": [
+        "Incorreta. O controle cervical em prono aparece em torno de 3 meses.",
+        "Correta. Entre 7–9 meses ocorre sedestação independente estável e início do engatinhar.",
+        "Incorreta. Marcha independente é esperada por volta dos 12 meses ou mais.",
+        "Incorreta. A pinça fina surge geralmente no final do primeiro ano."
+      ],
+      "answer": 1,
+      "level": "basico"
+    },
+    {
+      "id": "q-1765143258519-4421",
+      "question": "De acordo com o GMFCS, qual descrição é mais compatível com Nível I?",
+      "theme": "GMFCS – Nível I",
+      "options": [
+        "Criança que depende de cadeira de rodas para mobilidade na maior parte do tempo.",
+        "Criança que precisa de andador ou muletas para andar em ambientes internos.",
+        "Criança que caminha sem limitações significativas em casa, na escola e na comunidade, com leve dificuldade em atividades mais complexas.",
+        "Criança que não consegue manter a postura sentada sem apoio."
+      ],
+      "optionExplanations": [
+        "Incorreta. Descrição típica de níveis IV ou V, com grande dependência de cadeira de rodas.",
+        "Incorreta. Caracteriza mais o Nível III.",
+        "Correta. No Nível I a criança caminha de forma praticamente livre em todos os ambientes, com leves dificuldades em tarefas mais exigentes.",
+        "Incorreta. Falta de controle de tronco sentada é mais compatível com níveis IV e V."
+      ],
+      "answer": 2,
+      "level": "basico"
+    },
+    {
+      "id": "q-1765143258519-33813",
+      "question": "Qual das características abaixo é mais típica da Síndrome de Down na fase neonatal?",
+      "theme": "Síndrome de Down – sinais iniciais",
+      "options": [
+        "Hipertonia muscular generalizada.",
+        "Frouxidão ligamentar e hipotonia global.",
+        "Aumento de reflexos profundos com clônus.",
+        "Ausência total de movimentos espontâneos."
+      ],
+      "optionExplanations": [
+        "Incorreta. A T21 se apresenta com hipotonia, não hipertonia.",
+        "Correta. Hipotonia generalizada e frouxidão ligamentar são marcantes em recém-nascidos com T21.",
+        "Incorreta. Hiperreflexia sugeriria lesão piramidal, não T21 isoladamente.",
+        "Incorreta. Apesar da hipotonia, há movimentos espontâneos, apenas mais lentos e frouxos."
+      ],
+      "answer": 1,
+      "level": "basico"
+    },
+    {
+      "id": "q-1765143258519-86201",
+      "question": "Qual definição descreve adequadamente a neuropraxia?",
+      "theme": "Neuropraxia – conceito",
+      "options": [
+        "Ruptura completa do nervo periférico com secção do axônio e dos envoltórios.",
+        "Interrupção do axônio com degeneração walleriana distal, porém preservação parcial dos envoltórios.",
+        "Bloqueio transitório da condução nervosa por desmielinização, com axônio preservado e bom prognóstico.",
+        "Degeneração exclusivamente muscular, sem envolvimento do nervo periférico."
+      ],
+      "optionExplanations": [
+        "Incorreta. Essa descrição corresponde à neurotmese.",
+        "Incorreta. Define axoniotmese.",
+        "Correta. Neuropraxia é bloqueio de condução reversível, com axônio íntegro.",
+        "Incorreta. Degeneração exclusivamente muscular caracteriza miopatias, não neuropraxia."
+      ],
+      "answer": 2,
+      "level": "basico"
+    },
+    {
+      "id": "q-1765143258519-94503",
+      "question": "Qual padrão clínico sugere mais fortemente polineuropatia sensório-motora?",
+      "theme": "Polineuropatia – padrão clínico",
+      "options": [
+        "Fraqueza e parestesia restritas ao território do nervo mediano.",
+        "Parestesias em “luva e bota” com perda de sensibilidade distal e arreflexia aquileia.",
+        "Hemiparesia com hiperreflexia e sinal de Babinski.",
+        "Tetraplegia espástica com clônus generalizado."
+      ],
+      "optionExplanations": [
+        "Incorreta. Sugere mononeuropatia focal, como síndrome do túnel do carpo.",
+        "Correta. A distribuição distal simétrica em pés e mãos com arreflexia é típica de polineuropatias.",
+        "Incorreta. Hemiparesia espástica indica lesão central.",
+        "Incorreta. Tetraplegia espástica aponta para lesão medular ou encefálica."
+      ],
+      "answer": 1,
+      "level": "basico"
+    },
+    {
+      "id": "q-1765143258519-9385",
+      "question": "Lactente pré-termo extremo, com 32 semanas de gestação, apresenta leucomalácia periventricular bilateral. Aos 3 anos, deambula com andador em ambientes internos, utiliza cadeira de rodas para longas distâncias e tem função de membros superiores pouco comprometida. Qual combinação de diagnóstico é mais provável?",
+      "theme": "Paralisia Cerebral – correlação etiologia, topografia e GMFCS",
+      "options": [
+        "Paralisia Cerebral atáxica, hemiparesia direita, GMFCS Nível I.",
+        "Paralisia Cerebral espástica diparética, GMFCS Nível III.",
+        "Paralisia Cerebral discinética generalizada, GMFCS Nível V.",
+        "Paralisia Cerebral hipotônica pura, GMFCS Nível II."
+      ],
+      "optionExplanations": [
+        "Incorreta. Leucomalácia periventricular em prematuros associa-se mais a diplegia espástica, não a ataxia isolada.",
+        "Correta. Acometimento predominante de membros inferiores, uso de andador e cadeira de rodas em distâncias maiores é típico de diplegia espástica GMFCS III.",
+        "Incorreta. PC discinética está relacionada a lesão de núcleos da base, com movimentos involuntários intensos, não descritos aqui.",
+        "Incorreta. Hipotonia pura é rara e não explica o padrão de marcha em andador."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258519-92380",
+      "question": "Criança de 5 anos com Paralisia Cerebral apresenta tônus aumentado tipo espástico em quatro membros, controle de cabeça e tronco precário, uso de cadeira de rodas manual com auxílio para propulsão, e participa de transferências com ajuda máxima. Qual nível do GMFCS é o mais adequado?",
+      "theme": "GMFCS – níveis altos e funcionalidade",
+      "options": [
+        "Nível II.",
+        "Nível III.",
+        "Nível IV.",
+        "Nível V."
+      ],
+      "optionExplanations": [
+        "Incorreta. Nível II descreve criança que caminha sem dispositivos, o que não ocorre aqui.",
+        "Incorreta. No Nível III a criança anda com dispositivos; neste caso, a mobilidade principal é por cadeira de rodas.",
+        "Correta. Nível IV caracteriza criança que usa cadeira de rodas, tem algum controle postural e participa de transferências com ajuda substancial.",
+        "Incorreta. Nível V implica dependência quase total e controle postural mínimo, mais grave que o caso descrito."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258519-61620",
+      "question": "Criança de 8 anos com Síndrome de Down apresenta importantes limitações de equilíbrio, genu valgo bilateral e instabilidade atlanto-axial confirmada por radiografia. Qual conduta fisioterapêutica é MAIS adequada em relação às atividades motoras globais?",
+      "theme": "Síndrome de Down – instabilidade atlanto-axial e conduta",
+      "options": [
+        "Estimular exercícios de impacto de alta intensidade, como saltos em trampolim, para fortalecer membros inferiores.",
+        "Evitar exercícios que envolvam flexão e extensão extrema de coluna cervical, priorizando atividades de equilíbrio em superfícies estáveis e fortalecimento global.",
+        "Suspender qualquer atividade motora e manter apenas alongamentos passivos de membros inferiores.",
+        "Utilizar técnicas de manipulação cervical de alta velocidade para ganhar mobilidade articular."
+      ],
+      "optionExplanations": [
+        "Incorreta. Atividades de alto impacto aumentam o risco de lesão medular em presença de instabilidade atlanto-axial.",
+        "Correta. Devem-se evitar extremos de movimento cervical e priorizar treino de equilíbrio e fortalecimento em condições seguras.",
+        "Incorreta. Restringir completamente as atividades motoras prejudica o desenvolvimento; o objetivo é adaptar, não abolir.",
+        "Incorreta. Manipulações cervicais de alta velocidade são contraindicadas em instabilidade atlanto-axial."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258519-82018",
+      "question": "Paciente de 10 anos com suspeita de Distrofia Muscular de Duchenne apresenta marcha anserina, sinal de Gowers positivo e aumento de volume aparente em panturrilhas. O exame de creatinoquinase (CK) está extremamente elevado. Em relação ao diagnóstico diferencial com polineuropatia sensório-motora, qual achado reforça MAIS o diagnóstico de DMD?",
+      "theme": "Duchenne x polineuropatia – diagnóstico diferencial",
+      "options": [
+        "Padrão de fraqueza distal em “pé caído” com arreflexia aquileia.",
+        "Presença de pseudo-hipertrofia de panturrilhas e fraqueza predominantemente proximal.",
+        "Perda de sensibilidade em luva e bota.",
+        "Dor neuropática em queimação predominante em pés."
+      ],
+      "optionExplanations": [
+        "Incorreta. Esse padrão é típico de polineuropatia, não de miopatia.",
+        "Correta. A DMD cursa com fraqueza proximal, pseudo-hipertrofia de panturrilhas e CK muito elevada, sem padrão sensitivo em luva e bota.",
+        "Incorreta. Alteração sensitiva distal é característica de polineuropatias.",
+        "Incorreta. Dor neuropática em queimação é mais comum em neuropatia periférica."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258519-60410",
+      "question": "Em um quadro de Síndrome de Guillain-Barré, qual alteração respiratória exige maior atenção imediata do fisioterapeuta e da equipe multiprofissional?",
+      "theme": "Síndrome de Guillain-Barré – complicações respiratórias",
+      "options": [
+        "Aumento discreto da frequência respiratória durante exercício leve, com saturação normal.",
+        "Capacidade vital forçada abaixo de 15 mL/kg associada a fraqueza de musculatura respiratória.",
+        "Tosse produtiva eficaz sem queda de saturação.",
+        "Ausência de queixas respiratórias com pico de fluxo de tosse maior que 270 L/min."
+      ],
+      "optionExplanations": [
+        "Incorreta. Taquipneia leve isolada pode ser resposta ao esforço, sem indicar insuficiência iminente.",
+        "Correta. Redução importante da CVF com fraqueza respiratória indica risco de insuficiência ventilatória e necessidade de suporte.",
+        "Incorreta. Tosse eficaz e saturação normal não indicam emergência imediata.",
+        "Incorreta. Pico de fluxo de tosse adequado sugere boa capacidade de limpeza de vias aéreas."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258520-26365",
+      "question": "Paciente com suspeita de neuropraxia do nervo radial após uso prolongado de muletas apresenta queda de punho, mas estudos eletroneuromiográficos mostram preservação de potencial de ação distal e ausência de degeneração walleriana. Qual conduta fisioterapêutica inicial é MAIS adequada?",
+      "theme": "Lesão de nervo periférico – conduta na neuropraxia",
+      "options": [
+        "Tracionar passivamente o nervo radial para acelerar o processo de regeneração.",
+        "Imobilizar o punho em flexão forçada para evitar contraturas.",
+        "Realizar posicionamento funcional com órtese em extensão de punho, treino de compensações seguras e estimulação sensório-motora suave.",
+        "Prescrever exercícios resistidos máximos para extensores de punho desde o primeiro dia."
+      ],
+      "optionExplanations": [
+        "Incorreta. Trações neurais agressivas podem agravar a lesão; não são indicadas na fase aguda.",
+        "Incorreta. Flexão forçada favorece encurtamentos e piora da função; o ideal é posição funcional.",
+        "Correta. Neuropraxia tende à recuperação espontânea; órtese funcional e estímulo suave evitam deformidades e facilitam retorno da função.",
+        "Incorreta. Exercícios resistidos máximos em músculo paralisado podem gerar fadiga e não contribuem para regeneração."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258520-67539",
+      "question": "Criança de 4 anos com mielomeningocele lombar baixa (L4–L5) apresenta força preservada de quadríceps, fraqueza de tibial anterior e bom controle de tronco. Em relação ao prognóstico de marcha, qual alternativa é mais provável?",
+      "theme": "Mielomeningocele – nível de lesão e marcha",
+      "options": [
+        "Ausência definitiva de marcha independente, mesmo com órteses.",
+        "Possibilidade de marcha comunitária com uso de órteses de tornozelo-pé (AFO) e, eventualmente, dispositivos auxiliares.",
+        "Prognóstico de marcha idêntico ao de lesões torácicas altas, com dependência de cadeira de rodas.",
+        "Impossibilidade de manter postura sentada independentemente."
+      ],
+      "optionExplanations": [
+        "Incorreta. Lesões lombares baixas frequentemente permitem algum padrão de marcha com órteses.",
+        "Correta. Com quadríceps preservado e fraqueza distal, AFO e dispositivos auxiliares podem garantir marcha comunitária.",
+        "Incorreta. Lesões torácicas têm prognóstico de marcha bem pior que lombares baixas.",
+        "Incorreta. Com bom controle de tronco, a sedestação independente é possível."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258520-22698",
+      "question": "Lactente de 18 meses com Paralisia Cerebral apresenta movimento involuntário lento, contorcido (atetose), que aumenta com tentativa de movimento voluntário e some durante o sono. O tônus de repouso é variável, sem padrão espástico fixo. Qual tipo de PC é mais provável?",
+      "theme": "Paralisia Cerebral – tipo discinético",
+      "options": [
+        "Paralisia Cerebral espástica diparética.",
+        "Paralisia Cerebral atáxica.",
+        "Paralisia Cerebral discinética (coreoatetóide).",
+        "Paralisia Cerebral hipotônica pura."
+      ],
+      "optionExplanations": [
+        "Incorreta. Diplegia espástica é marcada por hipertonia elástica em membros inferiores.",
+        "Incorreta. Ataxia cursa com tremor de ação e desequilíbrio, não com movimentos contorcidos contínuos.",
+        "Correta. Movimentos involuntários flutuantes que pioram com o esforço voluntário e desaparecem no sono são típicos da forma discinética.",
+        "Incorreta. Hipotonia pura não explica os movimentos involuntários descritos."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258520-96094",
+      "question": "Criança de 6 anos com hemiparesia espástica esquerda secundária a AVC perinatal apresenta marcha com circundução do membro inferior esquerdo, padrão equino e dificuldade de abertura de mão no lado afetado. Em relação à conduta fisioterapêutica motora, qual é a prioridade mais adequada?",
+      "theme": "Hemiparesia espástica – objetivos de reabilitação",
+      "options": [
+        "Focar exclusivamente em alongamentos passivos de membro superior afetado, sem treino de marcha.",
+        "Promover treino de marcha com ênfase em apoio adequado do pé, uso de órteses se necessário, fortalecimento seletivo e treinamento bimanual funcional.",
+        "Evitar qualquer tipo de carga em membro inferior afetado, para prevenir deformidades.",
+        "Realizar apenas exercícios de alta velocidade e impacto para “quebrar” a espasticidade."
+      ],
+      "optionExplanations": [
+        "Incorreta. Alongamentos são importantes, mas necessitam ser associados ao treino funcional de marcha e uso do membro superior.",
+        "Correta. A intervenção deve integrar alinhamento de pé, uso de órteses, fortalecimento seletivo e treino bimanual para maximizar função.",
+        "Incorreta. A carga controlada é fundamental para função e desenvolvimento ósseo.",
+        "Incorreta. Exercícios de alta velocidade podem aumentar a espasticidade e risco de queda."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765143258520-31393",
+      "question": "Paciente de 12 anos com neuropatia hereditária tipo Charcot-Marie-Tooth refere fadiga aos pequenos esforços, deformidades em pés cavos e instabilidade em terrenos irregulares. Durante avaliação, observa-se redução importante de dorsiflexão ativa e deficiência proprioceptiva distal. Qual estratégia fisioterapêutica é MAIS importante para melhorar a segurança na marcha comunitária?",
+      "theme": "Charcot-Marie-Tooth – estratégia de reabilitação",
+      "options": [
+        "Treinar corrida de alta velocidade em pista irregular para estimular adaptação motora rápida.",
+        "Priorizar treino de salto e mudanças bruscas de direção sem órteses, para fortalecer musculatura remanescente.",
+        "Utilizar órteses de tornozelo-pé (AFO) para controlar o pé caído, associadas a treino de equilíbrio, propriocepção e orientação sobre conservação de energia.",
+        "Restringir a marcha a ambientes internos planos, evitando qualquer tentativa de adaptação em ambientes externos."
+      ],
+      "optionExplanations": [
+        "Incorreta. Corrida em terreno irregular aumenta risco de queda em paciente com fraqueza distal e déficit proprioceptivo.",
+        "Incorreta. Saltos e mudanças bruscas sem suporte elevam o risco de torções e quedas.",
+        "Correta. AFO controla pé caído, reduz tropeços; treino de equilíbrio e propriocepção, somado à orientação sobre economia de energia, melhora segurança na marcha comunitária.",
+        "Incorreta. Restringir permanentemente o paciente a ambientes internos limita participação social; o objetivo é adaptar com apoio adequado."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    }
+  ]
+}

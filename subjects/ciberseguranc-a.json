@@ -1,0 +1,544 @@
+{
+  "subject": "Cibersegurança",
+  "questions": [
+    {
+      "question": "O que caracteriza um ataque de força bruta em sistemas computacionais?",
+      "options": [
+        "A) Utiliza engenharia social para enganar o usuário.",
+        "B) Remove as proteções de firewall automaticamente.",
+        "C) Realiza tentativas automáticas e sucessivas de senhas até encontrar a correta.",
+        "D) Envia arquivos maliciosos por e-mail.",
+        "E) Intercepta dados trafegando em redes abertas."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual das opções representa uma prática segura no uso de senhas?",
+      "options": [
+        "A) Utilizar senhas com informações pessoais fáceis de lembrar.",
+        "B) Anotar a senha em um post-it e deixá-la visível.",
+        "C) Compartilhar a senha com colegas de confiança.",
+        "D) Reutilizar a mesma senha em todos os sistemas.",
+        "E) Utilizar combinações únicas de letras, números e caracteres especiais."
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Qual é a diferença entre um vírus e um worm em cibersegurança?",
+      "options": [
+        "A) Um vírus se espalha sozinho, enquanto um worm precisa de interação do usuário",
+        "B) Um worm se espalha sozinho, enquanto um vírus precisa de um arquivo hospedeiro e da ação do usuário para se propagar.",
+        "C) Ambos são a mesma coisa, com nomes diferentes.",
+        "D) Um vírus só afeta arquivos de sistema, enquanto um worm afeta apenas arquivos de dados.",
+        "E) Um vírus é um tipo de hardware malicioso, enquanto um worm é um software."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que caracteriza um ataque de negação de serviço (DoS)?",
+      "options": [
+        "A) Roubo de senhas usando páginas falsas.",
+        "B) Interceptação de tráfego criptografado em rede Wi-Fi.",
+        "C) Modificação de dados sem permissão.",
+        "D) Sobrecarga de um sistema com tráfego excessivo para torná-lo indisponível.",
+        "E) Espionagem de comunicações institucionais."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é o principal objetivo da criptografia em segurança digital?",
+      "options": [
+        "A) Aumentar a velocidade da conexão com a internet.",
+        "B) Impedir o acesso de usuários à rede local.",
+        "C) Melhorar o desempenho de aplicativos corporativos.",
+        "D) Realizar backups automáticos em nuvem.",
+        "E) Tornar os dados ilegíveis para quem não tem a chave de decodificação."
+      ],
+      "answer": 4
+    },
+    {
+      "question": "O que é um firewall, no contexto de segurança da informação?",
+      "options": [
+        "A) Um equipamento que armazena grandes quantidades de dados.",
+        "B) Um sistema que permite acesso irrestrito à internet.",
+        "C) Uma barreira de hardware ou software que filtra e controla o tráfego de rede com base em regras de segurança.",
+        "D) Um antivírus com foco em redes locais.",
+        "E) Um método para recuperar arquivos apagados por engano."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é Phishing?",
+      "options": [
+        "A) Um tipo de ataque que sobrecarrega um servidor com solicitações.",
+        "B) Um tipo de malware que se replica automaticamente através da rede.",
+        "C) Uma técnica de engenharia social usada para enganar usuários e obter informações confidenciais, como senhas e detalhes de cartão de crédito.",
+        "D) Um software que registra tudo o que é digitado em um teclado.",
+        "E) Um ataque que explora vulnerabilidades em software desatualizado."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a função principal de um servidor proxy?",
+      "options": [
+        "A) Gerar senhas aleatórias para os usuários.",
+        "B) Servir como intermediário entre o usuário e a internet, podendo mascarar o IP, filtrar conteúdo e fazer cache de dados.",
+        "C) Aumentar a velocidade de download de arquivos grandes.",
+        "D) Corrigir falhas de roteamento de dados na nuvem.",
+        "E) Armazenar dados criptografados em backup automático."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa a sigla VPN?",
+      "options": [
+        "A) Virtualized Protection Network",
+        "B) Verified Public Network",
+        "C) Virtual Private Network",
+        "D) Value Protocol Network",
+        "E) Varying Packet Node"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual das opções a seguir descreve um ataque do tipo Man-in-the-Middle (MitM)?",
+      "options": [
+        "A) Redirecionamento de tráfego para sites falsos via spam.",
+        "B) Invasão física a servidores para extrair dados.",
+        "C) Envio de mensagens automáticas com links maliciosos.",
+        "D) Interceptação e possível alteração da comunicação entre duas partes sem que elas saibam.",
+        "E) Instalação de malware por pen drive infectado."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é uma botnet?",
+      "options": [
+        "A) Uma rede de bots usados para fazer backup de dados.",
+        "B) Um sistema automatizado de e-mails legítimos.",
+        "C) Uma rede de dispositivos infectados (zumbis) controlados remotamente por um invasor para realizar ataques em massa.",
+        "D) Um grupo de computadores corporativos configurados em rede.",
+        "E) Um conjunto de firewalls com autenticação de múltiplos fatores."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a principal característica de um ransomware?",
+      "options": [
+        "A) Ele infecta sistemas apenas com objetivo de espionagem.",
+        "B) Ele realiza backups automáticos de arquivos sensíveis.",
+        "C) Ele impede o acesso ao sistema, forçando reinicializações contínuas.",
+        "D) Ele criptografa os dados da vítima e exige um pagamento (resgate) para fornecer a chave de descriptografia.",
+        "E) Ele atua apenas em dispositivos móveis, roubando contatos."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Como podemos definir um certificado digital (SSL/TLS) no ambiente da internet?",
+      "options": [
+        "A) Um código de segurança para senhas bancárias.",
+        "B) Um documento físico utilizado para acessar redes privadas.",
+        "C) Um antivírus avançado utilizado por empresas.",
+        "D) Um mecanismo eletrônico que autentica a identidade de um site e permite uma conexão criptografada.",
+        "E) Um tipo de firewall de autenticação reforçada."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que caracteriza um ataque de engenharia social?",
+      "options": [
+        "A) Envio de comandos maliciosos por meio de SQL.",
+        "B) Manipulação de softwares para desativar antivírus.",
+        "C) Manipulação psicológica que explora a confiança, medo ou curiosidade da vítima para obter informações ou acesso.",
+        "D) Sobreposição de pacotes em uma rede para interceptar tráfego.",
+        "E) Encriptação de arquivos com uso de técnicas de ransomware."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que define o 'Princípio do Menor Privilégio' em segurança da informação?",
+      "options": [
+        "A) Permitir que todos os usuários acessem todas as áreas do sistema para maior flexibilidade.",
+        "B) Conceder a um usuário apenas as permissões estritamente necessárias para desempenhar suas funções, e nada mais.",
+        "C) Utilizar múltiplas redes Wi-Fi para evitar rastreamento.",
+        "D) Monitorar o histórico de navegação de todos os dispositivos.",
+        "E) Compartilhar senhas de acesso com supervisores em caso de emergência."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual é a finalidade de um honeypot em um ambiente de segurança?",
+      "options": [
+        "A) Servir como sistema de backup de emergência.",
+        "B) Criptografar senhas e logins armazenados.",
+        "C) Isolar sistemas vulneráveis da rede principal.",
+        "D) Servir como um sistema-isca, projetado para atrair, detectar e registrar o comportamento de atacantes em um ambiente controlado.",
+        "E) Agir como proxy em comunicações internas."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Qual é o objetivo de um ataque de injeção SQL (SQL Injection)?",
+      "options": [
+        "A) Substituir o sistema de autenticação por biometria.",
+        "B) Excluir todos os dados de backup da rede.",
+        "C) Inserir ou manipular comandos SQL maliciosos na entrada de dados de uma aplicação para acessar ou manipular o banco de dados.",
+        "D) Enviar spam com códigos criptografados.",
+        "E) Redirecionar o usuário para páginas falsas sem autenticação."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual das alternativas representa uma forma de autenticação biométrica?",
+      "options": [
+        "A) PIN de segurança com quatro dígitos.",
+        "B) Token físico para autenticação.",
+        "C) Impressão digital como fator de verificação.",
+        "D) Senha com combinação de letras e números.",
+        "E) Código enviado por SMS."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que diferencia um ataque DDoS de um DoS?",
+      "options": [
+        "A) O DDoS utiliza múltiplos dispositivos distribuídos (uma botnet) para sobrecarregar o sistema, enquanto o DoS geralmente origina-se de uma única fonte.",
+        "B) O DDoS realiza varreduras em redes privadas antes de agir, enquanto o DoS não.",
+        "C) O DDoS exige interação humana constante durante a execução.",
+        "D) O DDoS apenas simula lentidão, sem causar impacto real.",
+        "E) O DDoS desativa criptografias, enquanto o DoS não interfere nisso."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é o principal objetivo da autenticação de dois fatores (2FA)?",
+      "options": [
+        "A) Eliminar completamente o uso de senhas.",
+        "B) Garantir acesso a todos os dispositivos com um único clique.",
+        "C) Adicionar uma segunda camada de segurança, exigindo duas formas distintas de verificação (algo que você sabe, algo que você tem, ou algo que você é).",
+        "D) Ativar a autenticação apenas em horários comerciais.",
+        "E) Reduzir o tempo de login por meio de tokens."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é um rootkit em um ambiente computacional?",
+      "options": [
+        "A) Um antivírus para redes corporativas.",
+        "B) Um software que faz backup automático dos arquivos do sistema.",
+        "C) Um tipo de malware projetado para obter controle de nível administrativo sobre um sistema, permanecendo oculto do administrador e de softwares de segurança.",
+        "D) Um módulo de autenticação com base em reconhecimento facial.",
+        "E) Um sistema de gerenciamento de senhas criptografadas."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é o principal objetivo de um plano de resposta a incidentes de segurança?",
+      "options": [
+        "A) Melhorar o desempenho geral do sistema de rede.",
+        "B) Coletar estatísticas de uso para relatórios mensais.",
+        "C) Fornecer uma abordagem estruturada e organizada para lidar com incidentes de segurança, minimizando danos e tempo de recuperação.",
+        "D) Realizar atualizações automáticas em sistemas operacionais.",
+        "E) Corrigir erros de conexão em dispositivos móveis."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a função de um sistema de detecção de intrusões (IDS)?",
+      "options": [
+        "A) Criptografar o tráfego de rede entre dispositivos.",
+        "B) Registrar acessos físicos ao data center.",
+        "C) Monitorar o tráfego de rede ou sistemas em busca de atividades maliciosas ou violações de políticas e emitir alertas.",
+        "D) Garantir o backup automático dos dados armazenados.",
+        "E) Bloquear ativamente qualquer tráfego suspeito."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é um keylogger no contexto de ataques cibernéticos?",
+      "options": [
+        "A) Um firewall especializado em detectar acessos externos.",
+        "B) Um mecanismo de dupla autenticação por biometria.",
+        "C) Um tipo de spyware que registra secretamente as teclas digitadas por um usuário, capturando senhas e outras informações sensíveis.",
+        "D) Um módulo que realiza verificação de integridade de arquivos.",
+        "E) Um agente de proteção que criptografa discos em tempo real."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual das alternativas representa uma boa prática contra ataques de ransomware?",
+      "options": [
+        "A) Reutilizar senhas fortes em todos os sistemas.",
+        "B) Desabilitar firewalls para aumentar a performance.",
+        "C) Manter backups regulares e offline dos dados importantes e manter softwares e sistemas operacionais sempre atualizados.",
+        "D) Aceitar cookies de qualquer site para navegação rápida.",
+        "E) Compartilhar credenciais apenas em situações emergenciais."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que representa um hash no contexto da segurança digital?",
+      "options": [
+        "A) Um tipo de firewall que atua por camadas.",
+        "B) Um código de verificação de software enviado por SMS.",
+        "C) Uma representação alfanumérica de tamanho fixo de um conjunto de dados, gerada por um algoritmo unidirecional, usada para verificar a integridade dos dados.",
+        "D) Uma senha temporária gerada automaticamente por tokens.",
+        "E) Uma assinatura digital que protege conexões Wi-Fi."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é um ataque de spear phishing?",
+      "options": [
+        "A) Uma campanha massiva de envio de mensagens automáticas sem alvo específico.",
+        "B) Uma variação do ransomware voltada para dados bancários.",
+        "C) Um ataque de phishing altamente direcionado e personalizado a um indivíduo ou organização específica, usando informações já conhecidas sobre o alvo.",
+        "D) Uma técnica de desativação remota de antivírus.",
+        "E) Uma infecção por links ocultos em arquivos PDF."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é o papel de um sistema de prevenção de intrusões (IPS)?",
+      "options": [
+        "A) Realizar auditoria em backups armazenados em nuvem.",
+        "B) Além de detectar atividades maliciosas como um IDS, um IPS também toma ações para bloquear ou prevenir ativamente essas atividades.",
+        "C) Organizar permissões de acesso por função de usuário.",
+        "D) Atualizar dispositivos com correções de segurança.",
+        "E) Executar scripts de análise em sistemas operacionais Linux."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que caracteriza um ataque do tipo zero-day?",
+      "options": [
+        "A) A exploração de uma vulnerabilidade de software que é desconhecida pelo fabricante e para a qual ainda não existe uma correção.",
+        "B) A tentativa de login com múltiplas credenciais conhecidas.",
+        "C) A execução de um worm que se propaga automaticamente.",
+        "D) A replicação de dados em redes descentralizadas.",
+        "E) O uso de links fraudulentos em redes sociais."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qual é uma boa prática ao utilizar redes Wi-Fi públicas?",
+      "options": [
+        "A) Compartilhar dados diretamente com outros usuários conectados.",
+        "B) Utilizar uma VPN (Virtual Private Network) para criptografar todo o tráfego da conexão.",
+        "C) Aceitar todas as permissões de navegador solicitadas.",
+        "D) Acessar dados bancários apenas com aba anônima.",
+        "E) Conectar-se à rede sem senha para facilitar o acesso."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que caracteriza um ataque de spoofing?",
+      "options": [
+        "A) Acesso remoto indevido com uso de força bruta.",
+        "B) Envio de spam para múltiplos destinatários.",
+        "C) A falsificação de uma identidade (como um endereço de e-mail, IP ou nome de usuário) para enganar sistemas ou pessoas e ganhar uma vantagem ilegítima.",
+        "D) Monitoramento de tráfego DNS em redes privadas.",
+        "E) Bloqueio intencional de portas de rede."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que acontece em um ataque do tipo watering hole?",
+      "options": [
+        "A) Um hacker utiliza falha em roteadores para explorar a rede local.",
+        "B) O atacante infecta sites legítimos que são frequentemente visitados por um grupo específico de vítimas, esperando que elas se infectem ao acessar o site confiável.",
+        "C) Uma campanha de phishing é disparada automaticamente para empresas.",
+        "D) Um malware é ocultado em arquivos ZIP baixados em massa.",
+        "E) O invasor bloqueia o acesso de administradores ao painel de controle."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que significa DLP (Data Loss Prevention) em segurança da informação?",
+      "options": [
+        "A) Um sistema que apaga arquivos antigos para liberar espaço no disco.",
+        "B) Um protocolo que monitora falhas em roteadores Wi-Fi.",
+        "C) Um conjunto de estratégias e ferramentas para garantir que dados sensíveis não sejam perdidos, mal utilizados ou acessados por usuários não autorizados.",
+        "D) Uma ferramenta para compactar dados em backups.",
+        "E) Um antivírus especializado em redes corporativas."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual é a diferença fundamental entre HTTP e HTTPS?",
+      "options": [
+        "A) O HTTP realiza compressão automática de dados, o HTTPS não.",
+        "B) O HTTPS utiliza uma camada de segurança (SSL/TLS) para criptografar a comunicação entre o navegador e o servidor, enquanto o HTTP envia dados em texto plano.",
+        "C) O HTTP é usado para redes privadas e HTTPS para redes públicas.",
+        "D) O HTTP é padrão em dispositivos móveis, o HTTPS não é compatível.",
+        "E) O HTTPS requer hardware dedicado para funcionar."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é uma sandbox no contexto da segurança cibernética?",
+      "options": [
+        "A) Um tipo de firewall voltado para ambientes virtuais.",
+        "B) Um sistema que bloqueia automaticamente conexões suspeitas.",
+        "C) Um ambiente de teste isolado e seguro onde códigos suspeitos podem ser executados e analisados sem afetar o sistema principal.",
+        "D) Um módulo de backup automático em nuvem.",
+        "E) Um sistema de controle de acesso físico a servidores."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é credential stuffing?",
+      "options": [
+        "A) Um ataque que criptografa dados de login e exige resgate para liberação.",
+        "B) Um ataque automatizado que utiliza listas de credenciais (usuário e senha) previamente vazadas de um serviço para tentar autenticar em múltiplos outros serviços.",
+        "C) Uma tentativa de engenharia social com base em perguntas de segurança.",
+        "D) Um mecanismo de verificação em duas etapas via e-mail.",
+        "E) Uma falha na autenticação biométrica por reconhecimento facial."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que consiste um ataque de sniffing?",
+      "options": [
+        "A) A interceptação e análise de pacotes de dados que trafegam em uma rede, com o objetivo de capturar informações sensíveis.",
+        "B) Invasão por backdoors em firewalls mal configurados.",
+        "C) Interrupção do sinal de Wi-Fi para executar spoofing.",
+        "D) Modificação de hashes com técnicas de força bruta.",
+        "E) Sequestro de sessões ativas via proxy."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "O que define o princípio da segregação de funções (SoD - Segregation of Duties)?",
+      "options": [
+        "A) A criação de logs automáticos para todas as transações realizadas no sistema.",
+        "B) A prática de dividir uma tarefa ou responsabilidade crítica entre mais de uma pessoa, para evitar que um único indivíduo tenha controle total e possa cometer fraudes.",
+        "C) A configuração de permissões para grupos de usuários.",
+        "D) A separação física entre servidores de aplicação e de banco de dados.",
+        "E) A restrição do uso de software de terceiros em ambientes corporativos."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Em que consiste um ataque de cross-site request forgery (CSRF)?",
+      "options": [
+        "A) Um ataque que redireciona o tráfego da vítima para um site clonado.",
+        "B) Um ataque que infecta servidores DNS com malware.",
+        "C) Um ataque que engana um usuário autenticado a submeter uma requisição maliciosa a um site, fazendo com que ele execute uma ação indesejada sem seu conhecimento.",
+        "D) Um ataque de injeção de comandos em navegadores com uso de JavaScript.",
+        "E) Um ataque que sequestra sessões ativas de e-mail."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A Tríade da Segurança da Informação é composta por quais três pilares fundamentais?",
+      "options": [
+        "A) Hardware, Software e Rede.",
+        "B) Autenticação, Autorização e Auditoria.",
+        "C) Confidencialidade, Integridade e Disponibilidade.",
+        "D) Prevenção, Detecção e Resposta.",
+        "E) Criptografia, Firewall e Antivírus."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual padrão de segurança Wi-Fi é considerado o mais seguro e recomendado atualmente?",
+      "options": [
+        "A) WEP (Wired Equivalent Privacy)",
+        "B) WPA (Wi-Fi Protected Access)",
+        "C) WPA2 (Wi-Fi Protected Access 2)",
+        "D) WPA3 (Wi-Fi Protected Access 3)",
+        "E) WPS (Wi-Fi Protected Setup)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "O que é um 'trojan' (cavalo de troia) em cibersegurança?",
+      "options": [
+        "A) Um vírus que se anexa a outros programas para se espalhar.",
+        "B) Um tipo de malware que se disfarça de software legítimo para enganar o usuário a instalá-lo, abrindo uma backdoor para o sistema.",
+        "C) Um worm que se propaga automaticamente pela rede.",
+        "D) Um spyware que rouba informações bancárias.",
+        "E) Um adware que exibe anúncios indesejados."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qual o propósito do framework MITRE ATT&CK®?",
+      "options": [
+        "A) É um padrão de criptografia para proteger dados em trânsito.",
+        "B) É uma base de conhecimento globalmente acessível de táticas e técnicas de adversários baseada em observações do mundo real.",
+        "C) É um software de antivírus para empresas.",
+        "D) É uma certificação de segurança para profissionais de TI.",
+        "E) É um protocolo de segurança para redes sem fio."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "O que é uma Ameaça Persistente Avançada (APT - Advanced Persistent Threat)?",
+      "options": [
+        "A) Um ataque de phishing enviado repetidamente para o mesmo alvo.",
+        "B) Um tipo de ransomware que não pode ser removido.",
+        "C) Um ataque cibernético prolongado e direcionado, no qual um invasor ganha acesso a uma rede e permanece sem ser detectado por um longo período, com o objetivo de roubar dados.",
+        "D) Uma vulnerabilidade de software que ainda não foi corrigida.",
+        "E) Um ataque DDoS que dura vários dias."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O Stuxnet, descoberto em 2010, é um exemplo famoso de qual tipo de ciberarma?",
+      "options": [
+        "A) Um keylogger para roubar senhas de redes sociais.",
+        "B) Um ransomware que atacou hospitais.",
+        "C) Um worm altamente sofisticado projetado para atacar sistemas de controle industrial (SCADA), especificamente as centrífugas de enriquecimento de urânio do Irã.",
+        "D) Um vírus de macro que se espalhava por documentos do Microsoft Word.",
+        "E) Um botnet usado para enviar spam em massa."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "O que é um ataque de Cross-Site Scripting (XSS)?",
+      "options": [
+        "A) Um ataque que força o usuário a executar ações indesejadas em um site onde está autenticado.",
+        "B) Um ataque que injeta scripts maliciosos em sites confiáveis, que são então executados no navegador de outros usuários que visitam o site.",
+        "C) Um ataque que manipula consultas a um banco de dados.",
+        "D) Um ataque que sobrecarrega um servidor com tráfego.",
+        "E) Um ataque que rouba cookies de sessão através da interceptação de rede."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Após o vazamento de logins e senhas de usuários em um fórum online, qual medida pode evitar o uso dessas credenciais por atacantes em outros serviços?",
+      "options": [
+        "A) Utilizar backups criptografados na nuvem.",
+        "B) Exigir VPN para acessos externos.",
+        "C) Implementar autenticação de dois fatores (2FA).",
+        "D) Redefinir o protocolo de e-mails internos.",
+        "E) Instalar um firewall físico por setor."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qual tipo de ataque é mais provável de ocorrer ao acessar uma conta bancária em uma rede Wi-Fi pública e desprotegida?",
+      "options": [
+        "A) Ataque de força bruta.",
+        "B) Man-in-the-Middle (MitM).",
+        "C) Invasão por rootkit.",
+        "D) SQL Injection.",
+        "E) Phishing via SMS."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Durante um treinamento, os colaboradores foram orientados a não abrir anexos de e-mails desconhecidos nem clicar em links suspeitos. Essa ação faz parte de qual prática?",
+      "options": [
+        "A) Treinamento técnico para suporte.",
+        "B) Análise de logs e sistemas.",
+        "C) Educação em segurança cibernética e conscientização do usuário.",
+        "D) Criação de firewalls lógicos.",
+        "E) Instalação de antivírus empresariais."
+      ],
+      "answer": 2
+    }
+  ]
+}
