@@ -278,8 +278,16 @@
                     radio.type = 'radio';
                     radio.name = `answer-${index}`;
                     radio.value = optIndex;
+                    // Remove letras prefixadas (A)/B)/C)) que ja venham no texto.
+                    const cleanOpt = (() => {
+                        let txt = (opt || '').trimStart();
+                        for (let i = 0; i < 2; i++) {
+                            txt = txt.replace(/^[A-Ea-e][\)\.\-:]\s*/, '');
+                        }
+                        return txt.trimStart();
+                    })();
                     const text = document.createElement('span');
-                    text.innerHTML = `<strong>${String.fromCharCode(65 + optIndex)})</strong> ${opt}`;
+                    text.innerHTML = `<strong>${String.fromCharCode(65 + optIndex)})</strong> ${cleanOpt}`;
                     row.appendChild(radio);
                     row.appendChild(text);
                     optionsList.appendChild(row);
@@ -358,11 +366,19 @@
                     q.optionExplanations.forEach((exp, i) => {
                         const li = document.createElement('li');
                         li.innerHTML = `<strong>${String.fromCharCode(65 + i)}):</strong> ${exp || 'Sem explicacao'}`;
-                        li.classList.add(i === q.answer ? 'correct' : (i === chosenIdx ? 'chosen' : ''));
+                        const cls = i === q.answer ? 'correct' : (i === chosenIdx ? 'chosen' : '');
+                        if (cls) li.classList.add(cls);
                         list.appendChild(li);
                     });
                     feedback.appendChild(list);
                 }
+                // Destaca alternativas corretas/erradas diretamente nas opções.
+                const optionRows = card.querySelectorAll('.option-row');
+                optionRows.forEach((row, i) => {
+                    row.classList.remove('correct-answer-style', 'incorrect-answer-style');
+                    if (i === q.answer) row.classList.add('correct-answer-style');
+                    if (i === chosenIdx && chosenIdx !== q.answer) row.classList.add('incorrect-answer-style');
+                });
                 card.appendChild(feedback);
             });
             if (scoreElementEl) scoreElementEl.textContent = `Acertos: ${score}/${currentQuizData.length}`;
@@ -684,5 +700,8 @@
         el.style.display = show ? el.dataset.displayOriginal : 'none';
     }
 })();
+
+
+
 
 
