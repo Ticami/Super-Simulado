@@ -1,1 +1,7 @@
+.env
 node_modules/
+uploads/
+exams/
+exams.json
+exams-data/
+subjects/

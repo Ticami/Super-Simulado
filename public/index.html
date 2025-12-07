@@ -4,37 +4,320 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Super Simulado</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style-new.css">
 </head>
 <body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <button id="logoHome" class="brand-button" type="button">
+                <span class="brand-icon">SS</span>
+                <div class="brand-text">
+                    <span class="brand-title">Super Simulado</span>
+                    <span class="brand-subtitle">Dashboard</span>
+                </div>
+            </button>
 
-    <div id="startScreen">
-        <h1>Super Simulado</h1>
-        <h2>Escolha a matéria para estudar:</h2>
-        <div id="subject-selection" class="button-container">
+            <nav class="sidebar-nav">
+                <p class="eyebrow">Navegação</p>
+                <button id="goToStart" class="nav-link is-active" type="button">
+                    <span class="nav-label">Início</span>
+                </button>
+                <button id="goToSettings" class="nav-link" type="button">
+                    <span class="nav-label">Configurações</span>
+                </button>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="hint-card">
+                    <p class="eyebrow">Tema</p>
+                    <p class="muted">Alterne rapidamente entre claro e escuro.</p>
+                    <button id="toggleThemeQuick" class="ghost-button" type="button">Alternar tema</button>
+                </div>
             </div>
-        <p id="loading-message">Carregando matérias...</p>
+        </aside>
+
+        <div class="workspace">
+            <button id="sidebarToggle" class="sidebar-toggle" type="button" aria-label="Alternar barra lateral">
+                <span class="toggle-icon">◀</span>
+            </button>
+            <header id="topNav" class="topbar">
+                <div>
+                    <p class="eyebrow">Tela Inicial</p>
+                    <h1>Personalize seu simulado</h1>
+                    <p class="muted">Use filtros, carregue provas e monitore insights por matéria.</p>
+                </div>
+                <div class="topbar-actions">
+                    <div class="pill soft">Online</div>
+                </div>
+            </header>
+
+            <main>
+                <section class="shell" id="startScreen">
+                    <div class="panel-grid">
+                        <div class="glass-card hero-card">
+                            <div class="card-header">
+                                <div>
+                                    <p class="eyebrow">Gerador</p>
+                                    <h2>Edite seu simulado</h2>
+                                </div>
+                                <div class="pill">Passo 1</div>
+                            </div>
+                            <p class="muted">Escolha a matéria, nível e quantidade máxima das questões.</p>
+                            <div class="grid form-grid">
+                                <div class="section">
+                                    <label for="filterSubjectSelect">Matéria</label>
+                                    <select id="filterSubjectSelect" name="filterSubjectSelect">
+                                        <option value="">Selecione uma matéria</option>
+                                    </select>
+                                </div>
+                                <div class="section">
+                                    <label for="filterLevel">Nível</label>
+                                    <select id="filterLevel" name="filterLevel">
+                                        <option value="">Qualquer</option>
+                                        <option value="básico">Básico</option>
+                                        <option value="médio" selected>Médio</option>
+                                        <option value="avançado">Avançado</option>
+                                    </select>
+                                </div>
+                                <div class="section">
+                                    <label for="filterQuantity">Quantidade de perguntas</label>
+                                    <select id="filterQuantity" name="filterQuantity">
+                                        <option value="">Selecione matéria e nível</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="actions-row">
+                                <button type="button" id="startFilteredButton" class="action-button">Iniciar prova</button>
+                                <button type="button" id="exportTxtButton" class="action-button secondary">Exportar questões (.txt)</button>
+                            </div>
+                            <p id="loading-message" class="muted">Carregando matérias...</p>
+                        </div>
+
+                        <div class="glass-card insights-card">
+                            <div class="card-header">
+                                <div>
+                                    <p class="eyebrow">Insights</p>
+                                    <h3>Mapa de temas por matéria</h3>
+                                    <p class="muted">Selecione a matéria para ver temas que precisam de reforço.</p>
+                                </div>
+                                <select id="insightSubjectSelect" name="insightSubjectSelect">
+                                    <option value="">Selecione uma matéria</option>
+                                </select>
+                            </div>
+                            <div id="insightChart" class="bar-chart muted">Selecione uma matéria para ver o gráfico.</div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="createScreen" class="shell" style="display:none;">
+                    <div class="glass-card">
+                        <div class="card-header">
+                            <div>
+                                <p class="eyebrow">Banco de questões</p>
+                                <h2>Criar pergunta</h2>
+                            </div>
+                            <div class="pill soft">Passo 2</div>
+                        </div>
+                        <form id="createQuestionForm" class="section">
+                            <div class="grid form-grid">
+                                <div>
+                                    <label for="subjectSelect">Matéria existente</label>
+                                    <select id="subjectSelect" name="subjectSelect">
+                                        <option value="">Selecione uma matéria</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <label for="newSubject">Ou criar nova matéria</label>
+                                    <input type="text" id="newSubject" name="newSubject" placeholder="Ex.: Anatomia Humana">
+                                </div>
+                                <div>
+                                    <label for="level">Nível da questão</label>
+                                    <select id="level" name="level">
+                                        <option value="básico">Básico</option>
+                                        <option value="médio" selected>Médio</option>
+                                        <option value="avançado">Avançado</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <label for="questionText">Enunciado</label>
+                            <textarea id="questionText" name="questionText" rows="3" placeholder="Digite o enunciado da questão"></textarea>
+
+                            <div id="optionsContainer" class="section"></div>
+                            <button type="button" id="addOptionButton" class="action-button secondary">+ Adicionar opção</button>
+
+                            <label for="attachments">Anexar arquivos (PDF, imagens)</label>
+                            <input type="file" id="attachments" name="attachments" multiple>
+
+                            <div class="actions-row">
+                                <button type="submit" class="action-button">Salvar pergunta</button>
+                            </div>
+                            <p id="createStatus" class="status-message muted"></p>
+                        </form>
+                    </div>
+                </section>
+
+                <section id="addExamScreen" class="shell" style="display:none;">
+                    <div class="glass-card">
+                        <div class="card-header">
+                            <div>
+                                <p class="eyebrow">Importar prova</p>
+                                <h2>Adicionar prova (arquivo)</h2>
+                            </div>
+                            <div class="pill soft">TXT / CSV</div>
+                        </div>
+                        <form id="addExamForm" class="section">
+                            <div>
+                                <label for="examFormat">Formato do arquivo</label>
+                                <select id="examFormat" name="examFormat">
+                                    <option value="txt" selected>.txt</option>
+                                    <option value="csv">.csv</option>
+                                </select>
+                            </div>
+
+                            <label for="examFile">Arquivo da prova (.txt ou .csv)</label>
+                            <input type="file" id="examFile" name="examFile" accept=".txt,.csv">
+                            <label for="examText">Ou cole aqui o texto no formato do prompt</label>
+                            <textarea id="examText" name="examText" rows="8" placeholder="Cole aqui a saída .txt gerada (Matéria, Nível, Q1..., etc.)"></textarea>
+
+                            <div class="actions-row">
+                                <button type="submit" class="action-button">Salvar prova</button>
+                            </div>
+                            <p id="addExamStatus" class="status-message muted"></p>
+                        </form>
+                    </div>
+                </section>
+
+                <section id="manageExamsScreen" class="shell" style="display:none;">
+                    <div class="glass-card hero-card">
+                        <div class="card-header">
+                            <div>
+                                <p class="eyebrow">Administração</p>
+                                <h2>Gerenciar simulados</h2>
+                                <p class="muted">Edite ou remova simulados já cadastrados. Para remover, informe a senha.</p>
+                            </div>
+                            <div class="pill soft">Passo 3</div>
+                        </div>
+                        <div class="section">
+                            <div class="grid form-grid">
+                                <div>
+                                    <label for="managePassword">Senha para remover</label>
+                                    <input type="password" id="managePassword" placeholder="Digite a senha (1402)">
+                                </div>
+                                <div class="inline" style="gap:8px; align-items:flex-end;">
+                                    <div>
+                                        <p class="muted">Dica: a senha padrão é 1402.</p>
+                                    </div>
+                                    <button id="reloadExams" class="action-button secondary" type="button">Recarregar</button>
+                                </div>
+                            </div>
+                            <div class="table-card">
+                                <div class="table-head">
+                                    <span>Matéria</span>
+                                    <span>Nível</span>
+                                    <span>Importadas</span>
+                                    <span>Enviado em</span>
+                                    <span>Ações</span>
+                                </div>
+                                <div id="manageExamsList" class="table-body muted">
+                                    Carregando simulados...
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="settingsScreen" class="shell" style="display:none;">
+                    <div class="glass-card hero-card">
+                        <div class="card-header">
+                            <div>
+                                <p class="eyebrow">Personalização</p>
+                                <h2>Configurações</h2>
+                            </div>
+                            <div class="pill soft">Atalhos</div>
+                        </div>
+                        <div class="section">
+                            <div class="option-row">
+                                <div id="openPromptScreen" class="option-card">Prompt modelo</div>
+                                <div id="goToAddExam" class="option-card">Adicionar prova (arquivo)</div>
+                                <div id="goToCreate" class="option-card">Criar pergunta</div>
+                                <div id="goToManageExams" class="option-card">Editar/Remover simulados</div>
+                            </div>
+                            <div class="glass-card tone-card">
+                                <div class="inline" style="justify-content: space-between;">
+                                    <div>
+                                        <h4>Tema</h4>
+                                        <p class="muted">Alterne entre tema claro e escuro.</p>
+                                    </div>
+                                    <button id="toggleTheme" class="action-button secondary">Alternar tema</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="promptScreen" class="shell" style="display:none;">
+                    <div class="glass-card prompt-panel">
+                        <div class="prompt-header">
+                            <div>
+                                <p class="eyebrow">Configurações</p>
+                                <h2>Prompt modelo</h2>
+                                <p class="muted">Use este modelo para pedir ao ChatGPT provas em .txt ou .csv com anexos (fotos, slides, etc.).</p>
+                            </div>
+                            <button id="backFromPrompt" class="action-button secondary">Voltar</button>
+                        </div>
+                        <form id="promptForm" class="section">
+                            <label for="promptTemplate">Prompt</label>
+                            <textarea id="promptTemplate" name="promptTemplate" rows="12"></textarea>
+                            <div class="actions-row">
+                                <button type="submit" class="action-button">Salvar prompt</button>
+                            </div>
+                            <p id="promptStatus" class="status-message muted"></p>
+                        </form>
+                    </div>
+                </section>
+
+                <section id="quizArea" class="shell" style="display:none;">
+                    <div class="glass-card">
+                        <div class="inline" style="justify-content: space-between;">
+                            <h2 id="quiz-subject-title"></h2>
+                            <div class="pill" id="timer">Tempo Restante: --:--:--</div>
+                        </div>
+                        <form id="quizForm"></form>
+                        <div class="actions-row">
+                            <button type="button" id="submitButton" class="action-button">Finalizar Prova</button>
+                        </div>
+                        <div id="results" style="display:none;">
+                            <h2>Resultados</h2>
+                            <p id="score"></p>
+                            <p id="overallFeedback"></p>
+                            <div class="actions-row">
+                                <button type="button" id="retryButton" class="action-button" style="display:none;">Refazer Prova</button>
+                                <button type="button" id="retryWrongButton" class="action-button secondary" style="display:none;">Reforçar erros</button>
+                                <button type="button" id="generateAiButton" class="action-button secondary" style="display:none;">Gerar novas questões (IA)</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
     </div>
 
-    <div id="quizArea" class="quiz-container" style="display:none;">
-        <h2 id="quiz-subject-title"></h2>
-        <div id="timer">Tempo Restante: --:--:--</div>
-        <form id="quizForm">
-            </form>
-        <div class="button-container">
-            <button type="button" id="submitButton" class="action-button">Finalizar Prova</button>
-        </div>
-        <div id="results" style="display:none;">
-            <h2>Resultados</h2>
-            <p id="score"></p>
-            <p id="overallFeedback"></p>
+    <div id="confirmOverlay" class="modal-overlay" style="display:none;">
+        <div class="modal">
+            <h3>Confirmar saída</h3>
+            <p>Você está no meio de uma prova. Deseja sair e perder o progresso?</p>
             <div class="button-container">
-                <button type="button" id="retryButton" class="action-button" style="display:none;">Refazer Prova</button>
+                <button id="confirmStay" class="action-button secondary">Continuar na prova</button>
+                <button id="confirmLeave" class="action-button">Sair da prova</button>
             </div>
         </div>
     </div>
 
     <script src="quiz.js"></script>
-
 </body>
 </html>
+
