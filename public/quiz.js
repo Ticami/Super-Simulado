@@ -7,6 +7,7 @@
         // Elementos principais / telas
         const startScreenEl = get('startScreen');
         const createScreenEl = get('createScreen');
+        const createDetailScreenEl = get('createDetailScreen');
         const addExamScreenEl = get('addExamScreen');
         const manageExamsScreenEl = get('manageExamsScreen');
         const settingsScreenEl = get('settingsScreen');
@@ -14,6 +15,7 @@
         const quizAreaEl = get('quizArea');
         const loadingMessageEl = get('loading-message');
         const quizSubjectTitleEl = get('quiz-subject-title');
+        const topNavEl = get('topNav');
         const quizFormEl = get('quizForm');
         const timerElementEl = get('timer');
         const submitButtonEl = get('submitButton');
@@ -23,6 +25,7 @@
         const retryButtonEl = get('retryButton');
         const retryWrongButtonEl = get('retryWrongButton');
         const generateAiButtonEl = get('generateAiButton');
+        const backHomeButtonEl = get('backHomeButton');
 
         // Navegacao
         const logoHomeEl = get('logoHome');
@@ -31,6 +34,8 @@
         const goToCreateEl = get('goToCreate');
         const goToSettingsEl = get('goToSettings');
         const goToManageExamsEl = get('goToManageExams');
+        const openCreateDetailEl = get('openCreateDetail');
+        const backToCreateLandingEl = get('backToCreateLanding');
 
         // Filtros iniciais
         const filterSubjectSelectEl = get('filterSubjectSelect');
@@ -49,10 +54,17 @@
         const newSubjectEl = get('newSubject');
         const levelSelectEl = get('level');
         const questionTextEl = get('questionText');
+        const createPasswordEl = get('createPassword');
         const optionsContainerEl = get('optionsContainer');
         const addOptionButtonEl = get('addOptionButton');
         const attachmentsEl = get('attachments');
         const createStatusEl = get('createStatus');
+        const bulkFormEl = get('bulkQuestionForm');
+        const bulkSubjectSelectEl = get('bulkSubjectSelect');
+        const bulkNewSubjectEl = get('bulkNewSubject');
+        const bulkQuestionsTextEl = get('bulkQuestionsText');
+        const bulkCreatePasswordEl = get('bulkCreatePassword');
+        const bulkCreateStatusEl = get('bulkCreateStatus');
 
         // Adicionar prova
         const addExamFormEl = get('addExamForm');
@@ -130,10 +142,13 @@
             setDisplay(startScreenEl, target === 'start');
             setDisplay(quizAreaEl, target === 'quiz');
             setDisplay(createScreenEl, target === 'create');
+            setDisplay(createDetailScreenEl, target === 'createDetail');
             setDisplay(addExamScreenEl, target === 'addExam');
             setDisplay(manageExamsScreenEl, target === 'manageExams');
             setDisplay(settingsScreenEl, target === 'settings');
             setDisplay(promptScreenEl, target === 'prompt');
+            setDisplay(topNavEl, target === 'start');
+            setDisplay(sidebarToggleEl, target === 'quiz');
             setSidebarCollapsed(target === 'quiz');
         }
 
@@ -190,7 +205,7 @@
             if (loadingMessageEl) loadingMessageEl.textContent = 'Carregando materias...';
             const subjects = await fetchSubjects();
             if (loadingMessageEl) loadingMessageEl.textContent = subjects.length ? '' : 'Nenhuma materia encontrada.';
-            const selects = [filterSubjectSelectEl, subjectSelectEl, insightSubjectSelectEl];
+            const selects = [filterSubjectSelectEl, subjectSelectEl, bulkSubjectSelectEl, insightSubjectSelectEl];
             selects.forEach(sel => {
                 if (!sel) return;
                 sel.innerHTML = '';
@@ -385,8 +400,13 @@
             if (overallFeedbackElementEl) overallFeedbackElementEl.textContent = wrongQuestions.length ? 'Reforce os temas marcados e tente novamente.' : 'Excelente!';
             if (resultsContainerEl) resultsContainerEl.style.display = 'block';
             if (retryButtonEl) retryButtonEl.style.display = 'inline-flex';
-            if (retryWrongButtonEl) retryWrongButtonEl.style.display = wrongQuestions.length ? 'inline-flex' : 'none';
-            if (generateAiButtonEl) generateAiButtonEl.style.display = wrongQuestions.length ? 'inline-flex' : 'none';
+            if (retryWrongButtonEl) {
+                retryWrongButtonEl.style.display = wrongQuestions.length ? 'inline-flex' : 'none';
+                retryWrongButtonEl.classList.add('action-button');
+                retryWrongButtonEl.classList.remove('secondary');
+            }
+            if (generateAiButtonEl) generateAiButtonEl.style.display = 'none';
+            if (submitButtonEl) submitButtonEl.style.display = 'none';
         }
 
         function retryQuiz(useWrongOnly = false) {
@@ -397,6 +417,7 @@
             quizSubmitted = false;
             buildQuiz(currentQuizData);
             if (resultsContainerEl) resultsContainerEl.style.display = 'none';
+            if (submitButtonEl) submitButtonEl.style.display = 'inline-flex';
             startTimer(Math.max(1, currentQuizData.length) * 60);
         }
 
@@ -471,6 +492,8 @@
             if (!subject) { if (createStatusEl) createStatusEl.textContent = 'Escolha ou crie uma materia.'; return; }
             const question = (questionTextEl?.value || '').trim();
             if (!question) { if (createStatusEl) createStatusEl.textContent = 'Digite o enunciado.'; return; }
+            const createPassword = (createPasswordEl?.value || '').trim();
+            if (!createPassword) { if (createStatusEl) createStatusEl.textContent = 'Informe a senha para salvar.'; return; }
             const optionRows = Array.from(optionsContainerEl?.querySelectorAll('.option-edit-row') || []);
             const options = optionRows.map(r => r.querySelector('.option-text')?.value.trim()).filter(Boolean);
             const explanations = optionRows.map(r => r.querySelector('.option-exp')?.value.trim() || '');
@@ -482,6 +505,7 @@
             formData.append('question', question);
             formData.append('answer', answerIndex);
             formData.append('level', levelSelectEl?.value || 'medio');
+            formData.append('createPassword', createPassword);
             options.forEach(o => formData.append('options', o));
             explanations.forEach(exp => formData.append('optionExplanations', exp));
             Array.from(attachmentsEl?.files || []).forEach(file => formData.append('attachments', file));
@@ -498,6 +522,38 @@
             } catch (err) {
                 console.error(err);
                 if (createStatusEl) createStatusEl.textContent = 'Erro ao salvar a pergunta.';
+            }
+        }
+
+        async function submitBulkQuestions(event) {
+            event.preventDefault();
+            if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = '';
+            const subject = (bulkNewSubjectEl?.value || '').trim() || (bulkSubjectSelectEl?.value || '');
+            if (!subject) { if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = 'Escolha ou crie uma materia.'; return; }
+            const rawText = (bulkQuestionsTextEl?.value || '').trim();
+            if (!rawText) { if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = 'Cole as questoes no formato do prompt.'; return; }
+            const password = (bulkCreatePasswordEl?.value || '').trim();
+            if (!password) { if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = 'Informe a senha para salvar.'; return; }
+            try {
+                const res = await fetch('/api/questions/bulk', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        subject,
+                        rawText,
+                        password
+                    })
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.message || 'Falha ao salvar');
+                if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = `Questoes importadas: ${data.imported || 0}`;
+                if (bulkQuestionsTextEl) bulkQuestionsTextEl.value = '';
+                if (bulkCreatePasswordEl) bulkCreatePasswordEl.value = '';
+                subjectQuestionsCache[subject] = null;
+                await loadSubjects();
+            } catch (err) {
+                console.error(err);
+                if (bulkCreateStatusEl) bulkCreateStatusEl.textContent = err.message || 'Erro ao salvar as questoes.';
             }
         }
 
@@ -549,7 +605,10 @@
                         <span>${ex.level || '-'}</span>
                         <span>${ex.importedQuestions || 0}</span>
                         <span>${ex.uploadedAt ? new Date(ex.uploadedAt).toLocaleString() : '-'}</span>
-                        <span><button class="ghost-button danger" data-id="${ex.id}">Remover</button></span>
+                        <span class="actions">
+                            <button class="ghost-button" data-edit="${ex.subject}">Editar</button>
+                            <button class="ghost-button danger" data-id="${ex.id}">Remover</button>
+                        </span>
                     `;
                     manageExamsListEl?.appendChild(row);
                 });
@@ -559,9 +618,26 @@
             }
         }
 
+        function goToEditSubject(subject) {
+            if (!subject) return;
+            // Preseleciona matéria na tela de criação e abre export em nova aba para edição via TXT.
+            if (subjectSelectEl) {
+                const exists = Array.from(subjectSelectEl.options || []).some(o => o.value === subject);
+                if (!exists) {
+                    const opt = document.createElement('option');
+                    opt.value = subject;
+                    opt.textContent = subject;
+                    subjectSelectEl.appendChild(opt);
+                }
+                subjectSelectEl.value = subject;
+            }
+            showScreen('create');
+            window.open(`/api/export/${encodeURIComponent(subject)}`, '_blank');
+        }
+
         async function deleteExam(id) {
             const password = (managePasswordEl?.value || '').trim();
-            if (!password) { alert('Digite a senha (1402) para remover.'); return; }
+            if (!password) { alert('Digite a senha para remover.'); return; }
             try {
                 const res = await fetch(`/api/exams/${id}`, {
                     method: 'DELETE',
@@ -578,6 +654,11 @@
         }
 
         manageExamsListEl?.addEventListener('click', (e) => {
+            const editBtn = e.target.closest('button[data-edit]');
+            if (editBtn) {
+                goToEditSubject(editBtn.dataset.edit);
+                return;
+            }
             const btn = e.target.closest('button[data-id]');
             if (!btn) return;
             deleteExam(btn.dataset.id);
@@ -608,8 +689,12 @@
                 const res = await fetch('/api/prompt');
                 const data = await res.json();
                 const raw = data.prompt || '';
-                if (promptTemplateEl) promptTemplateEl.value = raw.replace(/\\n/g, '\n');
-            } catch (err) { console.error('Erro ao carregar prompt', err); }
+                const fallback = 'Cole aqui seu prompt modelo para gerar provas.';
+                if (promptTemplateEl) promptTemplateEl.value = (raw || fallback).replace(/\\n/g, '\n');
+            } catch (err) {
+                console.error('Erro ao carregar prompt', err);
+                if (promptTemplateEl) promptTemplateEl.value = 'Cole aqui seu prompt modelo para gerar provas.';
+            }
         }
 
         async function savePrompt(event) {
@@ -658,6 +743,8 @@
         goToManageExamsEl?.addEventListener('click', async () => { safeNavigate('manageExams'); await loadExams(); });
         openPromptScreenEl?.addEventListener('click', async () => { safeNavigate('prompt'); await loadPrompt(); });
         backFromPromptEl?.addEventListener('click', () => safeNavigate('settings'));
+        openCreateDetailEl?.addEventListener('click', async () => { safeNavigate('createDetail'); await loadSubjects(); });
+        backToCreateLandingEl?.addEventListener('click', () => safeNavigate('create'));
 
         sidebarToggleEl?.addEventListener('click', toggleSidebar);
         toggleThemeEl?.addEventListener('click', toggleTheme);
@@ -672,11 +759,13 @@
         retryWrongButtonEl?.addEventListener('click', () => retryQuiz(true));
         submitButtonEl?.addEventListener('click', submitQuiz);
         generateAiButtonEl?.addEventListener('click', generateAiQuestions);
+        backHomeButtonEl?.addEventListener('click', () => safeNavigate('start'));
 
         insightSubjectSelectEl?.addEventListener('change', (e) => renderInsights(e.target.value));
 
         addOptionButtonEl?.addEventListener('click', () => addOptionRow());
         createFormEl?.addEventListener('submit', submitCreateQuestion);
+        bulkFormEl?.addEventListener('submit', submitBulkQuestions);
         addExamFormEl?.addEventListener('submit', submitExamForm);
 
         reloadExamsEl?.addEventListener('click', loadExams);

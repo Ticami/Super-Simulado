@@ -13,13 +13,14 @@ const EXAMS_DB_PATH = path.join(__dirname, 'exams.json');
 const PROMPT_PATH = path.join(__dirname, 'prompt.txt');
 const EXAMS_DATA_PATH = path.join(__dirname, 'exams-data');
 const SUBJECTS_PATH = path.join(__dirname, 'subjects');
+const CREATE_PASSWORD = process.env.CREATE_PASSWORD || '';
 // Mapeia variações de nível para um padrão (Não tenho ideia como ta funcionandoKKK).
 const LEVEL_NORMALIZE_MAP = {
     medio: 'medio',
     basico: 'basico',
     avancado: 'avancado'
 };
-const DELETE_PASSWORD = '1402';
+const DELETE_PASSWORD = process.env.DELETE_PASSWORD || '';
 
 // Middlewares e estáticos
 app.use(express.json({ limit: '5mb' }));
@@ -326,20 +327,25 @@ app.get('/api/questions/:subject', (req, res) => {
 // Criação de perguntas com anexos
 app.post('/api/questions', upload.array('attachments', 10), (req, res) => {
     try {
-        const { subject, question, answer, level = 'mÃ©dio' } = req.body;
+        const { subject, question, answer, level = 'medio' } = req.body;
+        const createPassword = req.body.createPassword || req.headers['x-create-secret'] || '';
+        const requiredPass = CREATE_PASSWORD || DELETE_PASSWORD;
+        if (requiredPass && createPassword !== requiredPass) {
+            return res.status(403).json({ message: 'Senha invalida.' });
+        }
         const options = ensureArray(req.body.options);
         const optionExplanations = ensureArray(req.body.optionExplanations);
 
         if (!subject || !question || !options.length) {
-            return res.status(400).json({ message: 'Subject, question e options sÃ£o obrigatÃ³rios.' });
+            return res.status(400).json({ message: 'Subject, question e options sao obrigatorios.' });
         }
         if (Number.isNaN(parseInt(answer, 10)) || parseInt(answer, 10) < 0 || parseInt(answer, 10) >= options.length) {
-            return res.status(400).json({ message: 'Answer invÃ¡lido.' });
+            return res.status(400).json({ message: 'Answer invalido.' });
         }
 
         const attachments = (req.files || []).map(file => ({
             originalName: file.originalname,
-            path: `/uploads/${file.filename}`
+            path: /uploads/
         }));
 
         const newQuestion = {
@@ -365,6 +371,34 @@ app.post('/api/questions', upload.array('attachments', 10), (req, res) => {
     }
 });
 
+// Criar perguntas em lote a partir do texto do prompt
+app.post('/api/questions/bulk', (req, res) => {
+    try {
+        const { rawText = '', subject: subjectInput, level = 'medio', password = '' } = req.body || {};
+        const requiredPass = CREATE_PASSWORD || DELETE_PASSWORD;
+        if (requiredPass && password !== requiredPass) {
+            return res.status(403).json({ message: 'Senha invalida.' });
+        }
+        if (!rawText.trim()) return res.status(400).json({ message: 'Cole as questoes no formato do prompt.' });
+        const parsed = parseTxtExam(rawText, subjectInput, level);
+        const finalSubject = parsed.subject || subjectInput;
+        const questions = Array.isArray(parsed.questions) ? parsed.questions : [];
+        if (!finalSubject) return res.status(400).json({ message: 'Informe a materia.' });
+        if (!questions.length) return res.status(400).json({ message: 'Nenhuma questao encontrada no texto enviado.' });
+
+        const database = readDatabase();
+        if (!database[finalSubject]) database[finalSubject] = [];
+        const sanitized = questions.map(q => ({ ...q, id: q.id || generateId() }));
+        database[finalSubject].push(...sanitized);
+        writeDatabase(database);
+        writeSubjectFile(finalSubject, database[finalSubject]);
+
+        res.json({ imported: sanitized.length, subject: finalSubject, level: parsed.level || level });
+    } catch (err) {
+        console.error(err);
+        res.status(500).json({ message: 'Erro ao salvar questoes.' });
+    }
+});
 // Mock de geração via "IA" (placeholder)
 app.post('/api/generate-questions', (req, res) => {
     try {
@@ -562,6 +596,10 @@ app.get('/api/export/:subject', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
+
+
+
+
 
 
 
