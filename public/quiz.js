@@ -355,6 +355,7 @@
             buildQuiz(currentQuizData);
             if (quizSubjectTitleEl) quizSubjectTitleEl.textContent = subject;
             showScreen('quiz');
+            if (submitButtonEl) submitButtonEl.style.display = 'inline-flex';
             startTimer(Math.max(1, desired) * 60);
             if (resultsContainerEl) resultsContainerEl.style.display = 'none';
         }

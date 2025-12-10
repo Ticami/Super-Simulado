@@ -1,0 +1,613 @@
+{
+  "subject": "Fisioterapia Cardiovascular e Metabólica",
+  "questions": [
+    {
+      "id": "q-1765330311853-22868",
+      "question": "Em relação à definição clínica da insuficiência respiratória aguda global (hipoxêmica e hipercápnica), quais critérios gasométricos clássicos a caracterizam?",
+      "theme": "Insuficiência Respiratória Aguda – critérios gasométricos",
+      "options": [
+        "PaO2 < 80 mmHg e PaCO2 < 35 mmHg",
+        "PaO2 < 60 mmHg e PaCO2 < 45 mmHg",
+        "PaO2 < 60 mmHg e PaCO2 > 50 mmHg",
+        "PaO2 > 80 mmHg e PaCO2 > 50 mmHg"
+      ],
+      "optionExplanations": [
+        "Representa hipoxemia leve com hipocapnia, não configura insuficiência respiratória aguda global.",
+        "Critérios compatíveis com insuficiência respiratória tipo I (hipoxêmica), sem hipercapnia.",
+        "Critérios clássicos de insuficiência respiratória aguda global (tipo II), com hipoxemia importante (PaO2 < 60 mmHg) e hipercapnia (PaCO2 > 50 mmHg).",
+        "PaO2 > 80 mmHg indica oxigenação adequada, apesar da hipercapnia, não caracterizando insuficiência respiratória aguda global."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-47392",
+      "question": "Qual é o mecanismo fisiopatológico mais comum responsável pelo Infarto Agudo do Miocárdio (IAM)?",
+      "theme": "Infarto Agudo do Miocárdio – fisiopatologia",
+      "options": [
+        "Espasmo coronariano isolado em artérias sem placa aterosclerótica",
+        "Embolia pulmonar com repercussão hemodinâmica sistêmica",
+        "Ruptura de placa aterosclerótica com formação de trombo oclusivo intracoronário",
+        "Dissecção aguda da aorta ascendente"
+      ],
+      "optionExplanations": [
+        "O espasmo coronariano pode causar isquemia ou angina variante, mas é causa menos comum de IAM típico.",
+        "Embolia pulmonar causa insuficiência ventricular direita aguda, não é mecanismo direto do IAM.",
+        "Principal mecanismo do IAM: ruptura/erosão de placa aterosclerótica com formação de trombo oclusivo na artéria coronária.",
+        "A dissecção de aorta é emergência cardiovascular, mas não é o mecanismo fisiopatológico clássico do IAM."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-94485",
+      "question": "Qual mecanismo fisiopatológico está diretamente relacionado à progressão da insuficiência cardíaca congestiva (ICC) a longo prazo?",
+      "theme": "Insuficiência Cardíaca Congestiva – remodelamento ventricular",
+      "options": [
+        "Redução compensatória da volemia por inibição do sistema renina-angiotensina-aldosterona (SRAA)",
+        "Hipertrofia miocárdica e remodelamento ventricular estimulados por ativação neuro-hormonal crônica (SNA simpático e SRAA)",
+        "Diminuição da resistência vascular sistêmica mediada por vasodilatação generalizada",
+        "Bloqueio completo dos receptores beta-adrenérgicos cardíacos"
+      ],
+      "optionExplanations": [
+        "Na ICC ocorre aumento, e não inibição, da atividade do SRAA, levando à retenção de sódio e água.",
+        "A ativação crônica do sistema nervoso simpático e do SRAA leva à hipertrofia, fibrose e remodelamento ventricular, perpetuando e piorando a insuficiência cardíaca.",
+        "Na ICC predomina vasoconstrição periférica, aumentando a pós-carga; vasodilatação generalizada seria efeito de alguns tratamentos, não do mecanismo da doença.",
+        "O bloqueio beta-adrenérgico é estratégia terapêutica protetora, não mecanismo de progressão da doença."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-87835",
+      "question": "Qual das alternativas representa uma estratégia terapêutica que visa reduzir a sobrecarga de volume na insuficiência cardíaca congestiva descompensada?",
+      "theme": "Insuficiência Cardíaca Congestiva – manejo da congestão",
+      "options": [
+        "Infusão rápida de grandes volumes de solução salina isotônica",
+        "Restrição hídrica e uso de diuréticos de alça",
+        "Administração de vasoconstritores para elevar a pós-carga",
+        "Aumento da ingestão de sódio na dieta"
+      ],
+      "optionExplanations": [
+        "A infusão rápida de volume agrava a congestão, piorando edema e dispneia na ICC.",
+        "Diuréticos de alça (como furosemida) associados à restrição hídrica reduzem a volemia e a congestão, sendo padrão no tratamento da ICC descompensada.",
+        "Vasoconstritores aumentam a pós-carga e tendem a agravar o trabalho cardíaco na ICC.",
+        "Maior ingestão de sódio leva à retenção hídrica, piorando a congestão."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-66718",
+      "question": "Sobre a insuficiência cardíaca congestiva (ICC), analise as afirmações:",
+      "theme": "Insuficiência Cardíaca Congestiva – fisiopatologia e congestão",
+      "options": [
+        "Apenas I e II",
+        "Apenas I, II e III",
+        "Apenas II, III e IV",
+        "I, II, III e IV"
+      ],
+      "optionExplanations": [
+        "Incompleta, pois ignora afirmações III e IV, que são verdadeiras.",
+        "Também desconsidera a afirmação IV, que descreve corretamente o aumento da RPT por SNA simpático e SRAA.",
+        "Desconsidera a afirmação I, que descreve adequadamente a congestão na ICC.",
+        "Todas as afirmações refletem corretamente a fisiopatologia da ICC: congestão por aumento de volemia e incapacidade de bomba, ativação do SRAA, progressão da ICC esquerda para direita via hipertensão pulmonar e aumento da RPT por vasoconstrição neuro-hormonal."
+      ],
+      "answer": 3,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-95315",
+      "question": "Quanto à toxicidade do oxigênio, analise:",
+      "theme": "Oxigenoterapia – toxicidade do O2",
+      "options": [
+        "Apenas I",
+        "Apenas II",
+        "Apenas I e II",
+        "I, II e III"
+      ],
+      "optionExplanations": [
+        "Falsa: o aumento da FiO2 e do tempo de exposição aumenta o risco de lesão pulmonar por hiperóxia.",
+        "Verdadeira: altas frações inspiradas de O2 por tempo prolongado podem gerar atelectasia por absorção (atelectasia de reabsorção), além de lesão por radicais livres.",
+        "Inclui a afirmação I, que é incorreta.",
+        "Inclui afirmações I e III, ambas opostas ao conhecimento atual sobre toxicidade do oxigênio."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-75569",
+      "question": "Sobre a insuficiência respiratória do tipo II (hipercápnica), analise:",
+      "theme": "Insuficiência Respiratória Tipo II – definição",
+      "options": [
+        "Apenas I e II",
+        "Apenas II e III",
+        "Apenas I, II e III",
+        "I, II, III e IV"
+      ],
+      "optionExplanations": [
+        "Incompleta, desconsidera critérios objetivos de PaCO2 e o papel da falência da bomba ventilatória.",
+        "Ignora a definição formal (I) e o conceito de falência ventilatória (IV).",
+        "Não inclui IV, que é fundamental para caracterizar a insuficiência respiratória hipercápnica.",
+        "Todas as afirmações estão corretas: IR tipo II é hipercápnica (PaCO2 > 50 mmHg) com hipoxemia associada, decorrente de hipoventilação/falência da bomba ventilatória."
+      ],
+      "answer": 3,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-17355",
+      "question": "Qual marcador laboratorial é o mais sensível e específico para o diagnóstico precoce de Infarto Agudo do Miocárdio (IAM)?",
+      "theme": "Infarto Agudo do Miocárdio – marcadores",
+      "options": [
+        "CK total",
+        "CK-MB",
+        "Troponinas cardíacas (TnI/TnT)",
+        "Mioglobina sérica"
+      ],
+      "optionExplanations": [
+        "CK total é pouco específica, pois aumenta em diversas lesões musculares não cardíacas.",
+        "CK-MB é mais específica que CK total, mas menos que troponinas e pode se elevar em outras miopatias.",
+        "Troponinas cardíacas (TnI e TnT) são atualmente os marcadores mais sensíveis e específicos para o diagnóstico de IAM, especialmente nas primeiras horas quando utilizadas em ensaios de alta sensibilidade.",
+        "A mioglobina sobe precocemente, mas é pouco específica para lesão do miocárdio."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-65762",
+      "question": "Em pacientes com Doença Pulmonar Obstrutiva Crônica (DPOC) em risco de hipercapnia, qual cuidado é essencial ao administrar oxigenoterapia?",
+      "theme": "DPOC – oxigenoterapia segura",
+      "options": [
+        "Manter saturação de O2 sempre acima de 98% para garantir a melhor oxigenação possível",
+        "Evitar completamente o uso de oxigênio suplementar para não aumentar a PaCO2",
+        "Monitorar a saturação e manter SpO2 entre aproximadamente 88% e 92%",
+        "Utilizar FiO2 100% contínua até normalizar totalmente a gasometria arterial"
+      ],
+      "optionExplanations": [
+        "Saturações muito altas em DPOC com retenção crônica de CO2 aumentam o risco de hipoventilação e agravo da hipercapnia.",
+        "A hipoxemia deve ser corrigida; o oxigênio é indicado, porém com alvo e monitorização adequados.",
+        "Recomenda-se em muitos protocolos manter SpO2 em torno de 88–92%, equilibrando correção da hipoxemia e risco de hipercapnia em pacientes com DPOC grave.",
+        "FiO2 100% contínua é desnecessária e aumenta riscos de toxicidade e hipercapnia."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-35969",
+      "question": "Sobre possíveis sequelas e complicações após um Infarto Agudo do Miocárdio (IAM), analise:",
+      "theme": "Infarto Agudo do Miocárdio – complicações",
+      "options": [
+        "Apenas I e II",
+        "Apenas I, II e III",
+        "Apenas II, III e IV",
+        "I, II, III e IV"
+      ],
+      "optionExplanations": [
+        "Incompleta, pois desconsidera a ICC como complicação frequente (III).",
+        "Correta: IAM pode cursar com complicações neurológicas (hipóxia/AVE), remodelamento ventricular com aumento da área lesada e ICC aguda/progressiva.",
+        "Inclui IV, que é equivocada; TEP pode ocorrer por imobilização e trombose venosa, mas não é sequela direta típica do IAM.",
+        "Torna obrigatório o TEP como sequela direta, o que não corresponde à prática clínica."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-11651",
+      "question": "A Escala de Borg (6–20 ou 0–10) é utilizada na fisioterapia motora e cardiovascular principalmente para:",
+      "theme": "Reabilitação Cardiovascular – Escala de Borg",
+      "options": [
+        "Medir diretamente o consumo de oxigênio durante o exercício",
+        "Classificar a gravidade da insuficiência cardíaca segundo a NYHA",
+        "Quantificar a percepção subjetiva de esforço do paciente durante o exercício",
+        "Determinar a intensidade da dor em repouso"
+      ],
+      "optionExplanations": [
+        "O consumo de O2 é estimado indiretamente; a Borg avalia sensação de esforço, não VO2 diretamente.",
+        "A classificação NYHA baseia-se em sintomas e limitação funcional, não utiliza a Borg diretamente.",
+        "A Escala de Borg quantifica a percepção subjetiva de esforço (fadiga, dispneia) referida pelo paciente durante atividade física, auxiliando na prescrição e monitorização do exercício.",
+        "A dor é, em geral, avaliada por escalas específicas (VAS, escala numérica), não pela Borg clássica de esforço."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-2442",
+      "question": "Após o nascimento, o fechamento funcional do forame oval ocorre principalmente em decorrência de:",
+      "theme": "Fisiologia Cardíaca – circulação fetal e transição neonatal",
+      "options": [
+        "Redução da pressão no átrio esquerdo e aumento da pressão no átrio direito",
+        "Aumento da pressão no átrio esquerdo após expansão pulmonar e queda da resistência vascular pulmonar",
+        "Aumento da resistência vascular pulmonar e sobrecarga do ventrículo direito",
+        "Fechamento imediato do ducto arterioso por contração do músculo liso"
+      ],
+      "optionExplanations": [
+        "Ocorre o inverso: a pressão no átrio esquerdo se eleva, favorecendo o fechamento do forame oval.",
+        "Com a expansão pulmonar e queda da resistência pulmonar, aumenta o retorno venoso pulmonar ao átrio esquerdo, elevando sua pressão e promovendo o fechamento funcional do forame oval.",
+        "A resistência vascular pulmonar diminui, não aumenta, na transição neonatal normal.",
+        "O ducto arterioso tem fechamento funcional e anatômico em tempos distintos e não é o principal mecanismo de fechamento do forame oval."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-83940",
+      "question": "Um paciente com insuficiência cardíaca apresenta ortopneia e estertores crepitantes (ESC) à ausculta pulmonar. Qual é o mecanismo fisiopatológico mais provável?",
+      "theme": "Insuficiência Cardíaca Esquerda – congestão pulmonar",
+      "options": [
+        "Broncoespasmo com aumento da resistência das vias aéreas",
+        "Acúmulo de líquido nos alvéolos por congestão pulmonar secundária à insuficiência cardíaca esquerda",
+        "Pneumotórax hipertensivo com colapso pulmonar",
+        "Embolia pulmonar maciça com infarto pulmonar"
+      ],
+      "optionExplanations": [
+        "Broncoespasmo tende a produzir sibilos expiratorios, não estertores crepitantes basais.",
+        "Na ICC esquerda, o aumento da pressão capilar pulmonar leva à extravasão de líquido para o interstício e alvéolos, gerando estertores crepitantes e sintomas como ortopneia.",
+        "Pneumotórax hipertensivo causa ausência de murmúrio vesicular e sinais de desvio de traqueia, não um padrão típico de crepitações difusas.",
+        "A embolia pulmonar pode causar dispneia e dor torácica pleurítica, mas o achado típico não é de estertores crepitantes difusos de congestão."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-51441",
+      "question": "Qual complicação pode ocorrer com o uso prolongado de via aérea artificial (tubo orotraqueal ou traqueostomia) e ventilação mecânica?",
+      "theme": "Via Aérea Artificial – complicações",
+      "options": [
+        "Melhora progressiva da função de deglutição",
+        "Redução permanente da resistência das vias aéreas superiores",
+        "Lesão de pregas vocais e estenose laringotraqueal",
+        "Prevenção completa de pneumonia aspirativa"
+      ],
+      "optionExplanations": [
+        "O uso prolongado de tubo pode, ao contrário, prejudicar deglutição e proteção de vias aéreas.",
+        "Não há redução permanente da resistência; podem ocorrer estenoses que, inclusive, aumentam a resistência ao fluxo aéreo.",
+        "Pressão do cuff, atrito do tubo e tempo de intubação podem causar lesão de pregas vocais, granulomas e estenose laringotraqueal, complicações clássicas de via aérea artificial prolongada.",
+        "A presença de tubo não impede totalmente aspiração; a pneumonia associada à ventilação mecânica é complicação frequente."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311854-11152",
+      "question": "Qual componente do eletrocardiograma (ECG) representa a despolarização ventricular?",
+      "theme": "Eletrocardiograma – complexos e ondas",
+      "options": [
+        "Onda P",
+        "Segmento ST",
+        "Complexo QRS",
+        "Onda T"
+      ],
+      "optionExplanations": [
+        "A onda P representa a despolarização atrial.",
+        "O segmento ST representa o período em que os ventrículos estão completamente despolarizados, antes do início da repolarização.",
+        "O complexo QRS representa a despolarização dos ventrículos, responsável pelo início da sístole ventricular.",
+        "A onda T está relacionada à repolarização ventricular."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-11635",
+      "question": "Qual fator aumenta significativamente o risco de lesão laríngea durante o período de ventilação mecânica invasiva?",
+      "theme": "Ventilação Mecânica – lesão laríngea",
+      "options": [
+        "Utilização de cânula de calibre adequado",
+        "Manutenção da cabeça em posição neutra",
+        "Movimentação da cânula de intubação com o cuff insuflado",
+        "Monitorização frequente da pressão do cuff"
+      ],
+      "optionExplanations": [
+        "Um calibre adequado reduz o risco de trauma, não o aumenta.",
+        "Posição neutra tende a estabilizar o tubo e proteger estruturas.",
+        "Movimentar o tubo com o cuff insuflado aumenta o atrito e a compressão sobre a mucosa laríngea e traqueal, favorecendo lesões e estenose.",
+        "Monitorar a pressão do cuff é uma medida de segurança para evitar lesão de mucosa por hiperinsuflação."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-37628",
+      "question": "Qual das alternativas abaixo representa uma contraindicação relativa/precaução importante à prática de exercícios em pacientes com insuficiência cardíaca (ICC) em programa de reabilitação?",
+      "theme": "Reabilitação Cardiovascular na ICC – contraindicações",
+      "options": [
+        "Pressão arterial controlada e estável",
+        "Classe funcional I (NYHA)",
+        "Arritmias ventriculares graves ou não controladas",
+        "Idade superior a 65 anos, isoladamente"
+      ],
+      "optionExplanations": [
+        "PA controlada é condição desejável para liberar o exercício.",
+        "Classe funcional I indica poucos sintomas e tende a permitir reabilitação com menos restrições.",
+        "Arritmias ventriculares graves/não controladas aumentam o risco de eventos súbitos durante o exercício, sendo contraindicação importante até estabilização.",
+        "A idade, isoladamente, não é contraindicação, desde que o paciente esteja adequadamente avaliado e monitorizado."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-45078",
+      "question": "Qual conduta respiratória é mais indicada na fase hospitalar (fase I) para pacientes com ICC que apresentem congestão pulmonar importante, ortopneia, cianose, taquipneia e hipoxemia?",
+      "theme": "ICC Aguda – condutas ventilatórias na fase I",
+      "options": [
+        "Incentivo respiratório de fluxo em decúbito dorsal horizontal",
+        "Exercícios aeróbios de alta intensidade em esteira",
+        "Ventilação não invasiva com pressão positiva (por exemplo, BiPAP) associada a posicionamento sentado ou semi-Fowler",
+        "Restrição absoluta ao leito sem intervenção fisioterapêutica respiratória"
+      ],
+      "optionExplanations": [
+        "Decúbito horizontal costuma piorar a dispneia e a congestão em ICC.",
+        "Exercícios intensos são inadequados no cenário de descompensação aguda e hipoxemia.",
+        "A VNI (CPAP/BiPAP) melhora a oxigenação, reduz a pós-carga e o trabalho respiratório, sendo amplamente recomendada em edema agudo de pulmão cardiogênico.",
+        "A ausência de intervenção ventilatória adequada pode agravar o quadro."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-43650",
+      "question": "Quanto às diferenças entre as vias aéreas do adulto e da criança, considere:",
+      "theme": "Pediatria – anatomia e fisiologia das vias aéreas",
+      "options": [
+        "Apenas I e II",
+        "Apenas I, II e III",
+        "Apenas II, III e IV",
+        "I, II, III e IV"
+      ],
+      "optionExplanations": [
+        "Incompleta, pois exclui informações corretas sobre desenvolvimento alveolar e colapso.",
+        "Desconsidera IV, que descreve adequadamente a maior tendência ao colapso alveolar em crianças.",
+        "Ignora I, que descreve corretamente a menor luz das vias aéreas e suporte cartilaginoso reduzido.",
+        "Todas as afirmações são compatíveis com a fisiologia pediátrica: estudos mostram que o número de alvéolos aumenta de cerca de 20–50 milhões ao nascimento para ~280–300 milhões por volta dos 8 anos, com vias aéreas menores e maior suscetibilidade ao colapso."
+      ],
+      "answer": 3,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-55383",
+      "question": "Sobre a pressão venosa central (PVC), assinale a alternativa correta:",
+      "theme": "Monitorização Hemodinâmica – pressão venosa central",
+      "options": [
+        "Reflete diretamente a pós-carga do ventrículo esquerdo",
+        "Reflete a pressão do átrio direito e é usada como estimativa da pré-carga do ventrículo direito",
+        "Corresponde à pressão arterial média medida na artéria radial",
+        "Não possui qualquer relação com o retorno venoso"
+      ],
+      "optionExplanations": [
+        "A pós-carga do ventrículo esquerdo está mais ligada à pressão arterial sistêmica e resistência vascular sistêmica, não à PVC.",
+        "A PVC é medida na veia cava próxima ao átrio direito e é considerada uma estimativa da pressão do átrio direito e da pré-carga do ventrículo direito.",
+        "PVC e PAM são parâmetros distintos, obtidos em compartimentos diferentes (venoso central x arterial).",
+        "A PVC está diretamente relacionada ao retorno venoso e ao estado de volemia, embora seja um marcador imperfeito."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-86515",
+      "question": "Qual é a principal justificativa para controlar e manter em níveis seguros a pressão do cuff em uma via aérea artificial (tubo orotraqueal ou traqueostomia)?",
+      "theme": "Via Aérea Artificial – pressão do cuff",
+      "options": [
+        "Garantir que o tubo permaneça completamente imóvel, independentemente do movimento do paciente",
+        "Evitar isquemia e lesão da mucosa traqueal, prevenindo estenose e formação de fístulas",
+        "Aumentar ao máximo o volume corrente entregue pelo ventilador",
+        "Facilitar a passagem de sonda nasogástrica pelo mesmo lúmen do tubo"
+      ],
+      "optionExplanations": [
+        "Imobilidade absoluta não é o objetivo, e a hiperinsuflação do cuff para imobilizar o tubo é prejudicial.",
+        "Pressões elevadas no cuff comprimem a mucosa traqueal, levando à isquemia, necrose, estenose e até fístulas traqueoesofágicas; por isso a pressão deve ser monitorada e mantida dentro de faixa segura.",
+        "O volume corrente é ajustado no ventilador, não aumentando indiscriminadamente a pressão do cuff.",
+        "A sonda nasogástrica não utiliza o lúmen do tubo orotraqueal."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-67415",
+      "question": "Em um paciente em ventilação mecânica invasiva no modo Pressão Assisto/Controlada, quais parâmetros listados a seguir correspondem ao ajuste básico inicial no ventilador?",
+      "theme": "Ventilação Mecânica Invasiva – parâmetros básicos",
+      "options": [
+        "Volume corrente, temperatura corporal, pressão arterial média e FiO2",
+        "Pressão inspiratória alvo, frequência respiratória, PEEP e FiO2",
+        "Pressão intracraniana, PEEP, débito urinário e frequência cardíaca",
+        "Pressão inspiratória, tempo de protrombina, saturação venosa central e volume corrente"
+      ],
+      "optionExplanations": [
+        "Temperatura e PAM são parâmetros monitorizados, não diretamente ajustáveis no ventilador.",
+        "No modo pressão assisto/ controlada, definem-se a pressão inspiratória alvo (ou nível de pressão de controle), a frequência respiratória mínima, a PEEP e a FiO2 como parâmetros fundamentais de ajuste inicial.",
+        "Pressão intracraniana e débito urinário são monitorizações sistêmicas, não parâmetros de ventilador.",
+        "Tempo de protrombina não se relaciona diretamente com a configuração ventilatória."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-67964",
+      "question": "O Sr. Antônio Bueno Silva, 68 anos, com insuficiência cardíaca esquerda estável há 4 anos, hipertenso e diabético, encontra-se com insuficiência respiratória aguda, taquidispneico, uso de musculatura acessória, SatO2 87% em ar ambiente e estertores crepitantes (ESC) bilaterais em bases. Considere:",
+      "theme": "Insuficiência Respiratória Aguda em ICC – interpretação clínica",
+      "options": [
+        "Apenas I e II",
+        "Apenas II e III",
+        "Apenas I, II e III",
+        "Apenas II, III e IV"
+      ],
+      "optionExplanations": [
+        "Inclui I, que não é prioritária neste contexto de congestão aguda e hipoxemia importante.",
+        "Correta: BiPAP (VNI com dois níveis de pressão) é indicada em edema agudo de pulmão cardiogênico, e estertores crepitantes basais indicam congestão pulmonar, não broncoespasmo.",
+        "Inclui I, que pode ser útil em outras situações com secreção espessa, mas não é a prioridade terapêutica inicial nesse quadro.",
+        "A afirmação IV é incorreta, pois broncoespasmo se manifesta mais por sibilos do que por estertores crepitantes."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-78514",
+      "question": "Qual das alternativas representa um risco potencial da ventilação mecânica invasiva prolongada?",
+      "theme": "Ventilação Mecânica – complicações pulmonares",
+      "options": [
+        "Redução total do risco de pneumonia associada à ventilação",
+        "Lesão pulmonar induzida pelo ventilador (barotrauma/volutrauma)",
+        "Prevenção garantida de atelectasias e fibrose pulmonar",
+        "Melhora definitiva da complacência pulmonar após semanas de ventilação"
+      ],
+      "optionExplanations": [
+        "A VMI prolongada aumenta o risco de pneumonia associada à ventilação (PAV).",
+        "Volumes correntes elevados e pressões inspiratórias altas podem causar lesão pulmonar induzida pelo ventilador (VILI), incluindo barotrauma, volutrauma e atelectrauma.",
+        "A ventilação mecânica pode inclusive favorecer atelectasias se não ajustada adequadamente.",
+        "A complacência pulmonar pode até piorar em curso prolongado de doença crítica."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-71019",
+      "question": "Qual modo ventilatório permite que o paciente inicie todas as respirações e realize a fase inspiratória, recebendo suporte de pressão durante a inspiração?",
+      "theme": "Modos Ventilatórios – PSV",
+      "options": [
+        "Ventilação controlada a volume (VCV)",
+        "Ventilação controlada a pressão (PCV)",
+        "Ventilação com pressão de suporte (PSV)",
+        "Ventilação mandatória intermitente sincronizada (SIMV) sem suporte de pressão"
+      ],
+      "optionExplanations": [
+        "Em VCV, o ventilador comanda o volume, e nem todas as respirações são necessariamente disparadas pelo paciente.",
+        "Em PCV, o ventilador define a pressão e a frequência; não é um modo puramente assistencial.",
+        "No modo PSV, todas as incursões são disparadas pelo paciente, que determina o tempo inspiratório; o ventilador fornece apenas um nível de pressão de suporte.",
+        "Na SIMV sem suporte, apenas parte das respirações podem ser espontâneas, sem necessariamente receber pressão de suporte."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-19767",
+      "question": "Na ventilação mecânica, a “triggagem” (disparo) do ventilador controlado pelo paciente está relacionada principalmente a:",
+      "theme": "Ventilação Mecânica – disparo/trigger",
+      "options": [
+        "Variação de temperatura na via aérea",
+        "Atividade elétrica do diafragma e/ou variação de pressão/fluxo gerada pelo esforço inspiratório",
+        "Alteração da saturação periférica de oxigênio",
+        "Variação da pressão arterial sistólica"
+      ],
+      "optionExplanations": [
+        "Temperatura da via aérea não é usada como trigger nos ventiladores clínicos.",
+        "O trigger pode ser sensível a fluxo, pressão ou, em alguns modos, à atividade elétrica do diafragma (NAVA), todos ligados ao esforço inspiratório do paciente.",
+        "Saturação de O2 é dada pela oximetria e não controla diretamente o disparo do ventilador.",
+        "Alterações da PA sistólica não atuam como sinal de trigger ventilatório."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-82097",
+      "question": "Em relação à reabilitação cardiovascular na insuficiência cardíaca, qual é o principal benefício da atividade física supervisionada?",
+      "theme": "Reabilitação Cardiovascular – benefícios do exercício",
+      "options": [
+        "Reduzir o débito cardíaco para poupar o miocárdio",
+        "Melhorar apenas a força de membros superiores, sem impacto cardiorrespiratório",
+        "Melhorar a tolerância ao esforço e a capacidade funcional global",
+        "Provocar taquicardia crônica para compensar o baixo débito cardíaco"
+      ],
+      "optionExplanations": [
+        "O objetivo é aumentar a capacidade funcional, não reduzir permanentemente o débito cardíaco.",
+        "O treinamento supervisionado promove adaptações centrais e periféricas, melhorando capacidade aeróbia global.",
+        "Principal benefício documentado é a melhora da tolerância ao esforço, da capacidade funcional e da qualidade de vida em pacientes com ICC.",
+        "A taquicardia crônica é deletéria e não é objetivo do treinamento."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-84926",
+      "question": "Sobre oxigenoterapia, considere:",
+      "theme": "Oxigenoterapia – indicações e efeitos deletérios",
+      "options": [
+        "I e II",
+        "I e III",
+        "I, II e III",
+        "I, II, III e IV"
+      ],
+      "optionExplanations": [
+        "Desconsidera a importante afirmação III sobre efeitos tóxicos do O2.",
+        "Ignora II, que diferencia resposta do espaço morto alveolar.",
+        "I é compatível com critérios usuais de hipoxemia; II reflete que shunt e espaço morto podem não responder bem à O2, sendo o espaço morto alveolar pouco corrigido; III descreve corretamente efeitos deletérios de hiperóxia, incluindo atelectasia de absorção e dano por radicais livres.",
+        "IV é incorreta: cateter nasal simples é classicamente sistema de baixo fluxo, e nebulizador não é categorizado como sistema de baixo fluxo de oxigênio da forma descrita na alternativa."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-3782",
+      "question": "Qual é a principal função da PEEP (pressão positiva ao final da expiração) na ventilação mecânica invasiva?",
+      "theme": "Ventilação Mecânica – função da PEEP",
+      "options": [
+        "Promover broncodilatação direta sobre a musculatura lisa dos brônquios",
+        "Manter os alvéolos recrutados ao final da expiração, aumentando a capacidade residual funcional e melhorando a oxigenação",
+        "Reduzir a pressão intratorácica para aumentar o retorno venoso",
+        "Diminuir o risco de pneumotórax reduzindo a pressão alveolar"
+      ],
+      "optionExplanations": [
+        "A PEEP não atua diretamente como broncodilatador; sua ação é mecânica sobre o volume pulmonar e alvéolos.",
+        "A PEEP mantém pressão positiva ao final da expiração, evitando colapso alveolar, aumentando a capacidade residual funcional e melhorando a relação V/Q e a oxigenação.",
+        "A PEEP aumenta a pressão intratorácica e pode, inclusive, reduzir o retorno venoso em níveis elevados.",
+        "Níveis excessivos de PEEP podem aumentar, e não reduzir, o risco de barotrauma."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-70741",
+      "question": "Na ventilação mecânica, a fase expiratória do ciclo ventilatório depende principalmente da:",
+      "theme": "Mecânica Respiratória – fase expiratória",
+      "options": [
+        "Contração ativa da musculatura acessória inspiratória",
+        "Retração elástica pulmonar e da caixa torácica",
+        "Abertura da glote durante a deglutição",
+        "Aumento da pressão intra-abdominal por contração diafragmática"
+      ],
+      "optionExplanations": [
+        "A musculatura acessória inspiratória atua na inspiração, não na expiração passiva.",
+        "Em condições passivas, a expiração ocorre pela retração elástica do pulmão e da parede torácica, que “empurram” o ar para fora.",
+        "A deglutição é um ato separado do ciclo ventilatório.",
+        "A contração diafragmática é fundamental na inspiração, não na expiração passiva."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-87430",
+      "question": "Qual parâmetro é mais utilizado para classificar a gravidade da insuficiência cardíaca segundo a classificação da NYHA?",
+      "theme": "Insuficiência Cardíaca – classificação NYHA",
+      "options": [
+        "Nível sérico de BNP exclusivamente",
+        "Diâmetro sistólico final do ventrículo esquerdo ao ecocardiograma",
+        "Capacidade funcional e sintomas desencadeados pelo esforço",
+        "Presença de isquemia miocárdica ao teste ergométrico"
+      ],
+      "optionExplanations": [
+        "O BNP auxilia no diagnóstico e prognóstico, mas a NYHA é clínica e baseada em sintomas.",
+        "Embora útil, o diâmetro ventricular não é critério direto da NYHA.",
+        "A NYHA classifica o paciente em I–IV de acordo com sintomas (dispneia, fadiga) e limitação funcional frente ao esforço habitual.",
+        "Isquemia ao teste ergométrico não é critério direto da classificação NYHA."
+      ],
+      "answer": 2,
+      "level": "avancado"
+    },
+    {
+      "id": "q-1765330311855-9971",
+      "question": "Após estabilização gasométrica, qual é a melhor conduta fisioterapêutica respiratória para o paciente Antônio Bueno Silva (68 anos, ICC esquerda, congestão pulmonar com estertores crepitantes em bases, taquidispneia, SatO2 87% em ar ambiente)?",
+      "theme": "Fisioterapia Respiratória em ICC – técnicas de fluxo",
+      "options": [
+        "Técnicas de fluxo rápido com vibração manual vigorosa e posicionamento em Trendelemburg",
+        "Técnicas de variação de fluxo de padrão lento (como AFE/ELTGOL adaptadas) associadas ao posicionamento com cabeceira elevada a 45°",
+        "Decúbito dorsal plano, repouso absoluto e suspensão de qualquer técnica respiratória",
+        "Incentivo espirométrico de alta intensidade com volumes máximos desde o início"
+      ],
+      "optionExplanations": [
+        "Fluxo rápido em Trendelemburg aumenta retorno venoso e congestão, podendo piorar a ICC e a dispneia.",
+        "Técnicas de fluxo lento favorecem mobilização de secreções com menor impacto hemodinâmico, e o posicionamento com cabeceira a 45° melhora a mecânica respiratória e reduz retorno venoso ao tórax, beneficiando o paciente com ICC e congestão pulmonar.",
+        "O repouso absoluto sem intervenção respiratória não melhora a ventilação nem a clearance de secreções.",
+        "Volumes máximos intensos podem aumentar muito o esforço e a pressão intratorácica, sendo inadequados na fase inicial deste quadro."
+      ],
+      "answer": 1,
+      "level": "avancado"
+    }
+  ]
+}
